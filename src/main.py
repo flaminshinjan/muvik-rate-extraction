@@ -1,7 +1,7 @@
 import asyncio
 import os
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from loguru import logger
 from dotenv import load_dotenv
 
@@ -9,65 +9,82 @@ from dotenv import load_dotenv
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from src.carriers.maersk import MaerskCarrier
-from src.models.booking import BookingDetails, Location, InlandTransport, Container
+from src.models.booking import (
+    BookingDetails, Location, Container, 
+    InlandTransport
+)
 
 async def main():
-    # Sample booking details
-    booking = BookingDetails(
-        origin=Location(
-            city="Mumbai",
-            country="India",
-            is_port=True
-        ),
-        destination=Location(
-            city="Rotterdam",
-            country="Netherlands",
-            is_port=True
-        ),
-        origin_transport=InlandTransport(
-            type="CY",
-            is_pickup=False
-        ),
-        destination_transport=InlandTransport(
-            type="CY",
-            is_pickup=False
-        ),
-        commodity="Electronics",
-        requires_temperature_control=False,
-        is_dangerous_cargo=False,
-        containers=[
-            Container(
-                type="Standard",
-                size="40",
-                quantity=1,
-                weight_kg=1000
-            )
-        ],
-        ready_date=datetime.now(),
-        is_price_owner=True
-    )
-    
+    """Main function to test Maersk automation"""
     try:
+        # Configure logging
+        logger.add("logs/automation.log", rotation="10 MB")
+        
+        # Create sample booking details
+        booking = BookingDetails(
+            origin=Location(
+                city="New York",
+                country="USA",
+                is_port=True
+            ),
+            destination=Location(
+                city="Hamburg", 
+                country="Germany",
+                is_port=True
+            ),
+            origin_transport=InlandTransport(
+                type="SD",  # Store Door
+                is_pickup=True
+            ),
+            destination_transport=InlandTransport(
+                type="SD",  # Store Door
+                is_pickup=False
+            ),
+            containers=[
+                Container(
+                    type="DRY",
+                    size="20",
+                    quantity=1,
+                    weight_kg=15000
+                )
+            ],
+            commodity="Electronics",
+            ready_date=datetime.now() + timedelta(days=7),
+            requires_temperature_control=False,
+            is_dangerous_cargo=False,
+            is_price_owner=True
+        )
+        
+        # Initialize carrier
+        logger.info("Initializing Maersk carrier...")
         carrier = MaerskCarrier()
+        
+        # Start automation
+        logger.info("Starting browser automation...")
         await carrier.init_browser(headless=False)
         
-        # Login to portal
+        # Login
+        logger.info("Attempting login...")
         await carrier.login()
         
-        # Navigate to booking page
-        await carrier.navigate_to_booking()
+        logger.info("Login completed successfully!")
         
-        # Fill booking form
-        await carrier.fill_booking_form(booking)
+        # Temporarily comment out booking steps to test login
+        # await carrier.navigate_to_booking()
+        # await carrier.fill_booking_form(booking)
         
-        # Wait for user to verify
-        input("Press Enter to close the browser...")
+        # Keep browser open for inspection
+        logger.info("Keeping browser open for inspection. Press Ctrl+C to close.")
+        await asyncio.sleep(30)  # Keep browser open for 30 seconds
+        
+        # Close browser
+        await carrier.close()
+        
+        logger.info("Automation completed successfully!")
         
     except Exception as e:
         logger.error(f"Error during automation: {str(e)}")
         raise
-    finally:
-        await carrier.close()
 
 if __name__ == "__main__":
     load_dotenv()
