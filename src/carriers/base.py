@@ -15,8 +15,13 @@ class BaseCarrier(ABC):
     async def init_browser(self, headless: bool = False):
         """Initialize the browser instance"""
         playwright = await async_playwright().start()
-        self.browser = await playwright.chromium.launch(headless=headless)
-        self.page = await self.browser.new_page()
+        self.browser = await playwright.chromium.launch(
+            headless=headless,
+            args=['--start-maximized']
+        )
+        self.page = await self.browser.new_page(
+            viewport={'width': 1920, 'height': 1080}
+        )
         
     async def close(self):
         """Close browser and cleanup"""
@@ -32,6 +37,16 @@ class BaseCarrier(ABC):
         """Wait for element and fill"""
         await self.page.wait_for_selector(selector, timeout=timeout)
         await self.page.fill(selector, value)
+        
+    async def wait_for_navigation(self, timeout: int = 30000):
+        """Wait for navigation to complete"""
+        await self.page.wait_for_load_state('networkidle', timeout=timeout)
+        
+    async def wait_for_element_state(self, selector: str, state: str = 'visible', timeout: int = 5000):
+        """Wait for element to reach a specific state"""
+        element = await self.page.wait_for_selector(selector, timeout=timeout)
+        await element.wait_for_element_state(state, timeout=timeout)
+        return element
     
     @abstractmethod
     async def login(self):
