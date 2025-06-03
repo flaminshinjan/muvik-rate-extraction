@@ -1,0 +1,61 @@
+2025-06-03 12:37:24.437 | INFO     | __main__:test_chromium_login:24 - ============================================================
+2025-06-03 12:37:24.437 | INFO     | __main__:test_chromium_login:25 - 🔧 TESTING ENHANCED CHROMIUM LOGIN
+2025-06-03 12:37:24.437 | INFO     | __main__:test_chromium_login:26 - ============================================================
+2025-06-03 12:37:24.438 | INFO     | __main__:test_chromium_login:29 - Initializing Maersk carrier with enhanced Chromium settings...
+2025-06-03 12:37:24.438 | INFO     | __main__:test_chromium_login:33 - Starting browser with enhanced compatibility settings...
+2025-06-03 12:37:25.548 | INFO     | __main__:test_chromium_login:37 - Testing authentication and page navigation...
+2025-06-03 12:37:25.549 | INFO     | __main__:test_chromium_login:40 - Navigating to Maersk login page...
+2025-06-03 12:37:32.913 | INFO     | src.carriers.maersk:wait_for_page_ready:137 - Page ready indicator found: body
+2025-06-03 12:37:32.913 | INFO     | __main__:test_chromium_login:45 - Page ready status: True
+2025-06-03 12:37:39.916 | INFO     | __main__:test_chromium_login:49 - Authentication errors detected and handled: False
+2025-06-03 12:37:39.917 | INFO     | __main__:test_chromium_login:52 - Testing enhanced cookie acceptance...
+2025-06-03 12:37:39.917 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:37:39.945 | INFO     | src.carriers.maersk:accept_cookies:37 - Found cookie dialog with selector: text="Cookie management for the best digital experience"
+2025-06-03 12:37:40.034 | INFO     | src.carriers.maersk:accept_cookies:58 - Successfully accepted cookies using: button:has-text("Allow all")
+2025-06-03 12:37:42.135 | INFO     | __main__:test_chromium_login:62 - Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=VTUEtoTRC7ZRmF0xzhvx&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=SqeEWefjWLslwP8H_IDesHOkp7TTt_jZXmnLh9GnuvI
+2025-06-03 12:37:42.135 | INFO     | __main__:test_chromium_login:63 - Page title: Maersk Global Accounts
+2025-06-03 12:37:42.161 | WARNING  | __main__:test_chromium_login:71 - ⚠️ Authentication errors still present in page content
+2025-06-03 12:37:42.161 | INFO     | __main__:test_chromium_login:76 - Starting enhanced manual login test...
+2025-06-03 12:37:42.161 | INFO     | src.carriers.maersk:manual_login:599 - Navigating to Maersk booking page...
+2025-06-03 12:37:47.373 | INFO     | src.carriers.maersk:wait_for_page_ready:137 - Page ready indicator found: body
+2025-06-03 12:37:54.379 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:38:21.390 | INFO     | src.carriers.maersk:accept_cookies:66 - No cookie dialog found - cookies may already be accepted
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:618 - Current URL after navigation: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=ujVTU1pGknXUYMSekWRA&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=_kFCPs_HAyACx3CBenwx8R2Ul18IG3dSb3DYQl6kzkg
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:621 - Redirected to accounts.maersk.com login page
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:624 - ============================================================
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:625 - 🔐 LOGIN PAGE DETECTED
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:626 - ============================================================
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:627 - You are on the Maersk login page.
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:628 - Please complete the following steps:
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:629 - 1. Enter your username and password
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:630 - 2. Handle any 2FA or additional verification
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:631 - 3. Wait for successful authentication and redirect
+2025-06-03 12:38:21.477 | INFO     | src.carriers.maersk:manual_login:632 - 4. Press ENTER in this terminal when you reach the booking page...
+2025-06-03 12:38:21.478 | INFO     | src.carriers.maersk:manual_login:633 - ============================================================
+2025-06-03 12:39:10.634 | INFO     | src.carriers.maersk:manual_login:646 - Current URL after login attempt: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=ujVTU1pGknXUYMSekWRA&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=_kFCPs_HAyACx3CBenwx8R2Ul18IG3dSb3DYQl6kzkg
+2025-06-03 12:39:17.646 | WARNING  | src.carriers.maersk:manual_login:658 - Still on login page. Please ensure login is complete.
+2025-06-03 12:39:59.287 | INFO     | src.carriers.maersk:manual_login:646 - Current URL after login attempt: https://www.maersk.com/book/
+2025-06-03 12:39:59.289 | INFO     | src.carriers.maersk:manual_login:650 - ✅ Page change detected - login appears successful!
+2025-06-03 12:40:29.526 | WARNING  | src.carriers.maersk:wait_for_page_ready:146 - Page ready timeout: Timeout 30000ms exceeded.
+2025-06-03 12:40:36.539 | INFO     | src.carriers.maersk:manual_login:694 - Current URL: https://www.maersk.com/book/
+2025-06-03 12:40:36.540 | INFO     | src.carriers.maersk:manual_login:695 - Page title: Maersk Booking
+2025-06-03 12:40:36.540 | INFO     | src.carriers.maersk:handle_modal_popup:333 - Checking for modal popup...
+2025-06-03 12:40:38.652 | INFO     | src.carriers.maersk:handle_modal_popup:363 - Found 'Got it' button with selector: button:has-text("Got it")
+2025-06-03 12:40:38.693 | INFO     | src.carriers.maersk:handle_modal_popup:365 - Successfully clicked 'Got it' button
+2025-06-03 12:40:40.786 | INFO     | src.carriers.maersk:manual_login:713 - Final URL: https://www.maersk.com/book/
+2025-06-03 12:40:40.895 | INFO     | src.carriers.maersk:manual_login:735 - ✅ Manual login completed successfully! Found 5 booking page indicators.
+2025-06-03 12:40:40.896 | INFO     | __main__:test_chromium_login:80 - ✅ Enhanced login test completed successfully!
+2025-06-03 12:40:40.896 | INFO     | __main__:test_chromium_login:83 - Running additional verification tests...
+2025-06-03 12:40:49.206 | INFO     | __main__:test_chromium_login:90 - ✅ Navigation after login successful - no auth errors
+2025-06-03 12:40:49.268 | INFO     | __main__:test_chromium_login:112 - ✅ Found 3 booking page elements
+2025-06-03 12:40:49.268 | INFO     | __main__:test_chromium_login:120 - ============================================================
+2025-06-03 12:40:49.268 | INFO     | __main__:test_chromium_login:121 - 🔍 MANUAL INSPECTION
+2025-06-03 12:40:49.268 | INFO     | __main__:test_chromium_login:122 - ============================================================
+2025-06-03 12:40:49.268 | INFO     | __main__:test_chromium_login:123 - Browser will remain open for 30 seconds for manual inspection.
+2025-06-03 12:40:49.268 | INFO     | __main__:test_chromium_login:124 - Check the browser window to verify:
+2025-06-03 12:40:49.268 | INFO     | __main__:test_chromium_login:125 - 1. No 403/401 errors in network tab
+2025-06-03 12:40:49.268 | INFO     | __main__:test_chromium_login:126 - 2. Cookies are properly accepted
+2025-06-03 12:40:49.268 | INFO     | __main__:test_chromium_login:127 - 3. Authentication flows work correctly
+2025-06-03 12:40:49.268 | INFO     | __main__:test_chromium_login:128 - 4. Page elements load properly
+2025-06-03 12:40:49.269 | INFO     | __main__:test_chromium_login:129 - ============================================================
+2025-06-03 12:41:19.368 | INFO     | __main__:test_chromium_login:136 - ✅ Chromium login test completed successfully!

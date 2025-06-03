@@ -39,3 +39,558 @@ is_pickup
 2025-06-03 01:03:23.632 | INFO     | __main__:main:70 - Login completed successfully!
 2025-06-03 01:03:23.632 | INFO     | __main__:main:77 - Keeping browser open for inspection. Press Ctrl+C to close.
 2025-06-03 01:03:53.702 | INFO     | __main__:main:83 - Automation completed successfully!
+2025-06-03 01:12:28.669 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 01:12:28.670 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 01:12:29.770 | INFO     | __main__:main:67 - Attempting login...
+2025-06-03 01:12:29.770 | INFO     | src.carriers.maersk:login:37 - Navigating to Maersk booking page...
+2025-06-03 01:12:37.241 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 01:12:37.353 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 01:12:42.438 | INFO     | src.carriers.maersk:login:52 - Filling login form...
+2025-06-03 01:12:42.450 | INFO     | src.carriers.maersk:login:58 - Username filled successfully
+2025-06-03 01:12:42.458 | INFO     | src.carriers.maersk:login:66 - Password filled successfully
+2025-06-03 01:12:42.515 | INFO     | src.carriers.maersk:login:74 - Looking for login button...
+2025-06-03 01:12:44.517 | DEBUG    | src.carriers.maersk:login:95 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 01:12:44.523 | INFO     | src.carriers.maersk:login:90 - Found login button with selector: button[type="submit"]
+2025-06-03 01:12:44.584 | INFO     | src.carriers.maersk:login:104 - Waiting for successful login...
+2025-06-03 01:12:49.671 | INFO     | src.carriers.maersk:login:113 - Successfully logged into Maersk portal
+2025-06-03 01:12:49.672 | INFO     | __main__:main:70 - Login completed successfully!
+2025-06-03 01:12:59.677 | INFO     | src.carriers.maersk:navigate_to_booking:148 - Navigating to booking page...
+2025-06-03 01:13:28.951 | WARNING  | src.carriers.maersk:navigate_to_booking:163 - Could not find booking form elements
+2025-06-03 01:13:28.952 | INFO     | src.carriers.maersk:fill_booking_form:173 - Starting to fill booking form...
+2025-06-03 01:13:38.952 | ERROR    | src.carriers.maersk:fill_booking_form:295 - Failed to fill booking form: Timeout 10000ms exceeded.
+2025-06-03 01:13:39.028 | ERROR    | __main__:main:86 - Error during automation: Timeout 10000ms exceeded.
+2025-06-03 01:14:22.424 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 01:14:22.425 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 01:14:23.050 | INFO     | __main__:main:67 - Attempting login...
+2025-06-03 01:14:23.053 | INFO     | src.carriers.maersk:login:37 - Navigating to Maersk booking page...
+2025-06-03 01:14:28.235 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 01:14:28.342 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 01:14:33.437 | INFO     | src.carriers.maersk:login:52 - Filling login form...
+2025-06-03 01:14:33.448 | INFO     | src.carriers.maersk:login:58 - Username filled successfully
+2025-06-03 01:14:33.456 | INFO     | src.carriers.maersk:login:66 - Password filled successfully
+2025-06-03 01:14:33.514 | INFO     | src.carriers.maersk:login:74 - Looking for login button...
+2025-06-03 01:14:35.517 | DEBUG    | src.carriers.maersk:login:95 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 01:14:35.527 | INFO     | src.carriers.maersk:login:90 - Found login button with selector: button[type="submit"]
+2025-06-03 01:14:35.590 | INFO     | src.carriers.maersk:login:104 - Waiting for successful login...
+2025-06-03 01:14:40.694 | INFO     | src.carriers.maersk:login:113 - Successfully logged into Maersk portal
+2025-06-03 01:14:40.694 | INFO     | __main__:main:70 - Login completed successfully!
+2025-06-03 01:14:50.700 | INFO     | src.carriers.maersk:navigate_to_booking:148 - Navigating to booking page...
+2025-06-03 01:15:21.056 | ERROR    | src.carriers.maersk:navigate_to_booking:166 - Failed to navigate to booking page: Timeout 30000ms exceeded.
+2025-06-03 01:15:21.173 | ERROR    | __main__:main:86 - Error during automation: Timeout 30000ms exceeded.
+2025-06-03 01:15:30.683 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 01:15:30.683 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 01:15:31.351 | INFO     | __main__:main:67 - Attempting login...
+2025-06-03 01:15:31.354 | INFO     | src.carriers.maersk:login:37 - Navigating to Maersk booking page...
+2025-06-03 01:15:35.076 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 01:15:35.208 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 01:15:40.291 | INFO     | src.carriers.maersk:login:52 - Filling login form...
+2025-06-03 01:15:40.301 | INFO     | src.carriers.maersk:login:58 - Username filled successfully
+2025-06-03 01:15:40.309 | INFO     | src.carriers.maersk:login:66 - Password filled successfully
+2025-06-03 01:15:40.366 | INFO     | src.carriers.maersk:login:74 - Looking for login button...
+2025-06-03 01:15:42.369 | DEBUG    | src.carriers.maersk:login:95 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 01:15:42.381 | INFO     | src.carriers.maersk:login:90 - Found login button with selector: button[type="submit"]
+2025-06-03 01:15:42.441 | INFO     | src.carriers.maersk:login:104 - Waiting for successful login...
+2025-06-03 01:15:47.539 | INFO     | src.carriers.maersk:login:113 - Successfully logged into Maersk portal
+2025-06-03 01:15:47.539 | INFO     | __main__:main:70 - Login completed successfully!
+2025-06-03 01:15:57.555 | INFO     | src.carriers.maersk:navigate_to_booking:148 - Navigating to booking page...
+2025-06-03 01:16:25.224 | WARNING  | src.carriers.maersk:navigate_to_booking:163 - Could not find booking form elements
+2025-06-03 01:16:25.224 | INFO     | src.carriers.maersk:fill_booking_form:173 - Starting to fill booking form...
+2025-06-03 01:16:43.232 | WARNING  | src.carriers.maersk:fill_booking_form:196 - Could not find expected form elements, taking screenshot...
+2025-06-03 01:16:45.318 | INFO     | src.carriers.maersk:fill_booking_form:203 - Filling origin location...
+2025-06-03 01:17:00.330 | WARNING  | src.carriers.maersk:fill_booking_form:225 - Could not fill origin location
+2025-06-03 01:17:03.350 | INFO     | src.carriers.maersk:fill_booking_form:235 - Filling destination location...
+2025-06-03 01:17:15.359 | WARNING  | src.carriers.maersk:fill_booking_form:256 - Could not fill destination location
+2025-06-03 01:17:18.375 | INFO     | src.carriers.maersk:fill_booking_form:266 - Setting inland transportation...
+2025-06-03 01:17:21.375 | WARNING  | src.carriers.maersk:fill_booking_form:275 - Could not set origin transport option
+2025-06-03 01:17:22.782 | WARNING  | src.carriers.maersk:fill_booking_form:285 - Could not set destination transport option
+2025-06-03 01:17:22.783 | INFO     | src.carriers.maersk:fill_booking_form:288 - Filling commodity...
+2025-06-03 01:17:22.794 | WARNING  | src.carriers.maersk:fill_booking_form:309 - Could not fill commodity
+2025-06-03 01:17:22.795 | ERROR    | src.carriers.maersk:fill_booking_form:447 - Failed to fill booking form: Target page, context or browser has been closed
+2025-06-03 01:17:22.796 | ERROR    | __main__:main:86 - Error during automation: Target page, context or browser has been closed
+2025-06-03 01:21:07.452 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 01:21:07.452 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 01:21:08.186 | INFO     | __main__:main:67 - Attempting login...
+2025-06-03 01:21:08.188 | INFO     | src.carriers.maersk:login:37 - Navigating to Maersk booking page...
+2025-06-03 01:21:14.958 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 01:21:15.055 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 01:21:20.153 | INFO     | src.carriers.maersk:login:52 - Filling login form...
+2025-06-03 01:21:20.164 | INFO     | src.carriers.maersk:login:58 - Username filled successfully
+2025-06-03 01:21:20.173 | INFO     | src.carriers.maersk:login:66 - Password filled successfully
+2025-06-03 01:21:20.227 | INFO     | src.carriers.maersk:login:74 - Looking for login button...
+2025-06-03 01:21:22.229 | DEBUG    | src.carriers.maersk:login:95 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 01:21:22.233 | INFO     | src.carriers.maersk:login:90 - Found login button with selector: button[type="submit"]
+2025-06-03 01:21:22.284 | INFO     | src.carriers.maersk:login:104 - Waiting for successful login...
+2025-06-03 01:21:27.370 | INFO     | src.carriers.maersk:login:113 - Successfully logged into Maersk portal
+2025-06-03 01:21:27.370 | INFO     | __main__:main:70 - Login completed successfully!
+2025-06-03 01:21:27.433 | INFO     | __main__:main:77 - Debug screenshots and HTML saved. Checking current page...
+2025-06-03 01:21:27.435 | INFO     | __main__:main:81 - Current page title: Maersk Global Accounts
+2025-06-03 01:21:27.435 | INFO     | src.carriers.maersk:fill_booking_form:173 - Starting to fill booking form...
+2025-06-03 01:21:45.443 | WARNING  | src.carriers.maersk:fill_booking_form:196 - Could not find expected form elements, taking screenshot...
+2025-06-03 01:21:47.536 | INFO     | src.carriers.maersk:fill_booking_form:203 - Filling origin location...
+2025-06-03 01:22:02.561 | WARNING  | src.carriers.maersk:fill_booking_form:225 - Could not fill origin location
+2025-06-03 01:22:05.593 | INFO     | src.carriers.maersk:fill_booking_form:235 - Filling destination location...
+2025-06-03 01:22:17.607 | WARNING  | src.carriers.maersk:fill_booking_form:256 - Could not fill destination location
+2025-06-03 01:22:20.631 | INFO     | src.carriers.maersk:fill_booking_form:266 - Setting inland transportation...
+2025-06-03 01:22:23.632 | WARNING  | src.carriers.maersk:fill_booking_form:275 - Could not set origin transport option
+2025-06-03 01:22:24.604 | WARNING  | src.carriers.maersk:fill_booking_form:285 - Could not set destination transport option
+2025-06-03 01:22:24.604 | INFO     | src.carriers.maersk:fill_booking_form:288 - Filling commodity...
+2025-06-03 01:22:24.617 | WARNING  | src.carriers.maersk:fill_booking_form:309 - Could not fill commodity
+2025-06-03 01:22:24.619 | ERROR    | src.carriers.maersk:fill_booking_form:447 - Failed to fill booking form: Target page, context or browser has been closed
+2025-06-03 01:22:24.620 | ERROR    | __main__:main:96 - Error during automation: Target page, context or browser has been closed
+2025-06-03 12:00:18.497 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 12:00:18.498 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 12:00:19.818 | INFO     | __main__:main:67 - Attempting login...
+2025-06-03 12:00:19.821 | INFO     | src.carriers.maersk:login:37 - Navigating to Maersk booking page...
+2025-06-03 12:00:25.767 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:00:25.881 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 12:00:30.976 | INFO     | src.carriers.maersk:login:52 - Filling login form...
+2025-06-03 12:00:30.986 | INFO     | src.carriers.maersk:login:58 - Username filled successfully
+2025-06-03 12:00:30.993 | INFO     | src.carriers.maersk:login:66 - Password filled successfully
+2025-06-03 12:00:31.051 | INFO     | src.carriers.maersk:login:74 - Looking for login button...
+2025-06-03 12:00:33.054 | DEBUG    | src.carriers.maersk:login:95 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 12:00:33.062 | INFO     | src.carriers.maersk:login:90 - Found login button with selector: button[type="submit"]
+2025-06-03 12:00:33.123 | INFO     | src.carriers.maersk:login:104 - Waiting for successful login...
+2025-06-03 12:00:38.216 | INFO     | src.carriers.maersk:login:113 - Successfully logged into Maersk portal
+2025-06-03 12:00:38.217 | INFO     | src.carriers.maersk:handle_modal_popup:132 - Checking for modal popup...
+2025-06-03 12:00:43.281 | DEBUG    | src.carriers.maersk:handle_modal_popup:168 - Got it selector button:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 12:00:46.283 | DEBUG    | src.carriers.maersk:handle_modal_popup:168 - Got it selector text="Got it" not found: Timeout 3000ms exceeded.
+2025-06-03 12:00:49.286 | DEBUG    | src.carriers.maersk:handle_modal_popup:168 - Got it selector [role="button"]:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 12:00:52.288 | DEBUG    | src.carriers.maersk:handle_modal_popup:168 - Got it selector button[class*="button"]:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 12:00:52.289 | WARNING  | src.carriers.maersk:handle_modal_popup:172 - Could not find 'Got it' button, modal might not be present
+2025-06-03 12:00:54.368 | INFO     | __main__:main:70 - Login completed successfully!
+2025-06-03 12:00:54.436 | INFO     | __main__:main:77 - Debug screenshots and HTML saved. Checking current page...
+2025-06-03 12:00:54.438 | INFO     | __main__:main:81 - Current page title: Maersk Global Accounts
+2025-06-03 12:00:54.438 | INFO     | src.carriers.maersk:fill_booking_form:229 - Starting to fill booking form...
+2025-06-03 12:01:12.447 | WARNING  | src.carriers.maersk:fill_booking_form:252 - Could not find expected form elements, taking screenshot...
+2025-06-03 12:01:14.536 | INFO     | src.carriers.maersk:fill_booking_form:259 - Filling origin location...
+2025-06-03 12:01:29.547 | WARNING  | src.carriers.maersk:fill_booking_form:281 - Could not fill origin location
+2025-06-03 12:01:30.729 | ERROR    | src.carriers.maersk:fill_booking_form:390 - Failed to fill booking form: Target page, context or browser has been closed
+2025-06-03 12:01:30.729 | ERROR    | __main__:main:96 - Error during automation: Target page, context or browser has been closed
+2025-06-03 12:02:45.388 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 12:02:45.388 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 12:02:46.068 | INFO     | __main__:main:67 - Attempting login...
+2025-06-03 12:02:46.070 | INFO     | src.carriers.maersk:login:37 - Navigating to Maersk booking page...
+2025-06-03 12:02:49.984 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:02:50.074 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 12:02:55.166 | INFO     | src.carriers.maersk:login:52 - Filling login form...
+2025-06-03 12:02:55.177 | INFO     | src.carriers.maersk:login:58 - Username filled successfully
+2025-06-03 12:02:55.186 | INFO     | src.carriers.maersk:login:66 - Password filled successfully
+2025-06-03 12:02:55.242 | INFO     | src.carriers.maersk:login:74 - Looking for login button...
+2025-06-03 12:02:57.245 | DEBUG    | src.carriers.maersk:login:95 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 12:02:57.251 | INFO     | src.carriers.maersk:login:90 - Found login button with selector: button[type="submit"]
+2025-06-03 12:02:57.298 | INFO     | src.carriers.maersk:login:104 - Waiting for successful login...
+2025-06-03 12:03:02.403 | INFO     | src.carriers.maersk:login:113 - Successfully logged into Maersk portal
+2025-06-03 12:03:02.403 | INFO     | src.carriers.maersk:handle_modal_popup:132 - Checking for modal popup...
+2025-06-03 12:03:07.493 | DEBUG    | src.carriers.maersk:handle_modal_popup:168 - Got it selector button:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 12:03:10.498 | DEBUG    | src.carriers.maersk:handle_modal_popup:168 - Got it selector text="Got it" not found: Timeout 3000ms exceeded.
+2025-06-03 12:03:13.502 | DEBUG    | src.carriers.maersk:handle_modal_popup:168 - Got it selector [role="button"]:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 12:03:16.502 | DEBUG    | src.carriers.maersk:handle_modal_popup:168 - Got it selector button[class*="button"]:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 12:03:16.502 | WARNING  | src.carriers.maersk:handle_modal_popup:172 - Could not find 'Got it' button, modal might not be present
+2025-06-03 12:03:18.585 | INFO     | __main__:main:70 - Login completed successfully!
+2025-06-03 12:03:18.655 | INFO     | __main__:main:77 - Debug screenshots and HTML saved. Checking current page...
+2025-06-03 12:03:18.656 | INFO     | __main__:main:81 - Current page title: Maersk Global Accounts
+2025-06-03 12:03:18.656 | INFO     | __main__:main:83 - Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=GgY5D3mF2sm1Zp122hNd&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=XEQ-MSIY5MRwV8LF2QCpLH2mkU8az0VbQ7zLX_Q5O9c
+2025-06-03 12:03:18.656 | INFO     | __main__:main:87 - Not on booking page, attempting to navigate...
+2025-06-03 12:03:23.863 | INFO     | __main__:main:92 - Navigated to: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=8UV32xjMxIypL8USSFpl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=GahSUX1M0_ZjDteF5iOg9f8udyEX9fsKvw4hyWHyfy4
+2025-06-03 12:03:23.863 | INFO     | __main__:main:95 - Looking for available elements...
+2025-06-03 12:03:24.863 | INFO     | __main__:main:117 - ❌ Not found: text="Your booking details"
+2025-06-03 12:03:25.866 | INFO     | __main__:main:117 - ❌ Not found: text="Location details"
+2025-06-03 12:03:26.867 | INFO     | __main__:main:117 - ❌ Not found: text="From (City, Country/Region)"
+2025-06-03 12:03:27.870 | INFO     | __main__:main:117 - ❌ Not found: text="To (City, Country/Region)"
+2025-06-03 12:03:28.870 | INFO     | __main__:main:117 - ❌ Not found: input[placeholder="Enter city or port"]
+2025-06-03 12:03:29.871 | INFO     | __main__:main:117 - ❌ Not found: text="Book"
+2025-06-03 12:03:30.872 | INFO     | __main__:main:117 - ❌ Not found: text="Continue to book"
+2025-06-03 12:03:31.874 | INFO     | __main__:main:117 - ❌ Not found: text="Got it"
+2025-06-03 12:03:32.878 | INFO     | __main__:main:117 - ❌ Not found: button:has-text("Got it")
+2025-06-03 12:03:32.878 | INFO     | __main__:main:124 - No expected booking elements found. Manual inspection needed.
+2025-06-03 12:03:32.878 | INFO     | __main__:main:127 - Keeping browser open for manual inspection. Press Ctrl+C to close.
+2025-06-03 12:04:32.944 | INFO     | __main__:main:133 - Automation completed successfully!
+2025-06-03 12:10:30.719 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 12:10:30.719 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 12:10:31.944 | INFO     | __main__:main:67 - Attempting login...
+2025-06-03 12:10:31.945 | INFO     | src.carriers.maersk:login:37 - Navigating to Maersk booking page...
+2025-06-03 12:10:35.595 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:10:35.761 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 12:10:40.865 | INFO     | src.carriers.maersk:login:52 - Filling login form...
+2025-06-03 12:10:40.876 | INFO     | src.carriers.maersk:login:58 - Username filled successfully
+2025-06-03 12:10:40.884 | INFO     | src.carriers.maersk:login:66 - Password filled successfully
+2025-06-03 12:10:40.941 | INFO     | src.carriers.maersk:login:74 - Looking for login button...
+2025-06-03 12:10:42.945 | DEBUG    | src.carriers.maersk:login:95 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 12:10:42.955 | INFO     | src.carriers.maersk:login:90 - Found login button with selector: button[type="submit"]
+2025-06-03 12:10:43.016 | INFO     | src.carriers.maersk:login:104 - Waiting for OAuth redirect to complete...
+2025-06-03 12:11:13.020 | WARNING  | src.carriers.maersk:login:111 - Timeout waiting for redirect to maersk.com: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for navigation to "**/maersk.com/**" until 'load'
+============================================================
+2025-06-03 12:11:16.111 | INFO     | src.carriers.maersk:login:122 - Current URL after login: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=uGmCpJTqEAfozI78uXvI&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=crJFdYVggW6h_sVgtj-PQwzZX-iOLf3GEg7yMSA1bzs
+2025-06-03 12:11:16.111 | INFO     | src.carriers.maersk:login:125 - Not on booking page, navigating there...
+2025-06-03 12:11:19.968 | INFO     | src.carriers.maersk:login:132 - Final URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=BSO77eUWAGKIPO8SSUj8&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=Jj5dl4dsC-1ywHR798x2qUQh0CXzJUUxP7322AWEJyo
+2025-06-03 12:11:19.968 | ERROR    | src.carriers.maersk:login:143 - Failed to login to Maersk portal: Login unsuccessful - still on wrong domain: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=BSO77eUWAGKIPO8SSUj8&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=Jj5dl4dsC-1ywHR798x2qUQh0CXzJUUxP7322AWEJyo
+2025-06-03 12:11:20.051 | ERROR    | __main__:main:127 - Error during automation: Login unsuccessful - still on wrong domain: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=BSO77eUWAGKIPO8SSUj8&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=Jj5dl4dsC-1ywHR798x2qUQh0CXzJUUxP7322AWEJyo
+2025-06-03 12:12:36.926 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 12:12:36.926 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 12:12:37.690 | INFO     | __main__:main:67 - Attempting login...
+2025-06-03 12:12:37.691 | INFO     | src.carriers.maersk:login:37 - Navigating to Maersk booking page...
+2025-06-03 12:12:41.027 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:12:41.133 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 12:12:46.246 | INFO     | src.carriers.maersk:login:52 - Filling login form...
+2025-06-03 12:12:46.257 | INFO     | src.carriers.maersk:login:58 - Username filled successfully
+2025-06-03 12:12:46.266 | INFO     | src.carriers.maersk:login:66 - Password filled successfully
+2025-06-03 12:12:46.329 | INFO     | src.carriers.maersk:login:74 - Looking for login button...
+2025-06-03 12:12:48.332 | DEBUG    | src.carriers.maersk:login:95 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 12:12:48.340 | INFO     | src.carriers.maersk:login:90 - Found login button with selector: button[type="submit"]
+2025-06-03 12:12:55.426 | ERROR    | src.carriers.maersk:login:121 - Found error indicator: .error
+2025-06-03 12:12:55.499 | ERROR    | src.carriers.maersk:login:207 - Failed to login to Maersk portal: Login error detected - please check credentials
+2025-06-03 12:12:55.555 | ERROR    | __main__:main:127 - Error during automation: Login error detected - please check credentials
+2025-06-03 12:18:23.861 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 12:18:23.861 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 12:18:25.147 | INFO     | __main__:main:67 - Starting manual login process...
+2025-06-03 12:18:25.149 | INFO     | src.carriers.maersk:manual_login:484 - Navigating to Maersk login page...
+2025-06-03 12:18:26.572 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:18:27.537 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 12:18:29.687 | INFO     | src.carriers.maersk:manual_login:494 - ============================================================
+2025-06-03 12:18:29.687 | INFO     | src.carriers.maersk:manual_login:495 - 🛑 MANUAL LOGIN REQUIRED
+2025-06-03 12:18:29.688 | INFO     | src.carriers.maersk:manual_login:496 - ============================================================
+2025-06-03 12:18:29.688 | INFO     | src.carriers.maersk:manual_login:497 - Please complete the following steps:
+2025-06-03 12:18:29.688 | INFO     | src.carriers.maersk:manual_login:498 - 1. Log in manually using your credentials
+2025-06-03 12:18:29.688 | INFO     | src.carriers.maersk:manual_login:499 - 2. Handle any 2FA or additional verification
+2025-06-03 12:18:29.688 | INFO     | src.carriers.maersk:manual_login:500 - 3. Wait until you reach the booking page
+2025-06-03 12:18:29.688 | INFO     | src.carriers.maersk:manual_login:501 - 4. Press ENTER in this terminal when ready to continue...
+2025-06-03 12:18:29.688 | INFO     | src.carriers.maersk:manual_login:502 - ============================================================
+2025-06-03 12:20:05.027 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 12:20:05.027 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 12:20:05.648 | INFO     | __main__:main:67 - Starting manual login process...
+2025-06-03 12:20:05.649 | INFO     | src.carriers.maersk:manual_login:484 - Navigating to Maersk login page...
+2025-06-03 12:20:06.728 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:20:07.286 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 12:20:09.374 | INFO     | src.carriers.maersk:manual_login:494 - ============================================================
+2025-06-03 12:20:09.374 | INFO     | src.carriers.maersk:manual_login:495 - 🛑 MANUAL LOGIN REQUIRED
+2025-06-03 12:20:09.374 | INFO     | src.carriers.maersk:manual_login:496 - ============================================================
+2025-06-03 12:20:09.374 | INFO     | src.carriers.maersk:manual_login:497 - Please complete the following steps:
+2025-06-03 12:20:09.374 | INFO     | src.carriers.maersk:manual_login:498 - 1. Log in manually using your credentials
+2025-06-03 12:20:09.374 | INFO     | src.carriers.maersk:manual_login:499 - 2. Handle any 2FA or additional verification
+2025-06-03 12:20:09.374 | INFO     | src.carriers.maersk:manual_login:500 - 3. Wait until you reach the booking page
+2025-06-03 12:20:09.374 | INFO     | src.carriers.maersk:manual_login:501 - 4. Press ENTER in this terminal when ready to continue...
+2025-06-03 12:20:09.375 | INFO     | src.carriers.maersk:manual_login:502 - ============================================================
+2025-06-03 12:23:40.673 | INFO     | __main__:main:59 - Initializing Maersk carrier...
+2025-06-03 12:23:40.673 | INFO     | __main__:main:63 - Starting browser automation...
+2025-06-03 12:23:41.436 | INFO     | __main__:main:67 - Starting manual login process...
+2025-06-03 12:23:41.439 | INFO     | src.carriers.maersk:manual_login:484 - Navigating to Maersk booking page...
+2025-06-03 12:23:42.816 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:23:42.908 | INFO     | src.carriers.maersk:accept_cookies:26 - Successfully accepted cookies
+2025-06-03 12:23:45.000 | INFO     | src.carriers.maersk:manual_login:494 - ============================================================
+2025-06-03 12:23:45.001 | INFO     | src.carriers.maersk:manual_login:495 - 🛑 MANUAL LOGIN REQUIRED
+2025-06-03 12:23:45.001 | INFO     | src.carriers.maersk:manual_login:496 - ============================================================
+2025-06-03 12:23:45.001 | INFO     | src.carriers.maersk:manual_login:497 - Please complete the following steps:
+2025-06-03 12:23:45.001 | INFO     | src.carriers.maersk:manual_login:498 - 1. Log in manually using your credentials
+2025-06-03 12:23:45.001 | INFO     | src.carriers.maersk:manual_login:499 - 2. Handle any 2FA or additional verification
+2025-06-03 12:23:45.001 | INFO     | src.carriers.maersk:manual_login:500 - 3. Wait until you reach the booking page
+2025-06-03 12:23:45.001 | INFO     | src.carriers.maersk:manual_login:501 - 4. Press ENTER in this terminal when ready to continue...
+2025-06-03 12:23:45.001 | INFO     | src.carriers.maersk:manual_login:502 - ============================================================
+2025-06-03 12:45:11.537 | INFO     | __main__:main:22 - ============================================================
+2025-06-03 12:45:11.538 | INFO     | __main__:main:23 - 🚀 STARTING AUTOMATED MAERSK RATE EXTRACTION
+2025-06-03 12:45:11.538 | INFO     | __main__:main:24 - ============================================================
+2025-06-03 12:45:11.538 | INFO     | __main__:main:25 - Using enhanced Chromium compatibility and automated login
+2025-06-03 12:45:11.538 | INFO     | __main__:main:63 - Initializing Maersk carrier with enhanced Chromium settings...
+2025-06-03 12:45:11.538 | INFO     | __main__:main:67 - Starting browser with enhanced compatibility settings...
+2025-06-03 12:45:12.339 | INFO     | __main__:main:71 - ============================================================
+2025-06-03 12:45:12.342 | INFO     | __main__:main:72 - 🔐 STARTING AUTOMATED LOGIN
+2025-06-03 12:45:12.343 | INFO     | __main__:main:73 - ============================================================
+2025-06-03 12:45:12.343 | INFO     | __main__:main:74 - Using credentials from .env file with enhanced error handling
+2025-06-03 12:45:12.343 | INFO     | __main__:main:83 - Login attempt 1/3
+2025-06-03 12:45:12.343 | INFO     | src.carriers.maersk:login:152 - Navigating to Maersk booking page...
+2025-06-03 12:45:17.805 | INFO     | src.carriers.maersk:wait_for_page_ready:137 - Page ready indicator found: body
+2025-06-03 12:45:24.822 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:45:24.841 | INFO     | src.carriers.maersk:accept_cookies:37 - Found cookie dialog with selector: text="Cookie management for the best digital experience"
+2025-06-03 12:45:24.911 | INFO     | src.carriers.maersk:accept_cookies:58 - Successfully accepted cookies using: button:has-text("Allow all")
+2025-06-03 12:45:27.004 | INFO     | src.carriers.maersk:login:171 - Current URL after navigation: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Jel32kuRHDkf7p9bjFdX&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=xtWh4_oti0F2xVwrp9M0ccJUfcDs2tKu2iUzabq1FCw
+2025-06-03 12:45:27.004 | INFO     | src.carriers.maersk:login:204 - Looking for login form...
+2025-06-03 12:45:27.007 | DEBUG    | src.carriers.maersk:login:234 - Username selector input[placeholder="Username"] failed: 'ElementHandle' object has no attribute 'clear'
+2025-06-03 12:45:32.009 | DEBUG    | src.carriers.maersk:login:234 - Username selector input[name="username"] failed: Timeout 5000ms exceeded.
+2025-06-03 12:45:37.013 | DEBUG    | src.carriers.maersk:login:234 - Username selector input[type="text"] failed: Timeout 5000ms exceeded.
+2025-06-03 12:45:42.015 | DEBUG    | src.carriers.maersk:login:234 - Username selector input[name="email"] failed: Timeout 5000ms exceeded.
+2025-06-03 12:45:42.022 | DEBUG    | src.carriers.maersk:login:234 - Username selector #username failed: 'ElementHandle' object has no attribute 'clear'
+2025-06-03 12:45:47.024 | DEBUG    | src.carriers.maersk:login:234 - Username selector #email failed: Timeout 5000ms exceeded.
+2025-06-03 12:45:47.119 | ERROR    | src.carriers.maersk:login:439 - Failed to login to Maersk portal: Username field not found with any selector
+2025-06-03 12:45:47.177 | WARNING  | __main__:main:91 - Login attempt 1 failed: Username field not found with any selector
+2025-06-03 12:45:54.187 | INFO     | __main__:main:100 - Retrying login (attempt 2/3)...
+2025-06-03 12:45:59.188 | INFO     | __main__:main:83 - Login attempt 2/3
+2025-06-03 12:45:59.188 | INFO     | src.carriers.maersk:login:152 - Navigating to Maersk booking page...
+2025-06-03 12:46:05.497 | INFO     | src.carriers.maersk:wait_for_page_ready:137 - Page ready indicator found: body
+2025-06-03 12:46:11.672 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:46:11.680 | INFO     | src.carriers.maersk:accept_cookies:66 - No cookie dialog found - cookies may already be accepted
+2025-06-03 12:46:11.680 | ERROR    | src.carriers.maersk:login:439 - Failed to login to Maersk portal: Target page, context or browser has been closed
+2025-06-03 12:46:11.681 | WARNING  | __main__:main:91 - Login attempt 2 failed: Target page, context or browser has been closed
+2025-06-03 12:46:11.685 | INFO     | __main__:main:100 - Retrying login (attempt 3/3)...
+2025-06-03 12:46:16.686 | INFO     | __main__:main:83 - Login attempt 3/3
+2025-06-03 12:46:16.686 | INFO     | src.carriers.maersk:login:152 - Navigating to Maersk booking page...
+2025-06-03 12:46:16.689 | ERROR    | src.carriers.maersk:login:439 - Failed to login to Maersk portal: Target page, context or browser has been closed
+2025-06-03 12:46:16.691 | WARNING  | __main__:main:91 - Login attempt 3 failed: Target page, context or browser has been closed
+2025-06-03 12:46:16.698 | ERROR    | __main__:main:103 - Maximum login attempts reached. Please check your credentials.
+2025-06-03 12:46:16.698 | ERROR    | __main__:main:270 - ❌ Error during automation: Target page, context or browser has been closed
+2025-06-03 12:49:54.741 | INFO     | __main__:main:22 - ============================================================
+2025-06-03 12:49:54.741 | INFO     | __main__:main:23 - 🚀 STARTING AUTOMATED MAERSK RATE EXTRACTION
+2025-06-03 12:49:54.741 | INFO     | __main__:main:24 - ============================================================
+2025-06-03 12:49:54.741 | INFO     | __main__:main:25 - Using enhanced Chromium compatibility and automated login
+2025-06-03 12:49:54.742 | INFO     | __main__:main:63 - Initializing Maersk carrier with enhanced Chromium settings...
+2025-06-03 12:49:54.742 | INFO     | __main__:main:67 - Starting browser with enhanced compatibility settings...
+2025-06-03 12:49:55.456 | INFO     | __main__:main:71 - ============================================================
+2025-06-03 12:49:55.460 | INFO     | __main__:main:72 - 🔐 STARTING AUTOMATED LOGIN
+2025-06-03 12:49:55.460 | INFO     | __main__:main:73 - ============================================================
+2025-06-03 12:49:55.460 | INFO     | __main__:main:74 - Using credentials from .env file with enhanced error handling
+2025-06-03 12:49:55.460 | INFO     | __main__:main:83 - Login attempt 1/3
+2025-06-03 12:49:55.464 | INFO     | src.carriers.maersk:login:166 - Navigating to Maersk booking page...
+2025-06-03 12:50:01.710 | INFO     | src.carriers.maersk:wait_for_page_ready:137 - Page ready indicator found: body
+2025-06-03 12:50:08.723 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:50:08.743 | INFO     | src.carriers.maersk:accept_cookies:37 - Found cookie dialog with selector: text="Cookie management for the best digital experience"
+2025-06-03 12:50:08.818 | INFO     | src.carriers.maersk:accept_cookies:58 - Successfully accepted cookies using: button:has-text("Allow all")
+2025-06-03 12:50:22.877 | INFO     | src.carriers.maersk:login:185 - Current URL after navigation: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=viz3PZbEpL2vZhuIDgxC&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=tJLNNgVYQnhdbyavFpCA8XanzmjH17yVAXODSAV2kXc
+2025-06-03 12:50:22.878 | INFO     | src.carriers.maersk:login:218 - Looking for login form...
+2025-06-03 12:50:22.895 | INFO     | src.carriers.maersk:login:244 - Username filled using selector: input[placeholder="Username"]
+2025-06-03 12:50:22.906 | INFO     | src.carriers.maersk:login:263 - Password filled using selector: input[placeholder="Password"]
+2025-06-03 12:50:22.964 | INFO     | src.carriers.maersk:login:278 - Looking for login button...
+2025-06-03 12:50:24.965 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 12:50:26.968 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Sign in") not found: Timeout 2000ms exceeded.
+2025-06-03 12:50:28.971 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Login") not found: Timeout 2000ms exceeded.
+2025-06-03 12:50:28.974 | INFO     | src.carriers.maersk:login:299 - Found login button with selector: button[type="submit"]
+2025-06-03 12:50:42.041 | ERROR    | src.carriers.maersk:login:332 - Found error indicator: .error
+2025-06-03 12:50:42.110 | ERROR    | src.carriers.maersk:login:453 - Failed to login to Maersk portal: Login error detected - please check credentials or handle 2FA manually
+2025-06-03 12:50:42.162 | WARNING  | __main__:main:91 - Login attempt 1 failed: Login error detected - please check credentials or handle 2FA manually
+2025-06-03 12:50:49.173 | INFO     | __main__:main:100 - Retrying login (attempt 2/3)...
+2025-06-03 12:50:54.174 | INFO     | __main__:main:83 - Login attempt 2/3
+2025-06-03 12:50:54.183 | INFO     | src.carriers.maersk:login:166 - Navigating to Maersk booking page...
+2025-06-03 12:50:59.563 | INFO     | src.carriers.maersk:wait_for_page_ready:137 - Page ready indicator found: body
+2025-06-03 12:51:06.574 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:51:33.596 | INFO     | src.carriers.maersk:accept_cookies:66 - No cookie dialog found - cookies may already be accepted
+2025-06-03 12:51:33.679 | INFO     | src.carriers.maersk:login:185 - Current URL after navigation: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=CIUG8YLzZQzBkhFQoteF&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=xFDYO8ySPDMFwnioI8NNjfFCRu-lMHnzS9O1ZHb2Psk
+2025-06-03 12:51:33.679 | INFO     | src.carriers.maersk:login:218 - Looking for login form...
+2025-06-03 12:51:33.690 | INFO     | src.carriers.maersk:login:244 - Username filled using selector: input[placeholder="Username"]
+2025-06-03 12:51:33.700 | INFO     | src.carriers.maersk:login:263 - Password filled using selector: input[placeholder="Password"]
+2025-06-03 12:51:33.753 | INFO     | src.carriers.maersk:login:278 - Looking for login button...
+2025-06-03 12:51:35.754 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 12:51:37.758 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Sign in") not found: Timeout 2000ms exceeded.
+2025-06-03 12:51:39.760 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Login") not found: Timeout 2000ms exceeded.
+2025-06-03 12:51:39.764 | INFO     | src.carriers.maersk:login:299 - Found login button with selector: button[type="submit"]
+2025-06-03 12:51:52.842 | ERROR    | src.carriers.maersk:login:332 - Found error indicator: .error
+2025-06-03 12:51:52.917 | ERROR    | src.carriers.maersk:login:453 - Failed to login to Maersk portal: Login error detected - please check credentials or handle 2FA manually
+2025-06-03 12:51:52.969 | WARNING  | __main__:main:91 - Login attempt 2 failed: Login error detected - please check credentials or handle 2FA manually
+2025-06-03 12:51:59.980 | INFO     | __main__:main:100 - Retrying login (attempt 3/3)...
+2025-06-03 12:52:04.981 | INFO     | __main__:main:83 - Login attempt 3/3
+2025-06-03 12:52:04.985 | INFO     | src.carriers.maersk:login:166 - Navigating to Maersk booking page...
+2025-06-03 12:52:11.060 | INFO     | src.carriers.maersk:wait_for_page_ready:137 - Page ready indicator found: body
+2025-06-03 12:52:18.069 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 12:52:45.106 | INFO     | src.carriers.maersk:accept_cookies:66 - No cookie dialog found - cookies may already be accepted
+2025-06-03 12:52:45.190 | INFO     | src.carriers.maersk:login:185 - Current URL after navigation: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=g1UnC1QIxd6VcOe8AIRu&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=LunOq_Ez9YzuRcm4SKdlEXaoBDzgckFbWjVcrH5e4n0
+2025-06-03 12:52:45.190 | INFO     | src.carriers.maersk:login:218 - Looking for login form...
+2025-06-03 12:52:45.201 | INFO     | src.carriers.maersk:login:244 - Username filled using selector: input[placeholder="Username"]
+2025-06-03 12:52:45.211 | INFO     | src.carriers.maersk:login:263 - Password filled using selector: input[placeholder="Password"]
+2025-06-03 12:52:45.264 | INFO     | src.carriers.maersk:login:278 - Looking for login button...
+2025-06-03 12:52:47.268 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 12:52:49.274 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Sign in") not found: Timeout 2000ms exceeded.
+2025-06-03 12:52:51.278 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Login") not found: Timeout 2000ms exceeded.
+2025-06-03 12:52:51.283 | INFO     | src.carriers.maersk:login:299 - Found login button with selector: button[type="submit"]
+2025-06-03 12:53:04.371 | ERROR    | src.carriers.maersk:login:332 - Found error indicator: .error
+2025-06-03 12:53:04.449 | ERROR    | src.carriers.maersk:login:453 - Failed to login to Maersk portal: Login error detected - please check credentials or handle 2FA manually
+2025-06-03 12:53:04.499 | WARNING  | __main__:main:91 - Login attempt 3 failed: Login error detected - please check credentials or handle 2FA manually
+2025-06-03 12:53:11.512 | ERROR    | __main__:main:103 - Maximum login attempts reached. Please check your credentials.
+2025-06-03 12:53:11.512 | ERROR    | __main__:main:270 - ❌ Error during automation: Login error detected - please check credentials or handle 2FA manually
+2025-06-03 13:19:31.478 | INFO     | __main__:main:22 - ============================================================
+2025-06-03 13:19:31.478 | INFO     | __main__:main:23 - 🚀 STARTING AUTOMATED MAERSK RATE EXTRACTION
+2025-06-03 13:19:31.478 | INFO     | __main__:main:24 - ============================================================
+2025-06-03 13:19:31.478 | INFO     | __main__:main:25 - Using enhanced Chromium compatibility and automated login
+2025-06-03 13:19:31.478 | INFO     | __main__:main:63 - Initializing Maersk carrier with enhanced Chromium settings...
+2025-06-03 13:19:31.478 | INFO     | __main__:main:67 - Starting browser with enhanced compatibility settings...
+2025-06-03 13:19:32.239 | INFO     | __main__:main:71 - ============================================================
+2025-06-03 13:19:32.240 | INFO     | __main__:main:72 - 🔐 STARTING ENHANCED HYBRID LOGIN
+2025-06-03 13:19:32.240 | INFO     | __main__:main:73 - ============================================================
+2025-06-03 13:19:32.240 | INFO     | __main__:main:74 - Attempting automated login first, with manual fallback if needed
+2025-06-03 13:19:32.244 | INFO     | __main__:main:83 - Hybrid login attempt 1/2
+2025-06-03 13:19:32.244 | INFO     | src.carriers.maersk:hybrid_login:904 - 🔄 Attempting automated login first...
+2025-06-03 13:19:32.248 | INFO     | src.carriers.maersk:login:166 - Navigating to Maersk booking page...
+2025-06-03 13:19:37.001 | INFO     | src.carriers.maersk:wait_for_page_ready:137 - Page ready indicator found: body
+2025-06-03 13:19:44.021 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 13:19:44.046 | INFO     | src.carriers.maersk:accept_cookies:37 - Found cookie dialog with selector: text="Cookie management for the best digital experience"
+2025-06-03 13:19:44.111 | INFO     | src.carriers.maersk:accept_cookies:58 - Successfully accepted cookies using: button:has-text("Allow all")
+2025-06-03 13:19:46.197 | INFO     | src.carriers.maersk:login:185 - Current URL after navigation: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=s2mDiAWajGH5DVBNEEIz&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=HEV84i2ticNfoh97anCTjTjm71NCMygIfcFu9o0XoD8
+2025-06-03 13:19:46.197 | INFO     | src.carriers.maersk:login:218 - Looking for login form...
+2025-06-03 13:19:46.214 | INFO     | src.carriers.maersk:login:244 - Username filled using selector: input[placeholder="Username"]
+2025-06-03 13:19:46.227 | INFO     | src.carriers.maersk:login:263 - Password filled using selector: input[placeholder="Password"]
+2025-06-03 13:19:46.293 | INFO     | src.carriers.maersk:login:278 - Looking for login button...
+2025-06-03 13:19:48.295 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 13:19:50.299 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Sign in") not found: Timeout 2000ms exceeded.
+2025-06-03 13:19:52.301 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Login") not found: Timeout 2000ms exceeded.
+2025-06-03 13:19:52.310 | INFO     | src.carriers.maersk:login:299 - Found login button with selector: button[type="submit"]
+2025-06-03 13:20:33.432 | INFO     | src.carriers.maersk:login:389 - Waiting for authentication redirect...
+2025-06-03 13:20:38.438 | INFO     | src.carriers.maersk:login:406 - Redirect attempt 1/6, current URL: https://www.maersk.com/book/
+2025-06-03 13:20:38.438 | INFO     | src.carriers.maersk:login:411 - ✅ Already on maersk.com domain
+2025-06-03 13:21:08.447 | WARNING  | src.carriers.maersk:wait_for_page_ready:146 - Page ready timeout: Timeout 30000ms exceeded.
+2025-06-03 13:21:08.556 | INFO     | src.carriers.maersk:login:446 - Final URL after login: https://www.maersk.com/book/
+2025-06-03 13:21:08.557 | INFO     | src.carriers.maersk:login:460 - Final verification URL: https://www.maersk.com/book/
+2025-06-03 13:21:08.557 | INFO     | src.carriers.maersk:login:463 - ✅ Successfully logged into Maersk portal
+2025-06-03 13:21:08.557 | INFO     | src.carriers.maersk:handle_modal_popup:483 - Checking for modal popup...
+2025-06-03 13:21:10.662 | INFO     | src.carriers.maersk:handle_modal_popup:513 - Found 'Got it' button with selector: button:has-text("Got it")
+2025-06-03 13:21:10.709 | INFO     | src.carriers.maersk:handle_modal_popup:515 - Successfully clicked 'Got it' button
+2025-06-03 13:21:12.811 | INFO     | src.carriers.maersk:hybrid_login:906 - ✅ Automated login successful!
+2025-06-03 13:21:12.811 | INFO     | __main__:main:89 - ✅ Hybrid login completed successfully!
+2025-06-03 13:21:12.811 | INFO     | __main__:main:108 - Performing enhanced post-login verification...
+2025-06-03 13:21:49.828 | WARNING  | src.carriers.maersk:wait_for_page_ready:146 - Page ready timeout: Timeout 30000ms exceeded.
+2025-06-03 13:21:49.829 | INFO     | __main__:main:117 - Page ready status: False
+2025-06-03 13:21:49.934 | INFO     | __main__:main:124 - Current page title: Maersk Booking
+2025-06-03 13:21:49.934 | INFO     | __main__:main:125 - Current URL: https://www.maersk.com/book/
+2025-06-03 13:21:49.934 | INFO     | __main__:main:138 - ============================================================
+2025-06-03 13:21:49.934 | INFO     | __main__:main:139 - 🔍 VERIFYING PAGE CONTENT AND ELEMENTS
+2025-06-03 13:21:49.934 | INFO     | __main__:main:140 - ============================================================
+2025-06-03 13:21:49.962 | INFO     | __main__:main:159 - ✅ Found: text="Your booking details"
+2025-06-03 13:21:49.990 | INFO     | __main__:main:159 - ✅ Found: text="Location details"
+2025-06-03 13:21:50.012 | INFO     | __main__:main:159 - ✅ Found: text="From (City, Country/Region)"
+2025-06-03 13:21:50.038 | INFO     | __main__:main:159 - ✅ Found: text="To (City, Country/Region)"
+2025-06-03 13:21:50.048 | INFO     | __main__:main:159 - ✅ Found: input[placeholder="Enter city or port"]
+2025-06-03 13:21:52.053 | INFO     | __main__:main:161 - ❌ Not found: text="Book"
+2025-06-03 13:21:52.121 | INFO     | __main__:main:159 - ✅ Found: text="Continue to book"
+2025-06-03 13:21:52.149 | INFO     | __main__:main:159 - ✅ Found: text="What do you want to ship?"
+2025-06-03 13:21:52.150 | INFO     | __main__:main:163 - Found 7/8 expected booking elements
+2025-06-03 13:21:52.150 | INFO     | __main__:main:166 - ============================================================
+2025-06-03 13:21:52.150 | INFO     | __main__:main:167 - 📝 FILLING BOOKING FORM
+2025-06-03 13:21:52.151 | INFO     | __main__:main:168 - ============================================================
+2025-06-03 13:21:52.151 | INFO     | src.carriers.maersk:handle_modal_popup:483 - Checking for modal popup...
+2025-06-03 13:21:57.258 | DEBUG    | src.carriers.maersk:handle_modal_popup:519 - Got it selector button:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 13:22:00.261 | DEBUG    | src.carriers.maersk:handle_modal_popup:519 - Got it selector text="Got it" not found: Timeout 3000ms exceeded.
+2025-06-03 13:22:03.264 | DEBUG    | src.carriers.maersk:handle_modal_popup:519 - Got it selector [role="button"]:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 13:22:06.269 | DEBUG    | src.carriers.maersk:handle_modal_popup:519 - Got it selector button[class*="button"]:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 13:22:06.270 | WARNING  | src.carriers.maersk:handle_modal_popup:523 - Could not find 'Got it' button, modal might not be present
+2025-06-03 13:22:08.380 | INFO     | src.carriers.maersk:fill_booking_form:580 - Starting to fill booking form...
+2025-06-03 13:22:08.409 | INFO     | src.carriers.maersk:fill_booking_form:596 - Found form using indicator: text="Your booking details"
+2025-06-03 13:22:10.412 | INFO     | src.carriers.maersk:fill_booking_form:610 - Filling origin location...
+2025-06-03 13:22:19.441 | WARNING  | src.carriers.maersk:fill_booking_form:632 - Could not fill origin location
+2025-06-03 13:22:22.478 | INFO     | src.carriers.maersk:fill_booking_form:642 - Filling destination location...
+2025-06-03 13:22:25.505 | WARNING  | src.carriers.maersk:fill_booking_form:662 - Could not fill destination location
+2025-06-03 13:22:28.516 | INFO     | src.carriers.maersk:fill_booking_form:672 - Setting inland transportation...
+2025-06-03 13:22:31.518 | WARNING  | src.carriers.maersk:fill_booking_form:681 - Could not set origin transport option
+2025-06-03 13:22:34.522 | WARNING  | src.carriers.maersk:fill_booking_form:691 - Could not set destination transport option
+2025-06-03 13:22:34.522 | INFO     | src.carriers.maersk:fill_booking_form:694 - Filling commodity...
+2025-06-03 13:22:37.544 | WARNING  | src.carriers.maersk:fill_booking_form:714 - Could not fill commodity
+2025-06-03 13:22:38.548 | INFO     | src.carriers.maersk:fill_booking_form:733 - Successfully filled basic booking form details
+2025-06-03 13:22:38.645 | INFO     | src.carriers.maersk:fill_booking_form:738 - Booking form filling completed
+2025-06-03 13:22:38.645 | INFO     | __main__:main:176 - ✅ Booking form filled successfully!
+2025-06-03 13:22:38.718 | INFO     | __main__:main:196 - Found continue button: button:has-text("Continue")
+2025-06-03 13:22:38.718 | INFO     | __main__:main:205 - ✅ Continue button available - form ready for submission
+2025-06-03 13:22:38.718 | INFO     | __main__:main:229 - ============================================================
+2025-06-03 13:22:38.718 | INFO     | __main__:main:230 - 📊 AUTOMATION SUMMARY
+2025-06-03 13:22:38.718 | INFO     | __main__:main:231 - ============================================================
+2025-06-03 13:22:38.718 | INFO     | __main__:main:232 - ✅ Browser initialization: Success
+2025-06-03 13:22:38.718 | INFO     | __main__:main:233 - ✅ Enhanced login: Success
+2025-06-03 13:22:38.718 | INFO     | __main__:main:234 - ✅ Page navigation: Success
+2025-06-03 13:22:38.718 | INFO     | __main__:main:235 - ✅ Element detection: 7 elements found
+2025-06-03 13:22:38.718 | INFO     | __main__:main:236 - ✅ Form filling: Attempted
+2025-06-03 13:22:38.718 | INFO     | __main__:main:239 - ============================================================
+2025-06-03 13:22:38.718 | INFO     | __main__:main:240 - 🔍 MANUAL INSPECTION TIME
+2025-06-03 13:22:38.718 | INFO     | __main__:main:241 - ============================================================
+2025-06-03 13:22:38.718 | INFO     | __main__:main:242 - Browser will remain open for 60 seconds for manual inspection.
+2025-06-03 13:22:38.718 | INFO     | __main__:main:243 - You can:
+2025-06-03 13:22:38.719 | INFO     | __main__:main:244 - 1. Review the filled form
+2025-06-03 13:22:38.719 | INFO     | __main__:main:245 - 2. Submit the form manually if needed
+2025-06-03 13:22:38.719 | INFO     | __main__:main:246 - 3. Check for any remaining issues
+2025-06-03 13:22:38.719 | INFO     | __main__:main:247 - 4. Verify the automation worked correctly
+2025-06-03 13:22:38.719 | INFO     | __main__:main:248 - Press Ctrl+C to close early if needed.
+2025-06-03 13:22:38.719 | INFO     | __main__:main:249 - ============================================================
+2025-06-03 13:23:38.820 | INFO     | __main__:main:256 - ✅ Automated Maersk rate extraction completed successfully!
+2025-06-03 13:41:14.429 | INFO     | __main__:main:22 - ============================================================
+2025-06-03 13:41:14.429 | INFO     | __main__:main:23 - 🚀 STARTING AUTOMATED MAERSK RATE EXTRACTION
+2025-06-03 13:41:14.429 | INFO     | __main__:main:24 - ============================================================
+2025-06-03 13:41:14.429 | INFO     | __main__:main:25 - Using enhanced Chromium compatibility and automated login
+2025-06-03 13:41:14.429 | INFO     | __main__:main:63 - Initializing Maersk carrier with enhanced Chromium settings...
+2025-06-03 13:41:14.429 | INFO     | __main__:main:67 - Starting browser with enhanced compatibility settings...
+2025-06-03 13:41:15.181 | INFO     | __main__:main:71 - ============================================================
+2025-06-03 13:41:15.181 | INFO     | __main__:main:72 - 🔐 STARTING ENHANCED HYBRID LOGIN
+2025-06-03 13:41:15.182 | INFO     | __main__:main:73 - ============================================================
+2025-06-03 13:41:15.182 | INFO     | __main__:main:74 - Attempting automated login first, with manual fallback if needed
+2025-06-03 13:41:15.182 | INFO     | __main__:main:83 - Hybrid login attempt 1/2
+2025-06-03 13:41:15.184 | INFO     | src.carriers.maersk:hybrid_login:904 - 🔄 Attempting automated login first...
+2025-06-03 13:41:15.187 | INFO     | src.carriers.maersk:login:166 - Navigating to Maersk booking page...
+2025-06-03 13:41:21.219 | INFO     | src.carriers.maersk:wait_for_page_ready:137 - Page ready indicator found: body
+2025-06-03 13:41:28.235 | INFO     | src.carriers.maersk:accept_cookies:17 - Looking for cookie acceptance button...
+2025-06-03 13:41:28.255 | INFO     | src.carriers.maersk:accept_cookies:37 - Found cookie dialog with selector: text="Cookie management for the best digital experience"
+2025-06-03 13:41:28.314 | INFO     | src.carriers.maersk:accept_cookies:58 - Successfully accepted cookies using: button:has-text("Allow all")
+2025-06-03 13:41:30.404 | INFO     | src.carriers.maersk:login:185 - Current URL after navigation: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Qet3bGtlfcVsnVXcbgyW&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=GQH8HmfpQQ3Li8f3aAmVXgcmmKqxFbG_XIzYEuY3p7M
+2025-06-03 13:41:30.404 | INFO     | src.carriers.maersk:login:218 - Looking for login form...
+2025-06-03 13:41:30.419 | INFO     | src.carriers.maersk:login:244 - Username filled using selector: input[placeholder="Username"]
+2025-06-03 13:41:30.430 | INFO     | src.carriers.maersk:login:263 - Password filled using selector: input[placeholder="Password"]
+2025-06-03 13:41:30.486 | INFO     | src.carriers.maersk:login:278 - Looking for login button...
+2025-06-03 13:41:32.487 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Log in") not found: Timeout 2000ms exceeded.
+2025-06-03 13:41:34.489 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Sign in") not found: Timeout 2000ms exceeded.
+2025-06-03 13:41:36.495 | DEBUG    | src.carriers.maersk:login:304 - Login selector button:has-text("Login") not found: Timeout 2000ms exceeded.
+2025-06-03 13:41:36.506 | INFO     | src.carriers.maersk:login:299 - Found login button with selector: button[type="submit"]
+2025-06-03 13:42:17.632 | INFO     | src.carriers.maersk:login:389 - Waiting for authentication redirect...
+2025-06-03 13:42:22.642 | INFO     | src.carriers.maersk:login:406 - Redirect attempt 1/6, current URL: https://www.maersk.com/book/
+2025-06-03 13:42:22.642 | INFO     | src.carriers.maersk:login:411 - ✅ Already on maersk.com domain
+2025-06-03 13:42:52.653 | WARNING  | src.carriers.maersk:wait_for_page_ready:146 - Page ready timeout: Timeout 30000ms exceeded.
+2025-06-03 13:42:52.775 | INFO     | src.carriers.maersk:login:446 - Final URL after login: https://www.maersk.com/book/
+2025-06-03 13:42:52.775 | INFO     | src.carriers.maersk:login:460 - Final verification URL: https://www.maersk.com/book/
+2025-06-03 13:42:52.775 | INFO     | src.carriers.maersk:login:463 - ✅ Successfully logged into Maersk portal
+2025-06-03 13:42:52.775 | INFO     | src.carriers.maersk:handle_modal_popup:483 - Checking for modal popup...
+2025-06-03 13:42:54.886 | INFO     | src.carriers.maersk:handle_modal_popup:513 - Found 'Got it' button with selector: button:has-text("Got it")
+2025-06-03 13:42:54.927 | INFO     | src.carriers.maersk:handle_modal_popup:515 - Successfully clicked 'Got it' button
+2025-06-03 13:42:57.033 | INFO     | src.carriers.maersk:hybrid_login:906 - ✅ Automated login successful!
+2025-06-03 13:42:57.033 | INFO     | __main__:main:89 - ✅ Hybrid login completed successfully!
+2025-06-03 13:42:57.034 | INFO     | __main__:main:108 - Performing enhanced post-login verification...
+2025-06-03 13:43:34.045 | WARNING  | src.carriers.maersk:wait_for_page_ready:146 - Page ready timeout: Timeout 30000ms exceeded.
+2025-06-03 13:43:34.046 | INFO     | __main__:main:117 - Page ready status: False
+2025-06-03 13:43:34.153 | INFO     | __main__:main:124 - Current page title: Maersk Booking
+2025-06-03 13:43:34.153 | INFO     | __main__:main:125 - Current URL: https://www.maersk.com/book/
+2025-06-03 13:43:34.153 | INFO     | __main__:main:138 - ============================================================
+2025-06-03 13:43:34.153 | INFO     | __main__:main:139 - 🔍 VERIFYING PAGE CONTENT AND ELEMENTS
+2025-06-03 13:43:34.153 | INFO     | __main__:main:140 - ============================================================
+2025-06-03 13:43:34.181 | INFO     | __main__:main:159 - ✅ Found: text="Your booking details"
+2025-06-03 13:43:34.218 | INFO     | __main__:main:159 - ✅ Found: text="Location details"
+2025-06-03 13:43:34.242 | INFO     | __main__:main:159 - ✅ Found: text="From (City, Country/Region)"
+2025-06-03 13:43:34.267 | INFO     | __main__:main:159 - ✅ Found: text="To (City, Country/Region)"
+2025-06-03 13:43:34.270 | INFO     | __main__:main:159 - ✅ Found: input[placeholder="Enter city or port"]
+2025-06-03 13:43:36.272 | INFO     | __main__:main:161 - ❌ Not found: text="Book"
+2025-06-03 13:43:36.326 | INFO     | __main__:main:159 - ✅ Found: text="Continue to book"
+2025-06-03 13:43:36.355 | INFO     | __main__:main:159 - ✅ Found: text="What do you want to ship?"
+2025-06-03 13:43:36.355 | INFO     | __main__:main:163 - Found 7/8 expected booking elements
+2025-06-03 13:43:36.356 | INFO     | __main__:main:166 - ============================================================
+2025-06-03 13:43:36.356 | INFO     | __main__:main:167 - 📝 FILLING BOOKING FORM
+2025-06-03 13:43:36.356 | INFO     | __main__:main:168 - ============================================================
+2025-06-03 13:43:36.356 | INFO     | src.carriers.maersk:handle_modal_popup:483 - Checking for modal popup...
+2025-06-03 13:43:41.455 | DEBUG    | src.carriers.maersk:handle_modal_popup:519 - Got it selector button:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 13:43:44.457 | DEBUG    | src.carriers.maersk:handle_modal_popup:519 - Got it selector text="Got it" not found: Timeout 3000ms exceeded.
+2025-06-03 13:43:47.457 | DEBUG    | src.carriers.maersk:handle_modal_popup:519 - Got it selector [role="button"]:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 13:43:50.458 | DEBUG    | src.carriers.maersk:handle_modal_popup:519 - Got it selector button[class*="button"]:has-text("Got it") not found: Timeout 3000ms exceeded.
+2025-06-03 13:43:50.458 | WARNING  | src.carriers.maersk:handle_modal_popup:523 - Could not find 'Got it' button, modal might not be present
+2025-06-03 13:43:52.543 | INFO     | src.carriers.maersk:fill_booking_form:580 - Starting to fill booking form...
+2025-06-03 13:43:52.571 | INFO     | src.carriers.maersk:fill_booking_form:596 - Found form using indicator: text="Your booking details"
+2025-06-03 13:43:54.575 | INFO     | src.carriers.maersk:fill_booking_form:610 - Filling origin location...
+2025-06-03 13:44:03.605 | WARNING  | src.carriers.maersk:fill_booking_form:632 - Could not fill origin location
+2025-06-03 13:44:06.634 | INFO     | src.carriers.maersk:fill_booking_form:642 - Filling destination location...
+2025-06-03 13:44:09.660 | WARNING  | src.carriers.maersk:fill_booking_form:662 - Could not fill destination location
+2025-06-03 13:44:12.667 | INFO     | src.carriers.maersk:fill_booking_form:672 - Setting inland transportation...
+2025-06-03 13:44:15.669 | WARNING  | src.carriers.maersk:fill_booking_form:681 - Could not set origin transport option
+2025-06-03 13:44:18.669 | WARNING  | src.carriers.maersk:fill_booking_form:691 - Could not set destination transport option
+2025-06-03 13:44:18.669 | INFO     | src.carriers.maersk:fill_booking_form:694 - Filling commodity...
+2025-06-03 13:44:21.682 | WARNING  | src.carriers.maersk:fill_booking_form:714 - Could not fill commodity
+2025-06-03 13:44:22.685 | INFO     | src.carriers.maersk:fill_booking_form:733 - Successfully filled basic booking form details
+2025-06-03 13:44:22.784 | INFO     | src.carriers.maersk:fill_booking_form:738 - Booking form filling completed
+2025-06-03 13:44:22.784 | INFO     | __main__:main:176 - ✅ Booking form filled successfully!
+2025-06-03 13:44:22.857 | INFO     | __main__:main:196 - Found continue button: button:has-text("Continue")
+2025-06-03 13:44:22.857 | INFO     | __main__:main:205 - ✅ Continue button available - form ready for submission
+2025-06-03 13:44:22.857 | INFO     | __main__:main:229 - ============================================================
+2025-06-03 13:44:22.857 | INFO     | __main__:main:230 - 📊 AUTOMATION SUMMARY
+2025-06-03 13:44:22.857 | INFO     | __main__:main:231 - ============================================================
+2025-06-03 13:44:22.857 | INFO     | __main__:main:232 - ✅ Browser initialization: Success
+2025-06-03 13:44:22.857 | INFO     | __main__:main:233 - ✅ Enhanced login: Success
+2025-06-03 13:44:22.857 | INFO     | __main__:main:234 - ✅ Page navigation: Success
+2025-06-03 13:44:22.857 | INFO     | __main__:main:235 - ✅ Element detection: 7 elements found
+2025-06-03 13:44:22.857 | INFO     | __main__:main:236 - ✅ Form filling: Attempted
+2025-06-03 13:44:22.857 | INFO     | __main__:main:239 - ============================================================
+2025-06-03 13:44:22.857 | INFO     | __main__:main:240 - 🔍 MANUAL INSPECTION TIME
+2025-06-03 13:44:22.857 | INFO     | __main__:main:241 - ============================================================
+2025-06-03 13:44:22.857 | INFO     | __main__:main:242 - Browser will remain open for 60 seconds for manual inspection.
+2025-06-03 13:44:22.857 | INFO     | __main__:main:243 - You can:
+2025-06-03 13:44:22.857 | INFO     | __main__:main:244 - 1. Review the filled form
+2025-06-03 13:44:22.857 | INFO     | __main__:main:245 - 2. Submit the form manually if needed
+2025-06-03 13:44:22.858 | INFO     | __main__:main:246 - 3. Check for any remaining issues
+2025-06-03 13:44:22.858 | INFO     | __main__:main:247 - 4. Verify the automation worked correctly
+2025-06-03 13:44:22.858 | INFO     | __main__:main:248 - Press Ctrl+C to close early if needed.
+2025-06-03 13:44:22.858 | INFO     | __main__:main:249 - ============================================================
+2025-06-03 13:45:22.958 | INFO     | __main__:main:256 - ✅ Automated Maersk rate extraction completed successfully!
