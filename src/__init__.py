@@ -1,3 +1,0 @@
-"""
-Muvik Rate Extraction Package
-""" 

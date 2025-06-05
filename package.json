@@ -1,0 +1,43 @@
+{
+  "name": "muvik-rate-extraction-js",
+  "version": "1.0.0",
+  "description": "Automated Maersk rate extraction tool using Stagehand AI browser automation",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "node src/main.js",
+    "test": "node src/test-login.js",
+    "test-claude": "node src/examples/claude-test.js",
+    "dev": "node --watch src/main.js",
+    "advanced": "node src/examples/advanced-automation.js",
+    "demo": "node src/examples/simple-agent-demo.js",
+    "install-browser": "npx playwright install chromium"
+  },
+  "keywords": [
+    "maersk",
+    "automation",
+    "stagehand",
+    "browser",
+    "scraping",
+    "shipping",
+    "rates"
+  ],
+  "author": "Muvik Team",
+  "license": "MIT",
+  "dependencies": {
+    "@browserbasehq/stagehand": "^2.3.0",
+    "zod": "^3.22.4",
+    "dotenv": "^16.3.1",
+    "winston": "^3.11.0",
+    "chalk": "^5.3.0",
+    "ora": "^8.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+} 

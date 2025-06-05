@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: muvik-rate-extraction
-Version: 0.1.0
-Summary: Automated rate extraction tool for Muvik
-Author: Muvik Team
-Classifier: Programming Language :: Python :: 3
-Classifier: Operating System :: OS Independent
-Requires-Python: >=3.11
-Description-Content-Type: text/markdown

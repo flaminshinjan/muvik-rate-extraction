@@ -594,3 +594,1207 @@ waiting for navigation to "**/maersk.com/**" until 'load'
 2025-06-03 13:44:22.858 | INFO     | __main__:main:248 - Press Ctrl+C to close early if needed.
 2025-06-03 13:44:22.858 | INFO     | __main__:main:249 - ============================================================
 2025-06-03 13:45:22.958 | INFO     | __main__:main:256 - ✅ Automated Maersk rate extraction completed successfully!
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:37:46.237Z"}
+{"level":"info","message":"🚀 AUTOMATED MAERSK RATE EXTRACTION WITH STAGEHAND AI","timestamp":"2025-06-04T09:37:46.239Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:37:46.239Z"}
+{"level":"info","message":"Using AI-powered browser automation with enhanced Chromium compatibility","timestamp":"2025-06-04T09:37:46.239Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-04T09:37:46.239Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T09:37:46.239Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-04T09:37:46.239Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-04T09:37:46.239Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Stagehand AI...","timestamp":"2025-06-04T09:37:46.239Z"}
+{"level":"info","message":"📝 Initializing Stagehand browser with enhanced Chromium compatibility...","timestamp":"2025-06-04T09:37:46.240Z"}
+{"level":"info","message":"✅ Stagehand browser initialized successfully","timestamp":"2025-06-04T09:37:51.964Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:37:51.964Z"}
+{"level":"info","message":"🚀 ENHANCED HYBRID LOGIN WITH AI","timestamp":"2025-06-04T09:37:51.964Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:37:51.965Z"}
+{"level":"info","message":"Attempting AI-powered automated login with intelligent fallback","timestamp":"2025-06-04T09:37:51.965Z"}
+{"level":"info","message":"📝 Hybrid login attempt 1/2","timestamp":"2025-06-04T09:37:51.965Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:37:51.965Z"}
+{"level":"info","message":"🚀 ENHANCED HYBRID LOGIN","timestamp":"2025-06-04T09:37:51.965Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:37:51.965Z"}
+{"level":"info","message":"Attempting AI-powered automated login with manual fallback","timestamp":"2025-06-04T09:37:51.965Z"}
+{"level":"info","message":"📝 Navigating to Maersk booking page...","timestamp":"2025-06-04T09:37:51.965Z"}
+{"level":"info","message":"Screenshot saved: debug_initial_state.png","timestamp":"2025-06-04T09:38:01.011Z"}
+{"level":"info","message":"📝 Handling cookies with AI...","timestamp":"2025-06-04T09:38:01.011Z"}
+{"level":"info","message":"✅ Cookies accepted","timestamp":"2025-06-04T09:38:22.054Z"}
+{"level":"info","message":"Screenshot saved: debug_after_cookies.png","timestamp":"2025-06-04T09:38:22.721Z"}
+{"level":"info","message":"Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=XmZvyNtfXGuGKBlyZKkt&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=svez6rnPf70O8ECtYwePAeEc3G3Kh9__8ykNJVMLxB4","timestamp":"2025-06-04T09:38:22.721Z"}
+{"level":"info","message":"📝 Filling login form with AI...","timestamp":"2025-06-04T09:38:22.721Z"}
+{"level":"info","message":"✅ Username filled","timestamp":"2025-06-04T09:39:02.604Z"}
+{"level":"info","message":"✅ Password filled","timestamp":"2025-06-04T09:39:42.668Z"}
+{"level":"info","message":"Screenshot saved: debug_credentials_filled.png","timestamp":"2025-06-04T09:39:43.419Z"}
+{"level":"info","message":"✅ Login button clicked","timestamp":"2025-06-04T09:40:22.145Z"}
+{"level":"info","message":"📝 Waiting for authentication...","timestamp":"2025-06-04T09:40:22.145Z"}
+{"level":"info","message":"Screenshot saved: debug_login_error.png","timestamp":"2025-06-04T09:40:37.299Z"}
+{"level":"info","message":"Screenshot saved: debug_login_error.png","timestamp":"2025-06-04T09:40:55.153Z"}
+{"level":"info","message":"Authentication attempt 3/12, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=XmZvyNtfXGuGKBlyZKkt&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=svez6rnPf70O8ECtYwePAeEc3G3Kh9__8ykNJVMLxB4","timestamp":"2025-06-04T09:41:11.076Z"}
+{"level":"info","message":"Authentication attempt 4/12, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=XmZvyNtfXGuGKBlyZKkt&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=svez6rnPf70O8ECtYwePAeEc3G3Kh9__8ykNJVMLxB4","timestamp":"2025-06-04T09:41:27.455Z"}
+{"level":"info","message":"Screenshot saved: debug_login_error.png","timestamp":"2025-06-04T09:41:45.438Z"}
+{"level":"info","message":"Screenshot saved: debug_login_error.png","timestamp":"2025-06-04T09:42:03.172Z"}
+{"level":"info","message":"Authentication attempt 7/12, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=XmZvyNtfXGuGKBlyZKkt&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=svez6rnPf70O8ECtYwePAeEc3G3Kh9__8ykNJVMLxB4","timestamp":"2025-06-04T09:42:18.669Z"}
+{"level":"info","message":"🛑 Automation interrupted by user","timestamp":"2025-06-04T09:42:27.564Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:43:52.196Z"}
+{"level":"info","message":"🚀 TESTING STAGEHAND LOGIN FUNCTIONALITY","timestamp":"2025-06-04T09:43:52.197Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:43:52.198Z"}
+{"level":"info","message":"Testing enhanced Chromium compatibility and AI-powered authentication","timestamp":"2025-06-04T09:43:52.198Z"}
+{"level":"info","message":"Testing with credentials for user: whitehouse1","timestamp":"2025-06-04T09:43:52.198Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Stagehand...","timestamp":"2025-06-04T09:43:52.198Z"}
+{"level":"info","message":"📝 Initializing Stagehand browser with enhanced Chromium compatibility...","timestamp":"2025-06-04T09:43:52.198Z"}
+{"level":"info","message":"✅ Stagehand browser initialized successfully","timestamp":"2025-06-04T09:43:57.922Z"}
+{"level":"info","message":"📝 Testing initial navigation...","timestamp":"2025-06-04T09:43:57.923Z"}
+{"level":"info","message":"Screenshot saved: test_initial_navigation.png","timestamp":"2025-06-04T09:44:08.121Z"}
+{"level":"info","message":"✅ Navigation successful","timestamp":"2025-06-04T09:44:08.122Z"}
+{"level":"info","message":"📝 Testing AI page analysis...","timestamp":"2025-06-04T09:44:08.122Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:44:08.122Z"}
+{"level":"info","message":"🚀 VERIFYING BOOKING PAGE ELEMENTS","timestamp":"2025-06-04T09:44:08.122Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:44:08.122Z"}
+{"level":"info","message":"✅ Booking page verification completed","timestamp":"2025-06-04T09:44:20.273Z"}
+{"level":"info","message":"Page title: Maersk Global Accounts","timestamp":"2025-06-04T09:44:20.274Z"}
+{"level":"info","message":"Elements found: 9","timestamp":"2025-06-04T09:44:20.274Z"}
+{"level":"info","message":"✅ Page analysis completed - found 9 elements","timestamp":"2025-06-04T09:44:20.274Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:44:20.274Z"}
+{"level":"info","message":"🚀 TESTING HYBRID LOGIN","timestamp":"2025-06-04T09:44:20.274Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:44:20.274Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:44:20.275Z"}
+{"level":"info","message":"🚀 ENHANCED HYBRID LOGIN","timestamp":"2025-06-04T09:44:20.275Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T09:44:20.275Z"}
+{"level":"info","message":"Attempting AI-powered automated login with manual fallback","timestamp":"2025-06-04T09:44:20.275Z"}
+{"level":"info","message":"📝 Navigating to Maersk booking page...","timestamp":"2025-06-04T09:44:20.275Z"}
+{"level":"info","message":"Screenshot saved: debug_initial_state.png","timestamp":"2025-06-04T09:44:29.170Z"}
+{"level":"info","message":"📝 Handling cookies with AI...","timestamp":"2025-06-04T09:44:29.170Z"}
+{"level":"info","message":"✅ Cookies accepted","timestamp":"2025-06-04T09:44:54.680Z"}
+{"level":"info","message":"Screenshot saved: debug_after_cookies.png","timestamp":"2025-06-04T09:44:57.273Z"}
+{"level":"info","message":"Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=kOjVjUO037XYCC1QgJpD&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=RIIs-pBmLIf2utszfPdXRRcsXCYak4Rm8_pi36MbAtg","timestamp":"2025-06-04T09:44:57.273Z"}
+{"level":"info","message":"📝 Filling login form with AI...","timestamp":"2025-06-04T09:44:57.274Z"}
+{"level":"info","message":"✅ Username filled","timestamp":"2025-06-04T09:45:36.995Z"}
+{"level":"info","message":"✅ Password filled","timestamp":"2025-06-04T09:46:16.372Z"}
+{"level":"info","message":"Screenshot saved: debug_credentials_filled.png","timestamp":"2025-06-04T09:46:50.029Z"}
+{"level":"info","message":"✅ Login button clicked","timestamp":"2025-06-04T09:47:31.166Z"}
+{"level":"info","message":"📝 Waiting for authentication...","timestamp":"2025-06-04T09:47:31.167Z"}
+{"level":"info","message":"Authentication attempt 1/12, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=kOjVjUO037XYCC1QgJpD&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=RIIs-pBmLIf2utszfPdXRRcsXCYak4Rm8_pi36MbAtg","timestamp":"2025-06-04T09:47:42.108Z"}
+{"level":"info","message":"Screenshot saved: debug_login_error.png","timestamp":"2025-06-04T09:47:58.798Z"}
+{"level":"info","message":"Authentication attempt 3/12, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=kOjVjUO037XYCC1QgJpD&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=RIIs-pBmLIf2utszfPdXRRcsXCYak4Rm8_pi36MbAtg","timestamp":"2025-06-04T09:48:16.633Z"}
+{"level":"info","message":"Screenshot saved: debug_login_error.png","timestamp":"2025-06-04T09:48:34.234Z"}
+{"level":"info","message":"Screenshot saved: debug_login_error.png","timestamp":"2025-06-04T09:48:54.833Z"}
+{"level":"warn","message":"⚠️ Automated login failed: \nHey! We're sorry you ran into an error. \nIf you need help, please open a Github issue or reach out to us on Slack: https://stagehand.dev/slack\n\nFull error:\npage.evaluate: Target page, context or browser has been closed","timestamp":"2025-06-04T09:49:41.594Z"}
+{"level":"error","message":"❌ Login test error: \nHey! We're sorry you ran into an error. \nIf you need help, please open a Github issue or reach out to us on Slack: https://stagehand.dev/slack\n\nFull error:\npage.evaluate: Target page, context or browser has been closed","timestamp":"2025-06-04T09:49:41.595Z"}
+{"level":"error","message":"❌ ❌ Test error: cdpSession.send: Target page, context or browser has been closed","timestamp":"2025-06-04T09:49:41.595Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:13:17.037Z"}
+{"level":"info","message":"🚀 TESTING STAGEHAND 2.0 AI AGENT LOGIN FUNCTIONALITY","timestamp":"2025-06-04T13:13:17.039Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:13:17.039Z"}
+{"level":"info","message":"Testing enhanced Chromium compatibility and AI agent authentication","timestamp":"2025-06-04T13:13:17.039Z"}
+{"level":"info","message":"Testing with credentials for user: whitehouse1","timestamp":"2025-06-04T13:13:17.039Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Stagehand 2.0...","timestamp":"2025-06-04T13:13:17.039Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Computer Use Models...","timestamp":"2025-06-04T13:13:17.040Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-04T13:13:22.173Z"}
+{"level":"info","message":"✅ Stagehand with Computer Use Models initialized successfully","timestamp":"2025-06-04T13:13:22.174Z"}
+{"level":"info","message":"📝 Testing initial navigation...","timestamp":"2025-06-04T13:13:22.174Z"}
+{"level":"info","message":"Screenshot saved: test_initial_navigation.png","timestamp":"2025-06-04T13:13:37.459Z"}
+{"level":"info","message":"✅ Navigation successful","timestamp":"2025-06-04T13:13:37.459Z"}
+{"level":"info","message":"📝 Testing AI agent page analysis...","timestamp":"2025-06-04T13:13:37.460Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:13:37.460Z"}
+{"level":"info","message":"🚀 VERIFYING BOOKING PAGE ELEMENTS","timestamp":"2025-06-04T13:13:37.460Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:13:37.460Z"}
+{"level":"info","message":"✅ Booking page verification completed","timestamp":"2025-06-04T13:13:49.451Z"}
+{"level":"info","message":"Page title: Maersk Global Accounts","timestamp":"2025-06-04T13:13:49.452Z"}
+{"level":"info","message":"Elements found: 8","timestamp":"2025-06-04T13:13:49.452Z"}
+{"level":"info","message":"✅ AI page analysis completed - found 8 elements","timestamp":"2025-06-04T13:13:49.452Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:13:49.452Z"}
+{"level":"info","message":"🚀 TESTING AI AGENT LOGIN","timestamp":"2025-06-04T13:13:49.453Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:13:49.453Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:13:49.454Z"}
+{"level":"info","message":"🚀 COMPUTER USE AGENT LOGIN","timestamp":"2025-06-04T13:13:49.454Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:13:49.454Z"}
+{"level":"info","message":"Using Stagehand Computer Use Agent for intelligent automated login","timestamp":"2025-06-04T13:13:49.454Z"}
+{"level":"info","message":"📝 Executing Computer Use agent login...","timestamp":"2025-06-04T13:14:04.248Z"}
+{"level":"info","message":"✅ Computer Use agent login completed!","timestamp":"2025-06-04T13:16:55.898Z"}
+{"level":"info","message":"Agent message: Failed to execute task: 429 {\"type\":\"error\",\"error\":{\"type\":\"rate_limit_error\",\"message\":\"This request would exceed the rate limit for your organization (9921f103-f1d7-48bc-962e-a0fe29637167) of 20,000 input tokens per minute. For details, refer to: https://docs.anthropic.com/en/api/rate-limits. You can see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at https://www.anthropic.com/contact-sales to discuss your options for a rate limit increase.\"}}","timestamp":"2025-06-04T13:16:55.898Z"}
+{"level":"info","message":"Current URL after login: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=37V496ib0I0R2wl8YIS2&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=nI0F-WJ0Dm3_Cfz_X6Yd8xoyLRPZHAoZWS_-Weyzs3I","timestamp":"2025-06-04T13:16:55.899Z"}
+{"level":"warn","message":"⚠️ Computer Use agent login failed: Login verification failed - still on login page","timestamp":"2025-06-04T13:16:58.900Z"}
+{"level":"info","message":"🔄 Falling back to manual login...","timestamp":"2025-06-04T13:16:58.901Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:16:58.901Z"}
+{"level":"info","message":"🚀 MANUAL LOGIN FALLBACK","timestamp":"2025-06-04T13:16:58.902Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:16:58.902Z"}
+{"level":"info","message":"Screenshot saved: debug_manual_login_start.png","timestamp":"2025-06-04T13:17:15.776Z"}
+{"level":"info","message":"🔐 LOGIN PAGE DETECTED","timestamp":"2025-06-04T13:17:15.777Z"}
+{"level":"info","message":"Please complete login manually and press Enter when done...","timestamp":"2025-06-04T13:17:15.777Z"}
+{"level":"error","message":"❌ ❌ AI agent login functionality failed","timestamp":"2025-06-04T13:17:45.779Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:17:45.779Z"}
+{"level":"info","message":"🚀 TESTING AI AGENT FORM DETECTION","timestamp":"2025-06-04T13:17:45.779Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:17:45.779Z"}
+{"level":"info","message":"🛑 Test interrupted by user","timestamp":"2025-06-04T13:17:50.947Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:26:28.050Z"}
+{"level":"info","message":"🚀 🚀 TESTING BASIC STAGEHAND FUNCTIONALITY","timestamp":"2025-06-04T13:26:28.051Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:26:28.051Z"}
+{"level":"info","message":"Testing basic page.act() methods and avoiding Claude rate limits","timestamp":"2025-06-04T13:26:28.052Z"}
+{"level":"info","message":"Testing with credentials for user: whitehouse1","timestamp":"2025-06-04T13:26:28.052Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier...","timestamp":"2025-06-04T13:26:28.052Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Computer Use Models...","timestamp":"2025-06-04T13:26:28.052Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-04T13:26:33.087Z"}
+{"level":"info","message":"✅ Stagehand with Computer Use Models initialized successfully","timestamp":"2025-06-04T13:26:33.087Z"}
+{"level":"info","message":"📝 Testing initial navigation...","timestamp":"2025-06-04T13:26:33.088Z"}
+{"level":"info","message":"Screenshot saved: test_initial_navigation.png","timestamp":"2025-06-04T13:26:49.945Z"}
+{"level":"info","message":"✅ Navigation successful","timestamp":"2025-06-04T13:26:49.945Z"}
+{"level":"info","message":"📝 Testing basic page actions...","timestamp":"2025-06-04T13:26:49.946Z"}
+{"level":"info","message":"✅ Cookie action test passed","timestamp":"2025-06-04T13:27:14.112Z"}
+{"level":"info","message":"📝 Testing basic page analysis...","timestamp":"2025-06-04T13:27:14.113Z"}
+{"level":"warn","message":"⚠️ Page analysis failed: \nHey! We're sorry you ran into an error. \nIf you need help, please open a Github issue or reach out to us on Slack: https://stagehand.dev/slack\n\nFull error:\nCannot read properties of undefined (reading 'shape')","timestamp":"2025-06-04T13:27:23.502Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:27:23.503Z"}
+{"level":"info","message":"🚀 TESTING BASIC LOGIN ACTIONS","timestamp":"2025-06-04T13:27:23.504Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:27:23.504Z"}
+{"level":"info","message":"Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Kx5ibskJTaaayQDaoZeG&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=Q9Aao53QUw0Z3tDOR8CMPfPNkKJRzTBkUQKyC_lJq2I","timestamp":"2025-06-04T13:27:23.505Z"}
+{"level":"info","message":"🔐 LOGIN PAGE DETECTED - Testing basic form actions","timestamp":"2025-06-04T13:27:23.505Z"}
+{"level":"info","message":"✅ Username field action test passed","timestamp":"2025-06-04T13:28:03.299Z"}
+{"level":"info","message":"✅ Password field action test passed","timestamp":"2025-06-04T13:28:43.419Z"}
+{"level":"info","message":"Screenshot saved: test_credentials_filled.png","timestamp":"2025-06-04T13:28:44.179Z"}
+{"level":"info","message":"Login form actions tested successfully (not submitting for test)","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"🚀 🎯 TEST SUMMARY","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"✅ ✅ Basic Stagehand functionality tested","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"✅ ✅ Navigation actions working","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"✅ ✅ Basic page.act() methods functional","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"✅ ✅ Form interaction actions tested","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"✅ ✅ Screenshot capture working","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"💡 Rate limiting handled - no Claude Computer Use tokens wasted","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"Keeping browser open for 10 seconds for inspection...","timestamp":"2025-06-04T13:28:44.180Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-04T13:28:54.484Z"}
+{"level":"info","message":"✅ ✅ Basic Stagehand test completed successfully!","timestamp":"2025-06-04T13:28:54.484Z"}
+{"level":"info","message":"🎯 Key Points:","timestamp":"2025-06-04T13:28:54.484Z"}
+{"level":"info","message":"- Use basic page.act() for simple actions (no tokens)","timestamp":"2025-06-04T13:28:54.484Z"}
+{"level":"info","message":"- Reserve Claude Computer Use for complex analysis only","timestamp":"2025-06-04T13:28:54.484Z"}
+{"level":"info","message":"- Rate limiting prevents 429 errors","timestamp":"2025-06-04T13:28:54.484Z"}
+{"level":"info","message":"- Screenshots help debug issues","timestamp":"2025-06-04T13:28:54.485Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:31:24.101Z"}
+{"level":"info","message":"🚀 AUTOMATED MAERSK RATE EXTRACTION WITH STAGEHAND 2.0 SMART AUTOMATION","timestamp":"2025-06-04T13:31:24.103Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:31:24.103Z"}
+{"level":"info","message":"Using smart hybrid approach: basic actions + selective Claude Computer Use","timestamp":"2025-06-04T13:31:24.103Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-04T13:31:24.103Z"}
+{"level":"info","message":"💡 Smart approach: Basic actions for forms, Claude for analysis only","timestamp":"2025-06-04T13:31:24.103Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T13:31:24.103Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-04T13:31:24.103Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-04T13:31:24.103Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with smart automation...","timestamp":"2025-06-04T13:31:24.103Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Computer Use Models...","timestamp":"2025-06-04T13:31:24.104Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-04T13:31:29.082Z"}
+{"level":"info","message":"✅ Stagehand with Computer Use Models initialized successfully","timestamp":"2025-06-04T13:31:29.083Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:31:29.084Z"}
+{"level":"info","message":"🚀 SMART HYBRID LOGIN SYSTEM","timestamp":"2025-06-04T13:31:29.084Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:31:29.084Z"}
+{"level":"info","message":"Using basic actions for form filling, Claude only for complex analysis","timestamp":"2025-06-04T13:31:29.084Z"}
+{"level":"info","message":"📝 Smart login attempt 1/2","timestamp":"2025-06-04T13:31:29.084Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:31:29.084Z"}
+{"level":"info","message":"🚀 SMART HYBRID LOGIN WITH CLAUDE ANALYSIS","timestamp":"2025-06-04T13:31:29.084Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:31:29.084Z"}
+{"level":"info","message":"Using basic actions for form filling, Claude for analysis","timestamp":"2025-06-04T13:31:29.085Z"}
+{"level":"info","message":"Screenshot saved: debug_initial_login.png","timestamp":"2025-06-04T13:31:40.992Z"}
+{"level":"info","message":"📝 Handling cookies with basic action...","timestamp":"2025-06-04T13:31:40.992Z"}
+{"level":"info","message":"✅ Cookies accepted","timestamp":"2025-06-04T13:32:01.811Z"}
+{"level":"info","message":"Screenshot saved: debug_after_cookies.png","timestamp":"2025-06-04T13:32:04.236Z"}
+{"level":"info","message":"Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:32:04.237Z"}
+{"level":"info","message":"📝 Filling login form with basic actions...","timestamp":"2025-06-04T13:32:04.237Z"}
+{"level":"info","message":"✅ Username filled","timestamp":"2025-06-04T13:32:43.450Z"}
+{"level":"info","message":"✅ Password filled","timestamp":"2025-06-04T13:33:22.973Z"}
+{"level":"info","message":"Screenshot saved: debug_credentials_filled.png","timestamp":"2025-06-04T13:33:23.394Z"}
+{"level":"info","message":"✅ Login button clicked","timestamp":"2025-06-04T13:34:03.598Z"}
+{"level":"info","message":"Authentication attempt 1/10, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:34:03.599Z"}
+{"level":"info","message":"Authentication attempt 2/10, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:34:08.601Z"}
+{"level":"info","message":"Authentication attempt 3/10, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:34:13.603Z"}
+{"level":"info","message":"Authentication attempt 4/10, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:34:18.605Z"}
+{"level":"info","message":"Authentication attempt 5/10, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:34:23.605Z"}
+{"level":"info","message":"Authentication attempt 6/10, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:34:28.607Z"}
+{"level":"info","message":"Authentication attempt 7/10, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:34:33.608Z"}
+{"level":"info","message":"Authentication attempt 8/10, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:34:38.613Z"}
+{"level":"info","message":"Authentication attempt 9/10, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:34:43.614Z"}
+{"level":"info","message":"Authentication attempt 10/10, URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=Syc6tsktM6IyW3ZoR8Fl&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=TWBmIAq4SYXBYoXsewFFbF1OhyrVygzGU4f00LUczRE","timestamp":"2025-06-04T13:34:48.616Z"}
+{"level":"info","message":"Screenshot saved: debug_form_error.png","timestamp":"2025-06-04T13:34:54.066Z"}
+{"level":"warn","message":"⚠️ Smart login failed: Form filling failed: Authentication timeout - login may have failed","timestamp":"2025-06-04T13:34:54.067Z"}
+{"level":"info","message":"🔄 Falling back to manual login...","timestamp":"2025-06-04T13:34:54.067Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:34:54.067Z"}
+{"level":"info","message":"🚀 MANUAL LOGIN FALLBACK","timestamp":"2025-06-04T13:34:54.067Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:34:54.067Z"}
+{"level":"info","message":"Screenshot saved: debug_manual_login_start.png","timestamp":"2025-06-04T13:35:06.876Z"}
+{"level":"info","message":"🔐 LOGIN PAGE DETECTED","timestamp":"2025-06-04T13:35:06.877Z"}
+{"level":"info","message":"Please complete login manually and press Enter when done...","timestamp":"2025-06-04T13:35:06.877Z"}
+{"level":"warn","message":"⚠️ Smart hybrid login returned false","timestamp":"2025-06-04T13:35:36.878Z"}
+{"level":"info","message":"📝 Smart login attempt 2/2","timestamp":"2025-06-04T13:35:36.879Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:35:36.880Z"}
+{"level":"info","message":"🚀 SMART HYBRID LOGIN WITH CLAUDE ANALYSIS","timestamp":"2025-06-04T13:35:36.880Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:35:36.880Z"}
+{"level":"info","message":"Using basic actions for form filling, Claude for analysis","timestamp":"2025-06-04T13:35:36.880Z"}
+{"level":"info","message":"Screenshot saved: debug_initial_login.png","timestamp":"2025-06-04T13:35:45.891Z"}
+{"level":"info","message":"📝 Handling cookies with basic action...","timestamp":"2025-06-04T13:35:45.891Z"}
+{"level":"info","message":"✅ Cookies accepted","timestamp":"2025-06-04T13:36:25.877Z"}
+{"level":"info","message":"Screenshot saved: debug_after_cookies.png","timestamp":"2025-06-04T13:36:28.297Z"}
+{"level":"info","message":"Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=nSyBsPKvbtz4jXA3aOXV&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=XxVHz_5U7msdITRirw9dDhftXt1gJJHOvLXB-FssSk0","timestamp":"2025-06-04T13:36:28.297Z"}
+{"level":"info","message":"📝 Filling login form with basic actions...","timestamp":"2025-06-04T13:36:28.297Z"}
+{"level":"info","message":"✅ Username filled","timestamp":"2025-06-04T13:37:07.833Z"}
+{"level":"warn","message":"⚠️ Smart login failed: cdpSession.send: Target page, context or browser has been closed","timestamp":"2025-06-04T13:37:08.290Z"}
+{"level":"info","message":"🔄 Falling back to manual login...","timestamp":"2025-06-04T13:37:08.290Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:37:08.290Z"}
+{"level":"info","message":"🚀 MANUAL LOGIN FALLBACK","timestamp":"2025-06-04T13:37:08.290Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T13:37:08.291Z"}
+{"level":"warn","message":"⚠️ Smart login attempt 2 failed: proxy.goto: Target page, context or browser has been closed","timestamp":"2025-06-04T13:37:08.292Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:31:55.072Z"}
+{"level":"info","message":"🚀 AUTOMATED MAERSK RATE EXTRACTION WITH STAGEHAND 2.0 OPENAI COMPUTER USE","timestamp":"2025-06-04T14:31:55.073Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:31:55.074Z"}
+{"level":"info","message":"Using OpenAI Computer Use with Sequential Tool Calling for robust automation","timestamp":"2025-06-04T14:31:55.074Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-04T14:31:55.074Z"}
+{"level":"info","message":"🤖 Using OpenAI Computer Use for reliable automation","timestamp":"2025-06-04T14:31:55.074Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T14:31:55.074Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-04T14:31:55.074Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-04T14:31:55.074Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with OpenAI Computer Use...","timestamp":"2025-06-04T14:31:55.074Z"}
+{"level":"info","message":"📝 Initializing Stagehand with OpenAI Computer Use...","timestamp":"2025-06-04T14:31:55.075Z"}
+{"level":"info","message":"✅ OpenAI Computer Use agent initialized","timestamp":"2025-06-04T14:31:59.991Z"}
+{"level":"info","message":"✅ Stagehand with OpenAI Computer Use initialized successfully","timestamp":"2025-06-04T14:31:59.991Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:31:59.992Z"}
+{"level":"info","message":"🚀 OPENAI COMPUTER USE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-04T14:31:59.992Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:31:59.992Z"}
+{"level":"info","message":"Using Sequential Tool Calling (Open Operator) for intelligent login automation","timestamp":"2025-06-04T14:31:59.992Z"}
+{"level":"info","message":"📝 OpenAI Computer Use login attempt 1/2","timestamp":"2025-06-04T14:31:59.992Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:31:59.992Z"}
+{"level":"info","message":"🚀 OPENAI COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-04T14:31:59.992Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:31:59.992Z"}
+{"level":"info","message":"Using Sequential Tool Calling (Open Operator) for robust login","timestamp":"2025-06-04T14:31:59.992Z"}
+{"level":"info","message":"📝 Executing Sequential Tool Calling for complete login flow...","timestamp":"2025-06-04T14:32:13.579Z"}
+{"level":"info","message":"✅ Sequential Tool Calling login completed!","timestamp":"2025-06-04T14:32:19.502Z"}
+{"level":"info","message":"OpenAI Agent message: Failed to execute task: 404 The model `computer-use-preview-2025-03-11` does not exist or you do not have access to it.","timestamp":"2025-06-04T14:32:19.503Z"}
+{"level":"info","message":"Actions performed: 0","timestamp":"2025-06-04T14:32:19.503Z"}
+{"level":"info","message":"Current URL after login: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=4bXrjacIad2a1W3V9R9E&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=RqcrLTd3o2YGYdQr3Ea7JOykvDLQ17VF6RqrZmcc9Mc","timestamp":"2025-06-04T14:32:24.504Z"}
+{"level":"info","message":"✅ Login verification successful - on booking portal","timestamp":"2025-06-04T14:32:24.504Z"}
+{"level":"info","message":"✅ OpenAI Computer Use sequential login completed successfully!","timestamp":"2025-06-04T14:32:24.504Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:32:24.505Z"}
+{"level":"info","message":"🚀 POST-LOGIN VERIFICATION","timestamp":"2025-06-04T14:32:24.505Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:32:24.505Z"}
+{"level":"info","message":"Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=4bXrjacIad2a1W3V9R9E&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=RqcrLTd3o2YGYdQr3Ea7JOykvDLQ17VF6RqrZmcc9Mc","timestamp":"2025-06-04T14:32:27.506Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-04T14:32:27.506Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:32:44.090Z"}
+{"level":"info","message":"🚀 OPENAI COMPUTER USE PAGE ANALYSIS","timestamp":"2025-06-04T14:32:44.091Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:32:44.091Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:32:44.092Z"}
+{"level":"info","message":"🚀 VERIFYING BOOKING PAGE ELEMENTS","timestamp":"2025-06-04T14:32:44.092Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:32:44.092Z"}
+{"level":"info","message":"✅ Booking page verification completed","timestamp":"2025-06-04T14:33:01.333Z"}
+{"level":"info","message":"Page title: Maersk Global Accounts","timestamp":"2025-06-04T14:33:01.333Z"}
+{"level":"info","message":"Elements found: 12","timestamp":"2025-06-04T14:33:01.333Z"}
+{"level":"info","message":"📊 Page Analysis Results:","timestamp":"2025-06-04T14:33:01.334Z"}
+{"level":"info","message":"  - Has booking form: ✅","timestamp":"2025-06-04T14:33:01.334Z"}
+{"level":"info","message":"  - Has location fields: ❌","timestamp":"2025-06-04T14:33:01.334Z"}
+{"level":"info","message":"  - Has continue button: ❌","timestamp":"2025-06-04T14:33:01.334Z"}
+{"level":"info","message":"  - Elements found: 12","timestamp":"2025-06-04T14:33:01.334Z"}
+{"level":"warn","message":"⚠️ ⚠️ Expected booking form elements not found","timestamp":"2025-06-04T14:33:01.334Z"}
+{"level":"info","message":"Taking screenshot for manual inspection...","timestamp":"2025-06-04T14:33:01.334Z"}
+{"level":"info","message":"Screenshot saved: debug_no_booking_form.png","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"🚀 OPENAI COMPUTER USE AUTOMATION SUMMARY","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"📊 EXECUTION SUMMARY","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"✅ ✅ Browser initialization: Success","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"✅ ✅ OpenAI Computer Use sequential login: Success","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"✅ ✅ Page navigation: Success","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"✅ ✅ OpenAI Computer Use page analysis: Success","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"✅ ✅ Form detection: Success","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"✅ ✅ OpenAI Computer Use automation: Attempted","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"✅ ✅ Action replay saved: Yes","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"🤖 OpenAI Computer Use provides reliable automation without rate limiting","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"🚀 MANUAL INSPECTION","timestamp":"2025-06-04T14:33:02.820Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:33:02.821Z"}
+{"level":"info","message":"🔍 Browser will remain open for 60 seconds for manual inspection","timestamp":"2025-06-04T14:33:02.821Z"}
+{"level":"info","message":"You can:","timestamp":"2025-06-04T14:33:02.821Z"}
+{"level":"info","message":"1. Review the OpenAI Computer Use automation results","timestamp":"2025-06-04T14:33:02.821Z"}
+{"level":"info","message":"2. Check any extracted rates manually","timestamp":"2025-06-04T14:33:02.821Z"}
+{"level":"info","message":"3. Verify the Sequential Tool Calling worked correctly","timestamp":"2025-06-04T14:33:02.821Z"}
+{"level":"info","message":"4. Take screenshots for documentation","timestamp":"2025-06-04T14:33:02.821Z"}
+{"level":"info","message":"5. Check the generated replay file for debugging","timestamp":"2025-06-04T14:33:02.821Z"}
+{"level":"info","message":"Press Ctrl+C to close early if needed","timestamp":"2025-06-04T14:33:02.821Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-04T14:34:03.120Z"}
+{"level":"info","message":"✅ ✅ Automated Maersk rate extraction with OpenAI Computer Use completed successfully!","timestamp":"2025-06-04T14:34:03.121Z"}
+{"level":"info","message":"📄 Check maersk_rate_extraction_replay.js for action replay","timestamp":"2025-06-04T14:34:03.121Z"}
+{"level":"info","message":"🤖 OpenAI Computer Use: Reliable, fast, and no rate limiting issues","timestamp":"2025-06-04T14:34:03.121Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:41:45.338Z"}
+{"level":"info","message":"🚀 AUTOMATED MAERSK RATE EXTRACTION WITH STAGEHAND 2.0 OPENAI COMPUTER USE","timestamp":"2025-06-04T14:41:45.339Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:41:45.339Z"}
+{"level":"info","message":"Using OpenAI Computer Use with Sequential Tool Calling for robust automation","timestamp":"2025-06-04T14:41:45.339Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-04T14:41:45.340Z"}
+{"level":"info","message":"🤖 Using OpenAI Computer Use for reliable automation","timestamp":"2025-06-04T14:41:45.340Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T14:41:45.340Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-04T14:41:45.340Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-04T14:41:45.340Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with OpenAI Computer Use...","timestamp":"2025-06-04T14:41:45.340Z"}
+{"level":"info","message":"📝 Initializing Stagehand with OpenAI Computer Use...","timestamp":"2025-06-04T14:41:45.340Z"}
+{"level":"info","message":"✅ OpenAI Computer Use agent initialized","timestamp":"2025-06-04T14:41:51.374Z"}
+{"level":"info","message":"✅ Stagehand with OpenAI Computer Use initialized successfully","timestamp":"2025-06-04T14:41:51.375Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:41:51.375Z"}
+{"level":"info","message":"🚀 OPENAI COMPUTER USE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-04T14:41:51.375Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:41:51.375Z"}
+{"level":"info","message":"Using Sequential Tool Calling (Open Operator) for intelligent login automation","timestamp":"2025-06-04T14:41:51.375Z"}
+{"level":"info","message":"📝 OpenAI Computer Use login attempt 1/2","timestamp":"2025-06-04T14:41:51.376Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:41:51.376Z"}
+{"level":"info","message":"🚀 OPENAI COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-04T14:41:51.376Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:41:51.376Z"}
+{"level":"info","message":"Using Sequential Tool Calling (Open Operator) for robust login","timestamp":"2025-06-04T14:41:51.376Z"}
+{"level":"info","message":"📝 Executing Sequential Tool Calling for complete login flow...","timestamp":"2025-06-04T14:42:19.380Z"}
+{"level":"info","message":"✅ Sequential Tool Calling login completed!","timestamp":"2025-06-04T14:42:26.019Z"}
+{"level":"info","message":"OpenAI Agent message: Failed to execute task: 404 The model `computer-use-preview-2025-03-11` does not exist or you do not have access to it.","timestamp":"2025-06-04T14:42:26.019Z"}
+{"level":"info","message":"Actions performed: 0","timestamp":"2025-06-04T14:42:26.019Z"}
+{"level":"info","message":"Current URL after login: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=nCJHR3XOJsuwgZupBh21&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=NTLZpZ3EBwBdnP9NLtXs2BgRvqbHRSZKxc0P5ulzBf0","timestamp":"2025-06-04T14:42:31.021Z"}
+{"level":"info","message":"✅ Login verification successful - on booking portal","timestamp":"2025-06-04T14:42:31.022Z"}
+{"level":"info","message":"✅ OpenAI Computer Use sequential login completed successfully!","timestamp":"2025-06-04T14:42:31.022Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:42:31.023Z"}
+{"level":"info","message":"🚀 POST-LOGIN VERIFICATION","timestamp":"2025-06-04T14:42:31.023Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:42:31.023Z"}
+{"level":"info","message":"Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=nCJHR3XOJsuwgZupBh21&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=NTLZpZ3EBwBdnP9NLtXs2BgRvqbHRSZKxc0P5ulzBf0","timestamp":"2025-06-04T14:42:34.024Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-04T14:42:34.024Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:42:48.239Z"}
+{"level":"info","message":"🚀 OPENAI COMPUTER USE PAGE ANALYSIS","timestamp":"2025-06-04T14:42:48.239Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:42:48.240Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:42:48.240Z"}
+{"level":"info","message":"🚀 VERIFYING BOOKING PAGE ELEMENTS","timestamp":"2025-06-04T14:42:48.241Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:42:48.241Z"}
+{"level":"info","message":"✅ Booking page verification completed","timestamp":"2025-06-04T14:43:01.594Z"}
+{"level":"info","message":"Page title: Maersk Global Accounts","timestamp":"2025-06-04T14:43:01.595Z"}
+{"level":"info","message":"Elements found: 8","timestamp":"2025-06-04T14:43:01.595Z"}
+{"level":"info","message":"📊 Page Analysis Results:","timestamp":"2025-06-04T14:43:01.595Z"}
+{"level":"info","message":"  - Has booking form: ✅","timestamp":"2025-06-04T14:43:01.596Z"}
+{"level":"info","message":"  - Has location fields: ❌","timestamp":"2025-06-04T14:43:01.596Z"}
+{"level":"info","message":"  - Has continue button: ❌","timestamp":"2025-06-04T14:43:01.596Z"}
+{"level":"info","message":"  - Elements found: 8","timestamp":"2025-06-04T14:43:01.596Z"}
+{"level":"warn","message":"⚠️ ⚠️ Expected booking form elements not found","timestamp":"2025-06-04T14:43:01.596Z"}
+{"level":"info","message":"Taking screenshot for manual inspection...","timestamp":"2025-06-04T14:43:01.596Z"}
+{"level":"info","message":"Screenshot saved: debug_no_booking_form.png","timestamp":"2025-06-04T14:43:02.883Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:43:02.884Z"}
+{"level":"info","message":"🚀 OPENAI COMPUTER USE AUTOMATION SUMMARY","timestamp":"2025-06-04T14:43:02.884Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:43:02.884Z"}
+{"level":"info","message":"📊 EXECUTION SUMMARY","timestamp":"2025-06-04T14:43:02.884Z"}
+{"level":"info","message":"✅ ✅ Browser initialization: Success","timestamp":"2025-06-04T14:43:02.885Z"}
+{"level":"info","message":"✅ ✅ OpenAI Computer Use sequential login: Success","timestamp":"2025-06-04T14:43:02.885Z"}
+{"level":"info","message":"✅ ✅ Page navigation: Success","timestamp":"2025-06-04T14:43:02.885Z"}
+{"level":"info","message":"✅ ✅ OpenAI Computer Use page analysis: Success","timestamp":"2025-06-04T14:43:02.885Z"}
+{"level":"info","message":"✅ ✅ Form detection: Success","timestamp":"2025-06-04T14:43:02.885Z"}
+{"level":"info","message":"✅ ✅ OpenAI Computer Use automation: Attempted","timestamp":"2025-06-04T14:43:02.885Z"}
+{"level":"info","message":"✅ ✅ Action replay saved: Yes","timestamp":"2025-06-04T14:43:02.885Z"}
+{"level":"info","message":"🤖 OpenAI Computer Use provides reliable automation without rate limiting","timestamp":"2025-06-04T14:43:02.885Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:43:02.885Z"}
+{"level":"info","message":"🚀 MANUAL INSPECTION","timestamp":"2025-06-04T14:43:02.885Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T14:43:02.886Z"}
+{"level":"info","message":"🔍 Browser will remain open for 60 seconds for manual inspection","timestamp":"2025-06-04T14:43:02.886Z"}
+{"level":"info","message":"You can:","timestamp":"2025-06-04T14:43:02.886Z"}
+{"level":"info","message":"1. Review the OpenAI Computer Use automation results","timestamp":"2025-06-04T14:43:02.886Z"}
+{"level":"info","message":"2. Check any extracted rates manually","timestamp":"2025-06-04T14:43:02.886Z"}
+{"level":"info","message":"3. Verify the Sequential Tool Calling worked correctly","timestamp":"2025-06-04T14:43:02.886Z"}
+{"level":"info","message":"4. Take screenshots for documentation","timestamp":"2025-06-04T14:43:02.886Z"}
+{"level":"info","message":"5. Check the generated replay file for debugging","timestamp":"2025-06-04T14:43:02.886Z"}
+{"level":"info","message":"Press Ctrl+C to close early if needed","timestamp":"2025-06-04T14:43:02.886Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-04T14:44:03.214Z"}
+{"level":"info","message":"✅ ✅ Automated Maersk rate extraction with OpenAI Computer Use completed successfully!","timestamp":"2025-06-04T14:44:03.215Z"}
+{"level":"info","message":"📄 Check maersk_rate_extraction_replay.js for action replay","timestamp":"2025-06-04T14:44:03.215Z"}
+{"level":"info","message":"🤖 OpenAI Computer Use: Reliable, fast, and no rate limiting issues","timestamp":"2025-06-04T14:44:03.215Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:02:52.445Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-04T20:02:52.448Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:02:52.448Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-04T20:02:52.448Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-04T20:02:52.448Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T20:02:52.448Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-04T20:02:52.448Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-04T20:02:52.448Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-04T20:02:52.448Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-04T20:02:52.449Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-04T20:02:52.449Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-04T20:02:57.496Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-04T20:03:11.142Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-04T20:05:11.150Z"}
+{"level":"info","message":"✅ Cookies handled with browser-first approach","timestamp":"2025-06-04T20:05:31.376Z"}
+{"level":"info","message":"Browser-first credential filling failed, using Claude...","timestamp":"2025-06-04T20:06:02.383Z"}
+{"level":"info","message":"✅ Login submitted with browser-first approach","timestamp":"2025-06-04T20:07:29.907Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-04T20:07:34.909Z"}
+{"level":"info","message":"Current URL after login: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=aT60R371TqkFhCAEiX2Z&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=lvnrSOFt7wcTjM0hD3AyJ3x6NXbVEl1qXrUUkBYQpX8","timestamp":"2025-06-04T20:07:53.603Z"}
+{"level":"warn","message":"⚠️ Claude login failed: Login verification failed - still appears to be on login page","timestamp":"2025-06-04T20:07:53.604Z"}
+{"level":"warn","message":"⚠️ Claude login attempt 1 failed: Login verification failed - still appears to be on login page","timestamp":"2025-06-04T20:07:53.604Z"}
+{"level":"info","message":"📝 Retrying Claude login (attempt 2/2)...","timestamp":"2025-06-04T20:07:53.604Z"}
+{"level":"info","message":"📝 Claude login attempt 2/2","timestamp":"2025-06-04T20:07:56.605Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:07:56.606Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-04T20:07:56.606Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:07:56.606Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-04T20:07:56.606Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-04T20:07:56.606Z"}
+{"level":"warn","message":"⚠️ Claude login failed: proxy.goto: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - navigating to \"https://www.maersk.com/book\", waiting until \"load\"\u001b[22m\n","timestamp":"2025-06-04T20:08:08.222Z"}
+{"level":"warn","message":"⚠️ Claude login attempt 2 failed: proxy.goto: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - navigating to \"https://www.maersk.com/book\", waiting until \"load\"\u001b[22m\n","timestamp":"2025-06-04T20:08:08.222Z"}
+{"level":"error","message":"❌ Maximum Claude login attempts reached.","timestamp":"2025-06-04T20:08:08.223Z"}
+{"level":"error","message":"❌ ❌ Error during Claude automation: proxy.goto: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - navigating to \"https://www.maersk.com/book\", waiting until \"load\"\u001b[22m\n","timestamp":"2025-06-04T20:08:08.223Z"}
+{"level":"warn","message":"⚠️ Screenshot error: cdpSession.send: Target page, context or browser has been closed","timestamp":"2025-06-04T20:08:08.223Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-04T20:08:08.271Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:10:34.939Z"}
+{"level":"info","message":"🚀 🚀 MAERSK RATE EXTRACTION WITH SEQUENTIAL FLOW","timestamp":"2025-06-04T20:10:34.942Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:10:34.942Z"}
+{"level":"info","message":"🔑 Using credentials for user: whitehouse1","timestamp":"2025-06-04T20:10:34.942Z"}
+{"level":"info","message":"🤖 Using Stagehand with Sequential Tool Calling","timestamp":"2025-06-04T20:10:34.942Z"}
+{"level":"info","message":"📦 Booking: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T20:10:34.942Z"}
+{"level":"info","message":"📦 Commodity: Electronics","timestamp":"2025-06-04T20:10:34.942Z"}
+{"level":"info","message":"📦 Container: 1x 20ft DRY","timestamp":"2025-06-04T20:10:34.942Z"}
+{"level":"info","message":"📝 🔧 Initializing Stagehand browser...","timestamp":"2025-06-04T20:10:34.942Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-04T20:10:34.942Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-04T20:10:40.029Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-04T20:10:40.030Z"}
+{"level":"info","message":"✅ ✅ Stagehand browser initialized","timestamp":"2025-06-04T20:10:40.030Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:10:40.030Z"}
+{"level":"info","message":"🚀 STEP 1: NAVIGATE TO MAERSK","timestamp":"2025-06-04T20:10:40.030Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:10:40.030Z"}
+{"level":"info","message":"📝 🌐 Navigating to Maersk website...","timestamp":"2025-06-04T20:10:40.030Z"}
+{"level":"info","message":"✅ ✅ Maersk website loaded","timestamp":"2025-06-04T20:10:51.071Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:10:51.071Z"}
+{"level":"info","message":"🚀 STEP 2: ACCEPT COOKIES","timestamp":"2025-06-04T20:10:51.072Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:10:51.072Z"}
+{"level":"info","message":"📝 🍪 Looking for and accepting cookies...","timestamp":"2025-06-04T20:10:51.072Z"}
+{"level":"info","message":"✅ ✅ Cookies accepted","timestamp":"2025-06-04T20:11:17.803Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:11:17.804Z"}
+{"level":"info","message":"🚀 STEP 3: NAVIGATE TO LOGIN","timestamp":"2025-06-04T20:11:17.804Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:11:17.804Z"}
+{"level":"info","message":"📝 🔐 Finding and clicking login button...","timestamp":"2025-06-04T20:11:17.804Z"}
+{"level":"info","message":"✅ ✅ Navigated to login page","timestamp":"2025-06-04T20:12:07.221Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:12:07.221Z"}
+{"level":"info","message":"🚀 STEP 4: FILL LOGIN CREDENTIALS","timestamp":"2025-06-04T20:12:07.221Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:12:07.221Z"}
+{"level":"info","message":"📝 👤 Filling username...","timestamp":"2025-06-04T20:12:07.221Z"}
+{"level":"info","message":"✅ ✅ Username filled","timestamp":"2025-06-04T20:12:25.742Z"}
+{"level":"info","message":"📝 🔒 Filling password...","timestamp":"2025-06-04T20:12:25.743Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:14:45.751Z"}
+{"level":"info","message":"🚀 🚀 MAERSK RATE EXTRACTION - DIRECT TO BOOKING","timestamp":"2025-06-04T20:14:45.754Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:14:45.754Z"}
+{"level":"info","message":"🔑 Using credentials for user: whitehouse1","timestamp":"2025-06-04T20:14:45.754Z"}
+{"level":"info","message":"🤖 Using Stagehand with Sequential Tool Calling","timestamp":"2025-06-04T20:14:45.754Z"}
+{"level":"info","message":"📦 Booking: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T20:14:45.754Z"}
+{"level":"info","message":"📦 Commodity: Electronics","timestamp":"2025-06-04T20:14:45.755Z"}
+{"level":"info","message":"📦 Container: 1x 20ft DRY","timestamp":"2025-06-04T20:14:45.755Z"}
+{"level":"info","message":"📝 🔧 Initializing Stagehand browser...","timestamp":"2025-06-04T20:14:45.755Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-04T20:14:45.755Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-04T20:14:50.695Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-04T20:14:50.696Z"}
+{"level":"info","message":"✅ ✅ Stagehand browser initialized","timestamp":"2025-06-04T20:14:50.696Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:14:50.697Z"}
+{"level":"info","message":"🚀 STEP 1: NAVIGATE DIRECTLY TO BOOKING","timestamp":"2025-06-04T20:14:50.697Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:14:50.697Z"}
+{"level":"info","message":"📝 🌐 Going directly to Maersk booking page...","timestamp":"2025-06-04T20:14:50.697Z"}
+{"level":"info","message":"✅ ✅ Maersk booking page loaded","timestamp":"2025-06-04T20:15:07.665Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:15:07.666Z"}
+{"level":"info","message":"🚀 STEP 2: HANDLE COOKIES","timestamp":"2025-06-04T20:15:07.666Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:15:07.666Z"}
+{"level":"info","message":"📝 🍪 Looking for and accepting cookies...","timestamp":"2025-06-04T20:15:07.666Z"}
+{"level":"info","message":"✅ ✅ Cookies accepted","timestamp":"2025-06-04T20:15:31.017Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:15:31.017Z"}
+{"level":"info","message":"🚀 STEP 3: CHECK LOGIN STATUS","timestamp":"2025-06-04T20:15:31.017Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:15:31.018Z"}
+{"level":"info","message":"📝 🔍 Checking if login is required...","timestamp":"2025-06-04T20:15:31.018Z"}
+{"level":"info","message":"📍 Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=qXwu01Ex2fWtnPQ4HFEV&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=e2nkA-Dh0sE3SwEVoC1bZxgy70AIzslg7SWLIObz2rs","timestamp":"2025-06-04T20:15:31.018Z"}
+{"level":"info","message":"📝 🔐 Login required - proceeding with login...","timestamp":"2025-06-04T20:15:31.018Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:15:31.018Z"}
+{"level":"info","message":"🚀 STEP 4: FILL LOGIN CREDENTIALS","timestamp":"2025-06-04T20:15:31.018Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:15:31.018Z"}
+{"level":"info","message":"📝 👤 Filling username...","timestamp":"2025-06-04T20:15:31.018Z"}
+{"level":"info","message":"✅ ✅ Username filled","timestamp":"2025-06-04T20:16:12.446Z"}
+{"level":"info","message":"📝 🔒 Filling password...","timestamp":"2025-06-04T20:16:12.446Z"}
+{"level":"info","message":"✅ ✅ Password filled","timestamp":"2025-06-04T20:16:53.179Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:16:53.181Z"}
+{"level":"info","message":"🚀 STEP 5: SUBMIT LOGIN","timestamp":"2025-06-04T20:16:53.181Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:16:53.181Z"}
+{"level":"info","message":"📝 🚀 Clicking login button...","timestamp":"2025-06-04T20:16:53.181Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:20:44.519Z"}
+{"level":"info","message":"🚀 🚀 MAERSK RATE EXTRACTION - DIRECT TO BOOKING","timestamp":"2025-06-04T20:20:44.522Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:20:44.522Z"}
+{"level":"info","message":"🔑 Using credentials for user: whitehouse1","timestamp":"2025-06-04T20:20:44.522Z"}
+{"level":"info","message":"🤖 Using Stagehand with Sequential Tool Calling","timestamp":"2025-06-04T20:20:44.522Z"}
+{"level":"info","message":"📦 Booking: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T20:20:44.522Z"}
+{"level":"info","message":"📦 Commodity: Electronics","timestamp":"2025-06-04T20:20:44.522Z"}
+{"level":"info","message":"📦 Container: 1x 20ft DRY","timestamp":"2025-06-04T20:20:44.522Z"}
+{"level":"info","message":"📝 🔧 Initializing Stagehand browser...","timestamp":"2025-06-04T20:20:44.522Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-04T20:20:44.522Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:20:50.445Z"}
+{"level":"info","message":"🚀 🚀 MAERSK RATE EXTRACTION - DIRECT TO BOOKING","timestamp":"2025-06-04T20:20:50.447Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:20:50.447Z"}
+{"level":"info","message":"🔑 Using credentials for user: whitehouse1","timestamp":"2025-06-04T20:20:50.447Z"}
+{"level":"info","message":"🤖 Using Stagehand with Sequential Tool Calling","timestamp":"2025-06-04T20:20:50.447Z"}
+{"level":"info","message":"📦 Booking: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T20:20:50.447Z"}
+{"level":"info","message":"📦 Commodity: Electronics","timestamp":"2025-06-04T20:20:50.447Z"}
+{"level":"info","message":"📦 Container: 1x 20ft DRY","timestamp":"2025-06-04T20:20:50.447Z"}
+{"level":"info","message":"📝 🔧 Initializing Stagehand browser...","timestamp":"2025-06-04T20:20:50.447Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-04T20:20:50.447Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-04T20:20:55.349Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-04T20:20:55.349Z"}
+{"level":"info","message":"✅ ✅ Stagehand browser initialized","timestamp":"2025-06-04T20:20:55.350Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:20:55.350Z"}
+{"level":"info","message":"🚀 STEP 1: NAVIGATE DIRECTLY TO BOOKING","timestamp":"2025-06-04T20:20:55.350Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:20:55.350Z"}
+{"level":"info","message":"📝 🌐 Going directly to Maersk booking page...","timestamp":"2025-06-04T20:20:55.351Z"}
+{"level":"info","message":"✅ ✅ Maersk booking page loaded","timestamp":"2025-06-04T20:21:10.786Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:21:10.787Z"}
+{"level":"info","message":"🚀 STEP 2: HANDLE COOKIES","timestamp":"2025-06-04T20:21:10.787Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:21:10.787Z"}
+{"level":"info","message":"📝 🍪 Looking for and accepting cookies...","timestamp":"2025-06-04T20:21:10.787Z"}
+{"level":"info","message":"✅ ✅ Cookies accepted with first approach","timestamp":"2025-06-04T20:21:34.584Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:21:34.590Z"}
+{"level":"info","message":"🚀 STEP 3: CHECK LOGIN STATUS","timestamp":"2025-06-04T20:21:34.590Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:21:34.590Z"}
+{"level":"info","message":"📝 🔍 Checking if login is required...","timestamp":"2025-06-04T20:21:34.591Z"}
+{"level":"info","message":"📍 Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=FuofyydnupFvFudArJhe&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=MGyDxeuAccXzlcm0xH4zUuCy99Y6UZFkVCg9Ss32MNU","timestamp":"2025-06-04T20:21:34.591Z"}
+{"level":"info","message":"📝 🔐 Login required - proceeding with login...","timestamp":"2025-06-04T20:21:34.591Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:21:34.591Z"}
+{"level":"info","message":"🚀 STEP 4: FILL LOGIN CREDENTIALS","timestamp":"2025-06-04T20:21:34.591Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:21:34.591Z"}
+{"level":"info","message":"📝 👤 Filling username...","timestamp":"2025-06-04T20:21:34.591Z"}
+{"level":"info","message":"✅ ✅ Username filled with approach 1","timestamp":"2025-06-04T20:22:15.201Z"}
+{"level":"info","message":"📝 🔒 Filling password...","timestamp":"2025-06-04T20:22:15.202Z"}
+{"level":"info","message":"✅ ✅ Password filled with approach 1","timestamp":"2025-06-04T20:22:55.890Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:22:55.891Z"}
+{"level":"info","message":"🚀 STEP 5: SUBMIT LOGIN","timestamp":"2025-06-04T20:22:55.891Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:22:55.891Z"}
+{"level":"info","message":"📝 🚀 Clicking login button...","timestamp":"2025-06-04T20:22:55.892Z"}
+{"level":"info","message":"✅ ✅ Login submitted with approach 1","timestamp":"2025-06-04T20:23:42.351Z"}
+{"level":"info","message":"📝 📋 Navigating back to booking page...","timestamp":"2025-06-04T20:23:42.352Z"}
+{"level":"info","message":"✅ ✅ Back on booking page after login","timestamp":"2025-06-04T20:24:01.575Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:24:01.575Z"}
+{"level":"info","message":"🚀 STEP 6: FILL BOOKING FORM","timestamp":"2025-06-04T20:24:01.575Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:24:01.575Z"}
+{"level":"info","message":"📝 📍 Filling origin location...","timestamp":"2025-06-04T20:24:01.576Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:26:28.503Z"}
+{"level":"info","message":"🚀 🚀 MAERSK RATE EXTRACTION WITH SEQUENTIAL FLOW","timestamp":"2025-06-04T20:26:28.505Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:26:28.506Z"}
+{"level":"info","message":"🔑 Using credentials for user: whitehouse1","timestamp":"2025-06-04T20:26:28.506Z"}
+{"level":"info","message":"🤖 Using Stagehand with Sequential Tool Calling","timestamp":"2025-06-04T20:26:28.506Z"}
+{"level":"info","message":"📦 Booking: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T20:26:28.506Z"}
+{"level":"info","message":"📦 Commodity: Electronics","timestamp":"2025-06-04T20:26:28.506Z"}
+{"level":"info","message":"📦 Container: 1x 20ft DRY","timestamp":"2025-06-04T20:26:28.506Z"}
+{"level":"info","message":"📝 🔧 Initializing Stagehand browser...","timestamp":"2025-06-04T20:26:28.506Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-04T20:26:28.507Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-04T20:26:33.519Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-04T20:26:33.519Z"}
+{"level":"info","message":"✅ ✅ Stagehand browser initialized","timestamp":"2025-06-04T20:26:33.519Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:26:33.520Z"}
+{"level":"info","message":"🚀 STEP 1: NAVIGATE TO BOOKING PAGE","timestamp":"2025-06-04T20:26:33.520Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:26:33.520Z"}
+{"level":"info","message":"📝 🌐 Navigating directly to Maersk booking page...","timestamp":"2025-06-04T20:26:33.520Z"}
+{"level":"info","message":"✅ ✅ Maersk booking page loaded","timestamp":"2025-06-04T20:26:47.535Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:26:47.535Z"}
+{"level":"info","message":"🚀 STEP 2: ACCEPT COOKIES","timestamp":"2025-06-04T20:26:47.536Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:26:47.536Z"}
+{"level":"info","message":"📝 🍪 Looking for and accepting cookies...","timestamp":"2025-06-04T20:26:47.536Z"}
+{"level":"info","message":"✅ ✅ Cookies accepted","timestamp":"2025-06-04T20:27:13.772Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:27:13.774Z"}
+{"level":"info","message":"🚀 STEP 3: LOGIN CHECK","timestamp":"2025-06-04T20:27:13.774Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:27:13.774Z"}
+{"level":"info","message":"📝 🔐 Checking if login is required...","timestamp":"2025-06-04T20:27:13.774Z"}
+{"level":"info","message":"📍 Current URL: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=sUpIuV4HfUcFDmx74aoH&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=v8oLhOYgc-wTX_2Uyial26h8J_DMuyUlTqcViPNxEoo","timestamp":"2025-06-04T20:27:13.774Z"}
+{"level":"info","message":"📝 🔐 Login required, proceeding with authentication...","timestamp":"2025-06-04T20:27:13.775Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:27:13.775Z"}
+{"level":"info","message":"🚀 STEP 4: FILL LOGIN CREDENTIALS","timestamp":"2025-06-04T20:27:13.775Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:27:13.775Z"}
+{"level":"info","message":"📝 👤 Filling username...","timestamp":"2025-06-04T20:27:13.775Z"}
+{"level":"info","message":"✅ ✅ Username filled","timestamp":"2025-06-04T20:27:54.526Z"}
+{"level":"info","message":"📝 🔒 Filling password...","timestamp":"2025-06-04T20:27:54.527Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:28:05.056Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-04T20:28:05.058Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:28:05.058Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-04T20:28:05.058Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-04T20:28:05.058Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T20:28:05.059Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-04T20:28:05.059Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-04T20:28:05.059Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-04T20:28:05.059Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-04T20:28:05.059Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-04T20:28:05.059Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-04T20:28:09.901Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-04T20:28:09.902Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-04T20:28:24.025Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-04T20:30:24.037Z"}
+{"level":"info","message":"✅ Cookies handled with browser-first approach","timestamp":"2025-06-04T20:30:50.187Z"}
+{"level":"info","message":"Browser-first credential filling failed, using Claude...","timestamp":"2025-06-04T20:31:21.194Z"}
+{"level":"info","message":"✅ Login submitted with browser-first approach","timestamp":"2025-06-04T20:33:18.530Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-04T20:33:23.533Z"}
+{"level":"info","message":"Current URL after login: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=2e9kfrRXa5Jp9zvqMzMg&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=usJ9-4zjDCt3SJ4TrdtoLFYZXThnsdIZcXmIbyHHLfw","timestamp":"2025-06-04T20:33:42.023Z"}
+{"level":"warn","message":"⚠️ Claude login failed: Login verification failed - still appears to be on login page","timestamp":"2025-06-04T20:33:42.024Z"}
+{"level":"warn","message":"⚠️ Claude login attempt 1 failed: Login verification failed - still appears to be on login page","timestamp":"2025-06-04T20:33:42.024Z"}
+{"level":"info","message":"📝 Retrying Claude login (attempt 2/2)...","timestamp":"2025-06-04T20:33:42.024Z"}
+{"level":"info","message":"📝 Claude login attempt 2/2","timestamp":"2025-06-04T20:33:45.025Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:33:45.026Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-04T20:33:45.026Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:33:45.026Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-04T20:33:45.027Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-04T20:33:45.027Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-04T20:34:06.672Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-04T20:34:08.316Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:37:13.763Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-04T20:37:13.768Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:37:13.768Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-04T20:37:13.768Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-04T20:37:13.768Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-04T20:37:13.768Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-04T20:37:13.769Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-04T20:37:13.769Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-04T20:37:13.769Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-04T20:37:13.769Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-04T20:37:13.769Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-04T20:37:18.708Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-04T20:37:18.708Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-04T20:37:18.708Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:37:18.708Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-04T20:37:18.708Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:37:18.709Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-04T20:37:18.709Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-04T20:37:18.709Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:37:18.709Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-04T20:37:18.709Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-04T20:37:18.709Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-04T20:37:18.709Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-04T20:37:18.709Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-04T20:37:32.611Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-04T20:39:32.620Z"}
+{"level":"info","message":"✅ Cookies handled with browser-first approach","timestamp":"2025-06-04T20:40:12.203Z"}
+{"level":"info","message":"Browser-first credential filling failed, using Claude...","timestamp":"2025-06-04T20:40:43.212Z"}
+{"level":"info","message":"✅ Login submitted with browser-first approach","timestamp":"2025-06-04T20:42:44.620Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-04T20:42:49.620Z"}
+{"level":"info","message":"Current URL after login: https://accounts.maersk.com/ocean-maeu/auth/login?nonce=ehuLNnBE5T87W9OBNI7n&scope=openid%20profile%20email&client_id=portaluser&redirect_uri=https%3A%2F%2Fwww.maersk.com%2Fportaluser%2Foidc%2Fcallback&response_type=code&code_challenge=97fVLasqLDG1uBJ8rXLqbY3zmgF37NCK8ulIVl6uyXQ","timestamp":"2025-06-04T20:43:09.361Z"}
+{"level":"warn","message":"⚠️ Claude login failed: Login verification failed - still appears to be on login page","timestamp":"2025-06-04T20:43:09.362Z"}
+{"level":"warn","message":"⚠️ Claude login attempt 1 failed: Login verification failed - still appears to be on login page","timestamp":"2025-06-04T20:43:09.362Z"}
+{"level":"info","message":"📝 Retrying Claude login (attempt 2/2)...","timestamp":"2025-06-04T20:43:09.362Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:41:52.929Z"}
+{"level":"info","message":"🚀 ⚡ QUICK TEST - SINGLE RATE SEARCH","timestamp":"2025-06-05T06:41:52.932Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:41:52.932Z"}
+{"level":"info","message":"✅ ✅ Maersk Rates Agent with Claude Computer Use initialized","timestamp":"2025-06-05T06:41:56.096Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:41:56.096Z"}
+{"level":"info","message":"🚀 🔍 MAERSK RATE EXTRACTION","timestamp":"2025-06-05T06:41:56.096Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:41:56.097Z"}
+{"level":"info","message":"Route: Shanghai, China → Los Angeles, USA","timestamp":"2025-06-05T06:41:56.097Z"}
+{"level":"info","message":"📝 Navigating to Maersk booking page...","timestamp":"2025-06-05T06:41:56.097Z"}
+{"level":"error","message":"❌ ❌ Rate extraction failed:","timestamp":"2025-06-05T06:42:26.104Z"}
+{"level":"info","message":"✅ 🧹 Cleanup completed","timestamp":"2025-06-05T06:42:26.239Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:43:30.511Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-05T06:43:30.512Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:43:30.513Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-05T06:43:30.513Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-05T06:43:30.513Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-05T06:43:30.513Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-05T06:43:30.513Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-05T06:43:30.513Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-05T06:43:30.513Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-05T06:43:30.513Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-05T06:43:30.513Z"}
+{"level":"error","message":"❌ ❌ Error during Claude automation: The browser context is undefined. This means the CDP connection to the browser failed","timestamp":"2025-06-05T06:43:32.357Z"}
+{"level":"warn","message":"⚠️ Cleanup error: You seem to be calling `context` on a page in an uninitialized `Stagehand` object. Ensure you are running `await stagehand.init()` on the Stagehand object before referencing the `page` object.","timestamp":"2025-06-05T06:43:32.358Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:51:14.404Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-05T06:51:14.406Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:51:14.406Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-05T06:51:14.406Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-05T06:51:14.406Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-05T06:51:14.406Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-05T06:51:14.406Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-05T06:51:14.406Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-05T06:51:14.406Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-05T06:51:14.406Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-05T06:51:14.406Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-05T06:51:15.500Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-05T06:51:15.501Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-05T06:51:25.305Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-05T06:53:25.311Z"}
+{"level":"info","message":"✅ Cookies handled with browser-first approach","timestamp":"2025-06-05T06:53:37.006Z"}
+{"level":"info","message":"Browser-first credential filling failed, using Claude...","timestamp":"2025-06-05T06:54:08.008Z"}
+{"level":"info","message":"✅ Login submitted with browser-first approach","timestamp":"2025-06-05T06:54:43.990Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-05T06:54:48.990Z"}
+{"level":"info","message":"Current URL after login: https://www.maersk.com/book/","timestamp":"2025-06-05T06:54:58.220Z"}
+{"level":"info","message":"✅ Login verification successful - on Maersk portal","timestamp":"2025-06-05T06:54:58.220Z"}
+{"level":"info","message":"✅ Claude sequential login completed successfully!","timestamp":"2025-06-05T06:54:58.220Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:54:58.220Z"}
+{"level":"info","message":"🚀 POST-LOGIN VERIFICATION","timestamp":"2025-06-05T06:54:58.220Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:54:58.220Z"}
+{"level":"info","message":"Current URL: https://www.maersk.com/book/","timestamp":"2025-06-05T06:55:01.221Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:55:01.221Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T06:55:01.221Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:55:01.221Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:55:01.221Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T06:55:01.221Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:55:01.221Z"}
+{"level":"info","message":"✅ Claude page analysis completed","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"Page type: Booking","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"Form ready: true","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"Elements found: 14","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"📊 Page Analysis Results:","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"  - Has booking form: ✅","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"  - Has location fields: ✅","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"  - Has continue button: ✅","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"  - Elements found: 14","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"🚀 CLAUDE BOOKING FORM FILLING","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"🚀 BROWSER-FIRST FORM FILLING WITH CLAUDE FALLBACK","timestamp":"2025-06-05T06:55:07.559Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T06:55:07.560Z"}
+{"level":"info","message":"📝 Using browser-first approach with natural language fallback...","timestamp":"2025-06-05T06:55:07.560Z"}
+{"level":"info","message":"✅ Origin filled with browser-first approach","timestamp":"2025-06-05T06:55:07.570Z"}
+{"level":"info","message":"✅ Destination filled with browser-first approach","timestamp":"2025-06-05T06:55:07.573Z"}
+{"level":"info","message":"✅ Commodity filled with browser-first approach","timestamp":"2025-06-05T06:55:07.575Z"}
+{"level":"info","message":"✅ Container size selected with browser-first approach","timestamp":"2025-06-05T06:55:07.578Z"}
+{"level":"info","message":"✅ Container type selected with browser-first approach","timestamp":"2025-06-05T06:55:07.580Z"}
+{"level":"info","message":"✅ Origin transport set with browser-first approach","timestamp":"2025-06-05T06:55:07.582Z"}
+{"level":"info","message":"✅ Destination transport set with browser-first approach","timestamp":"2025-06-05T06:55:07.585Z"}
+{"level":"info","message":"Screenshot saved: debug_form_filled_browser_first.png","timestamp":"2025-06-05T06:55:07.762Z"}
+{"level":"info","message":"✅ Form completion verified by Claude","timestamp":"2025-06-05T06:55:11.951Z"}
+{"level":"warn","message":"⚠️ Missing fields detected: From (City, Country/Region), To (City, Country/Region), Commodity, Container type and size, Number of containers, Cargo weight per container, When is your cargo ready to ship?","timestamp":"2025-06-05T06:55:11.951Z"}
+{"level":"info","message":"✅ ✅ Booking form filled successfully with Claude!","timestamp":"2025-06-05T06:55:11.951Z"}
+{"level":"error","message":"❌ ❌ Error during Claude automation: No continue button found - form may need manual review","timestamp":"2025-06-05T06:55:11.951Z"}
+{"level":"info","message":"Screenshot saved: error_claude_extraction.png","timestamp":"2025-06-05T06:55:11.996Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-05T06:55:12.153Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:06:34.252Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-05T07:06:34.254Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:06:34.254Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-05T07:06:34.254Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-05T07:06:34.254Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-05T07:06:34.254Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-05T07:06:34.254Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-05T07:06:34.254Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-05T07:06:34.255Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-05T07:06:34.255Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-05T07:06:34.255Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-05T07:06:35.442Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-05T07:06:44.211Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-05T07:08:44.215Z"}
+{"level":"info","message":"✅ Cookies handled with browser-first approach","timestamp":"2025-06-05T07:08:57.793Z"}
+{"level":"info","message":"Browser-first credential filling failed, using Claude...","timestamp":"2025-06-05T07:09:28.795Z"}
+{"level":"info","message":"Browser-first submit failed, using Claude...","timestamp":"2025-06-05T07:10:44.869Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-05T07:12:15.868Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:16:03.356Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-05T07:16:03.358Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:16:03.358Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-05T07:16:03.358Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-05T07:16:03.358Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-05T07:16:03.358Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-05T07:16:03.358Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-05T07:16:03.358Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-05T07:16:03.358Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-05T07:16:03.358Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-05T07:16:03.358Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-05T07:16:04.471Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-05T07:16:12.657Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-05T07:17:28.662Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:19:59.450Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-05T07:19:59.451Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:19:59.452Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-05T07:19:59.452Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-05T07:19:59.452Z"}
+{"level":"info","message":"Booking details: New York, USA → Hamburg, Germany","timestamp":"2025-06-05T07:19:59.452Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-05T07:19:59.452Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-05T07:19:59.452Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-05T07:19:59.452Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-05T07:19:59.452Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-05T07:19:59.452Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-05T07:20:00.522Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-05T07:20:07.597Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-05T07:22:07.595Z"}
+{"level":"info","message":"✅ Cookies handled with browser-first approach","timestamp":"2025-06-05T07:22:22.432Z"}
+{"level":"info","message":"Browser-first credential filling failed, using Claude...","timestamp":"2025-06-05T07:22:53.434Z"}
+{"level":"info","message":"Browser-first submit failed, using Claude...","timestamp":"2025-06-05T07:24:19.560Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-05T07:26:08.160Z"}
+{"level":"info","message":"Current URL after login: https://www.maersk.com/book/","timestamp":"2025-06-05T07:26:16.582Z"}
+{"level":"info","message":"✅ Login verification successful - on Maersk portal","timestamp":"2025-06-05T07:26:16.582Z"}
+{"level":"info","message":"✅ Claude sequential login completed successfully!","timestamp":"2025-06-05T07:26:16.582Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:26:16.582Z"}
+{"level":"info","message":"🚀 POST-LOGIN VERIFICATION","timestamp":"2025-06-05T07:26:16.582Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:26:16.582Z"}
+{"level":"info","message":"Current URL: https://www.maersk.com/book/","timestamp":"2025-06-05T07:26:19.583Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:26:19.584Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T07:26:19.584Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:26:19.584Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:26:19.584Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T07:26:19.584Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:26:19.584Z"}
+{"level":"info","message":"✅ Claude page analysis completed","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"Page type: Booking","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"Form ready: true","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"Elements found: 14","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"📊 Page Analysis Results:","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"  - Has booking form: ✅","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"  - Has location fields: ✅","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"  - Has continue button: ✅","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"  - Elements found: 14","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"🚀 CLAUDE BOOKING FORM FILLING","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE FORM FILLING - TARGETED APPROACH","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"📝 Filling Maersk booking form step by step...","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"📝 Step 1: Filling FROM location...","timestamp":"2025-06-05T07:26:25.732Z"}
+{"level":"info","message":"✅ FROM location filled: Great! Now I can see that a dropdown with suggestions has appeared. The first option is \"New York (New York), United States\" which is what we want. Let me click on that option:","timestamp":"2025-06-05T07:28:08.676Z"}
+{"level":"info","message":"📝 Step 2: Filling TO location...","timestamp":"2025-06-05T07:28:11.676Z"}
+{"level":"info","message":"✅ TO location filled: I see that clicking on that option has opened a Services dropdown menu. Let me close this menu and try again. I'll click elsewhere on the screen to close this menu.","timestamp":"2025-06-05T07:29:53.145Z"}
+{"level":"info","message":"Screenshot saved: debug_locations_filled.png","timestamp":"2025-06-05T07:29:56.182Z"}
+{"level":"info","message":"📝 Step 3: Scrolling to see more form fields...","timestamp":"2025-06-05T07:29:56.182Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:33:17.511Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-05T07:33:17.512Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:33:17.513Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-05T07:33:17.513Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-05T07:33:17.513Z"}
+{"level":"info","message":"Booking details: Houston (Texas), United States → Iquique, Chile","timestamp":"2025-06-05T07:33:17.513Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-05T07:33:17.513Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-05T07:33:17.513Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-05T07:33:17.513Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-05T07:33:17.513Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-05T07:33:17.513Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:33:18.523Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-05T07:33:18.524Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-05T07:33:18.524Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-05T07:33:26.888Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-05T07:35:26.894Z"}
+{"level":"info","message":"No cookie dialog found or already handled","timestamp":"2025-06-05T07:36:30.584Z"}
+{"level":"info","message":"Browser-first credential filling failed, using Claude...","timestamp":"2025-06-05T07:37:00.588Z"}
+{"level":"info","message":"Browser-first submit failed, using Claude...","timestamp":"2025-06-05T07:38:31.027Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-05T07:39:52.996Z"}
+{"level":"info","message":"Current URL after login: https://www.maersk.com/book/","timestamp":"2025-06-05T07:40:01.755Z"}
+{"level":"info","message":"✅ Login verification successful - on Maersk portal","timestamp":"2025-06-05T07:40:01.756Z"}
+{"level":"info","message":"✅ Claude sequential login completed successfully!","timestamp":"2025-06-05T07:40:01.756Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:40:01.756Z"}
+{"level":"info","message":"🚀 POST-LOGIN VERIFICATION","timestamp":"2025-06-05T07:40:01.756Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:40:01.756Z"}
+{"level":"info","message":"Current URL: https://www.maersk.com/book/","timestamp":"2025-06-05T07:40:04.757Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:40:04.757Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T07:40:04.757Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:40:04.757Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:40:04.757Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T07:40:04.757Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:40:04.757Z"}
+{"level":"info","message":"✅ Claude page analysis completed","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"Page type: Booking","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"Form ready: true","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"Elements found: 13","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"📊 Page Analysis Results:","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"  - Has booking form: ✅","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"  - Has location fields: ✅","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"  - Has continue button: ✅","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"  - Elements found: 13","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"🚀 CLAUDE BOOKING FORM FILLING","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE FORM FILLING - TARGETED APPROACH","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"📝 Filling Maersk booking form step by step...","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"📝 Step 1: Filling FROM location...","timestamp":"2025-06-05T07:40:11.117Z"}
+{"level":"info","message":"✅ FROM location filled: Step 5: Verify the field is filled correctly.\n\nI can confirm that the \"From (City, Country/Region)\" field has been successfully filled with \"Houston (Texas), United States\". The text is clearly visible in the input field, and the system has accepted and formatted the entry. The dropdown suggestion was selected and the field now shows the correct location.\n\nTo summarize what I did:\n1. Clicked on the left input field with the placeholder \"Enter city or port\"\n2. Typed \"Houston (Texas), United States\" in the field\n3. Selected the matching suggestion from the dropdown that appeared\n4. Verified that the field is now correctly filled with \"Houston (Texas), United States\"\n\nThe task has been completed successfully, and the origin/departure location has been set as requested.","timestamp":"2025-06-05T07:40:46.620Z"}
+{"level":"info","message":"📝 Step 2: Filling TO location...","timestamp":"2025-06-05T07:40:49.620Z"}
+{"level":"info","message":"✅ TO location filled: Perfect! I've successfully completed all the steps:\n\n1. I clicked on the right input field with the placeholder \"Enter city or port\"\n2. I typed \"Iquique, Chile\" \n3. The dropdown suggestion appeared\n4. I selected \"Iquique, Chile\" from the suggestions\n5. I can verify that the field is now correctly filled with \"Iquique, Chile\"\n\nThe \"To (City, Country/Region)\" field is now properly filled with \"Iquique, Chile\" as requested. The destination/arrival location for the Maersk booking has been successfully set.","timestamp":"2025-06-05T07:41:22.114Z"}
+{"level":"info","message":"Screenshot saved: debug_locations_filled.png","timestamp":"2025-06-05T07:41:25.152Z"}
+{"level":"info","message":"📝 Step 3: Scrolling to see more form fields...","timestamp":"2025-06-05T07:41:25.152Z"}
+{"level":"info","message":"📝 Step 4: Filling commodity information...","timestamp":"2025-06-05T07:42:46.568Z"}
+{"level":"info","message":"✅ Commodity filled: I see that we're still on the same page. Let me try searching the page to see if there's a commodity field that might be hidden or that I'm missing. Let me take a closer look at any container details or check if there are additional fields to expand.\n\nLet me click on \"Add another type of container\" to see if that reveals more form fields.","timestamp":"2025-06-05T07:44:08.345Z"}
+{"level":"info","message":"📝 Step 5: Setting container details...","timestamp":"2025-06-05T07:44:10.346Z"}
+{"level":"info","message":"✅ Container details set: Let me try clicking directly on the container type field:","timestamp":"2025-06-05T07:45:52.470Z"}
+{"level":"info","message":"📝 Step 6: Configuring Store Door transport options...","timestamp":"2025-06-05T07:45:54.472Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:49:43.436Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-05T07:49:43.437Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:49:43.438Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-05T07:49:43.438Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-05T07:49:43.438Z"}
+{"level":"info","message":"Booking details: Houston (Texas), United States → Iquique, Chile","timestamp":"2025-06-05T07:49:43.438Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-05T07:49:43.438Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-05T07:49:43.438Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-05T07:49:43.438Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-05T07:49:43.438Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-05T07:49:43.438Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-05T07:49:44.496Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-05T07:49:44.496Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-05T07:49:44.496Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:49:44.496Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-05T07:49:44.496Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:49:44.496Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-05T07:49:44.496Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-05T07:49:44.496Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:49:44.496Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-05T07:49:44.497Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:49:44.497Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-05T07:49:44.497Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-05T07:49:44.497Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-05T07:49:52.641Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-05T07:51:52.613Z"}
+{"level":"info","message":"✅ Cookies handled with browser-first approach","timestamp":"2025-06-05T07:52:03.428Z"}
+{"level":"info","message":"Browser-first credential filling failed, using Claude...","timestamp":"2025-06-05T07:52:34.428Z"}
+{"level":"info","message":"Browser-first submit failed, using Claude...","timestamp":"2025-06-05T07:53:51.177Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-05T07:54:58.534Z"}
+{"level":"info","message":"Current URL after login: https://www.maersk.com/book/","timestamp":"2025-06-05T07:55:06.887Z"}
+{"level":"info","message":"✅ Login verification successful - on Maersk portal","timestamp":"2025-06-05T07:55:06.887Z"}
+{"level":"info","message":"✅ Claude sequential login completed successfully!","timestamp":"2025-06-05T07:55:06.887Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:55:06.887Z"}
+{"level":"info","message":"🚀 POST-LOGIN VERIFICATION","timestamp":"2025-06-05T07:55:06.887Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:55:06.887Z"}
+{"level":"info","message":"Current URL: https://www.maersk.com/book/","timestamp":"2025-06-05T07:55:09.887Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:55:09.887Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T07:55:09.887Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:55:09.887Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:55:09.887Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T07:55:09.887Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:55:09.887Z"}
+{"level":"info","message":"✅ Claude page analysis completed","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"Page type: Booking","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"Form ready: true","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"Elements found: 16","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"📊 Page Analysis Results:","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"  - Has booking form: ✅","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"  - Has location fields: ✅","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"  - Has continue button: ✅","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"  - Elements found: 16","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"🚀 CLAUDE BOOKING FORM FILLING","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE FORM FILLING - TARGETED APPROACH","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"📝 Filling Maersk booking form step by step...","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"📝 Step 1: Filling FROM location...","timestamp":"2025-06-05T07:55:15.398Z"}
+{"level":"info","message":"✅ FROM location filled: Perfect! I can now verify that Step 5 has been completed successfully. The \"From (City, Country/Region)\" field has been filled correctly with \"Houston (Texas), United States\". The field displays the text properly and has even added a small icon on the left and an X icon on the right to clear the field if needed.\n\nTo summarize what I did:\n1. Clicked on the \"From (City, Country/Region)\" input field\n2. Typed \"Houston (Texas), United States\" in the field\n3. Selected the matching suggestion from the dropdown\n4. Successfully verified the field is filled with \"Houston (Texas), United States\"\n\nThe origin/departure location has been correctly set to Houston (Texas), United States in the Maersk booking form.","timestamp":"2025-06-05T07:55:46.395Z"}
+{"level":"info","message":"📝 Step 2: Filling TO location...","timestamp":"2025-06-05T07:55:49.395Z"}
+{"level":"info","message":"✅ TO location filled: Perfect! I've successfully completed the task. The \"To (City, Country/Region)\" field has been filled with \"Iquique, Chile\". The field now displays the selected destination correctly, and the dropdown suggestion has been properly selected.\n\nTo summarize what I did:\n1. I clicked on the right input field that had the placeholder \"Enter city or port\"\n2. I typed \"Iquique, Chile\" in the field\n3. A dropdown suggestion appeared showing \"Iquique, Chile\"\n4. I selected the matching suggestion by clicking on it\n5. The field is now correctly filled with \"Iquique, Chile\"\n\nThe destination/arrival location has been successfully set to Iquique, Chile in the Maersk booking form.","timestamp":"2025-06-05T07:56:24.703Z"}
+{"level":"info","message":"Screenshot saved: debug_locations_filled.png","timestamp":"2025-06-05T07:56:27.738Z"}
+{"level":"info","message":"📝 Step 3: Filling \"What do you want to ship?\" commodity field...","timestamp":"2025-06-05T07:56:27.738Z"}
+{"level":"info","message":"✅ Commodity filled in \"What do you want to ship?\" section: Excellent! I've successfully:\n\n1. Found the \"What do you want to ship?\" section\n2. Located the Commodity input field\n3. Clicked on the input field\n4. Typed \"Electronics\"\n5. Selected \"Electronics\" from the dropdown menu\n\nAs you can see, the Commodity field is now filled with \"Electronics\" as requested. This should unlock the container type and other form options as mentioned in your instructions. The input field shows the value clearly, and the X button on the right indicates that the field has been properly filled and can be cleared if needed.\n\nThe commodity information has been successfully entered in the \"What do you want to ship?\" section of the Maersk booking form.","timestamp":"2025-06-05T07:57:06.207Z"}
+{"level":"info","message":"Screenshot saved: debug_after_commodity.png","timestamp":"2025-06-05T07:57:09.242Z"}
+{"level":"info","message":"📝 Step 4: Scrolling to see unlocked form fields...","timestamp":"2025-06-05T07:57:09.242Z"}
+{"level":"info","message":"📝 Step 5: Setting container details (now unlocked)...","timestamp":"2025-06-05T07:57:40.110Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:03:15.639Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-05T08:03:15.641Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:03:15.641Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-05T08:03:15.641Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-05T08:03:15.641Z"}
+{"level":"info","message":"Booking details: Houston (Texas), United States → Iquique, Chile","timestamp":"2025-06-05T08:03:15.641Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-05T08:03:15.641Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-05T08:03:15.641Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-05T08:03:15.641Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-05T08:03:15.642Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-05T08:03:15.642Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-05T08:03:16.735Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-05T08:03:25.128Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-05T08:05:25.130Z"}
+{"level":"info","message":"No cookie dialog found or already handled","timestamp":"2025-06-05T08:06:25.210Z"}
+{"level":"info","message":"Browser-first credential filling failed, using Claude...","timestamp":"2025-06-05T08:06:55.208Z"}
+{"level":"info","message":"Browser-first submit failed, using Claude...","timestamp":"2025-06-05T08:08:11.990Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-05T08:09:52.413Z"}
+{"level":"info","message":"Current URL after login: https://www.maersk.com/book/","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"✅ Login verification successful - on Maersk portal","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"✅ Claude sequential login completed successfully!","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"🚀 FORM FILLING PROCESS","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"Current URL: https://www.maersk.com/book/","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"✅ On booking page - proceeding directly to form filling","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:10:02.311Z"}
+{"level":"info","message":"✅ Claude page analysis completed","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"Page type: Booking","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"Form ready: true","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"Elements found: 15","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"📊 Page Analysis Results:","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"  - Has booking form: ✅","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"  - Has location fields: ✅","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"  - Has continue button: ✅","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"  - Elements found: 15","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"🚀 CLAUDE BOOKING FORM FILLING","timestamp":"2025-06-05T08:10:09.159Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:10:09.160Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:10:09.160Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE FORM FILLING - TARGETED APPROACH","timestamp":"2025-06-05T08:10:09.160Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:10:09.160Z"}
+{"level":"info","message":"📝 Filling Maersk booking form step by step...","timestamp":"2025-06-05T08:10:09.160Z"}
+{"level":"info","message":"📝 Step 1: Filling FROM location...","timestamp":"2025-06-05T08:10:09.160Z"}
+{"level":"info","message":"✅ FROM location filled: Perfect! I've successfully completed the task:\n\n1. I clicked on the left input field that had the placeholder \"Enter city or port\" under \"From (City, Country/Region)\".\n2. I typed \"Houston (Texas), United States\".\n3. The dropdown suggestion appeared.\n4. I selected the suggested match \"Houston (Texas), United States\".\n5. The field is now correctly filled with \"Houston (Texas), United States\" as requested.\n\nThe \"From (City, Country/Region)\" field has been properly filled with \"Houston (Texas), United States\" and is ready for the next steps in the Maersk booking process. The system has also added a clear \"X\" button to the right of the input field, which would allow you to clear the field if needed.","timestamp":"2025-06-05T08:10:40.005Z"}
+{"level":"info","message":"📝 Step 2: Filling TO location...","timestamp":"2025-06-05T08:10:43.006Z"}
+{"level":"info","message":"✅ TO location filled: Perfect! I have successfully completed the task:\n\n1. Clicked on the right input field under \"To (City, Country/Region)\" with the placeholder \"Enter city or port\"\n2. Typed \"Iquique, Chile\" in the field\n3. Selected the matching suggestion from the dropdown\n4. Verified that the field is now correctly filled with \"Iquique, Chile\"\n\nThe destination location field is now properly set to \"Iquique, Chile\" as requested. The task has been completed successfully.","timestamp":"2025-06-05T08:11:20.622Z"}
+{"level":"info","message":"Screenshot saved: debug_locations_filled.png","timestamp":"2025-06-05T08:11:23.664Z"}
+{"level":"info","message":"📝 Step 3: Filling \"What do you want to ship?\" commodity field...","timestamp":"2025-06-05T08:11:23.664Z"}
+{"level":"info","message":"✅ Commodity selected from dropdown: Perfect! I've successfully completed the task. Let me verify what I did:\n\n1. I found the \"What do you want to ship?\" section with the Commodity field.\n2. I clicked on the input field with the placeholder \"Type in minimum 2 characters\".\n3. I typed \"Electronics\" in the field.\n4. A dropdown menu appeared with several options.\n5. I selected the first relevant option: \"(With Lithium Batteries) Electronics, electronic appliances, audio, video equipment\".\n6. The dropdown closed and the selected option is now displayed in the input field.\n\nThe commodity has been properly selected as \"(With Lithium Batteries) Electronics, electronic appliances, audio, video equipment\". This selection should unlock the container type options and other form fields as requested. \n\nYou can now proceed with the rest of the booking form. The \"How will your cargo be shipped?\" section with container type and size options is now visible below the commodity section, confirming that the selection was successful.","timestamp":"2025-06-05T08:12:04.320Z"}
+{"level":"info","message":"Screenshot saved: debug_after_commodity.png","timestamp":"2025-06-05T08:12:06.364Z"}
+{"level":"info","message":"📝 Step 4: Scrolling to see unlocked form fields...","timestamp":"2025-06-05T08:12:06.367Z"}
+{"level":"info","message":"📝 Step 5: Setting container details (now unlocked)...","timestamp":"2025-06-05T08:12:57.881Z"}
+{"level":"info","message":"✅ Container details set: I can see now that there is a dropdown with \"40 Dry Standard\" options. Let me scroll down in this dropdown to see if there are 20ft options available.","timestamp":"2025-06-05T08:14:12.303Z"}
+{"level":"info","message":"📝 Step 6: Configuring Store Door transport options...","timestamp":"2025-06-05T08:14:13.304Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:17:13.433Z"}
+{"level":"info","message":"🚀 MAERSK RATE EXTRACTION WITH CLAUDE","timestamp":"2025-06-05T08:17:13.435Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:17:13.435Z"}
+{"level":"info","message":"Using credentials for user: whitehouse1","timestamp":"2025-06-05T08:17:13.435Z"}
+{"level":"info","message":"🤖 Using Claude Computer Use for automation","timestamp":"2025-06-05T08:17:13.435Z"}
+{"level":"info","message":"Booking details: Houston (Texas), United States → Iquique, Chile","timestamp":"2025-06-05T08:17:13.435Z"}
+{"level":"info","message":"Commodity: Electronics","timestamp":"2025-06-05T08:17:13.435Z"}
+{"level":"info","message":"Container: 1x 20ft DRY","timestamp":"2025-06-05T08:17:13.435Z"}
+{"level":"info","message":"📝 Initializing Maersk carrier with Claude...","timestamp":"2025-06-05T08:17:13.435Z"}
+{"level":"info","message":"📝 Starting Stagehand browser with Claude...","timestamp":"2025-06-05T08:17:13.436Z"}
+{"level":"info","message":"📝 Initializing Stagehand with Claude Computer Use...","timestamp":"2025-06-05T08:17:13.436Z"}
+{"level":"info","message":"✅ Claude Computer Use agent initialized","timestamp":"2025-06-05T08:17:14.519Z"}
+{"level":"info","message":"✅ Stagehand with Claude Computer Use initialized successfully","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"✅ Stagehand browser with Claude started successfully","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"🚀 CLAUDE SEQUENTIAL LOGIN SYSTEM","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"Using Sequential Tool Calling for intelligent login automation","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"📝 Claude login attempt 1/2","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE SEQUENTIAL LOGIN","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"Using browser-first approach with Claude Sequential Tool Calling","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"📝 Navigating to Maersk main page...","timestamp":"2025-06-05T08:17:14.520Z"}
+{"level":"info","message":"📝 Attempting browser-first login sequence...","timestamp":"2025-06-05T08:17:21.605Z"}
+{"level":"info","message":"Browser-first login navigation failed, using Claude...","timestamp":"2025-06-05T08:19:21.607Z"}
+{"level":"info","message":"✅ Cookies handled with browser-first approach","timestamp":"2025-06-05T08:19:34.383Z"}
+{"level":"info","message":"Browser-first credential filling failed, using Claude...","timestamp":"2025-06-05T08:20:05.385Z"}
+{"level":"info","message":"Browser-first submit failed, using Claude...","timestamp":"2025-06-05T08:21:20.686Z"}
+{"level":"info","message":"📝 Navigating to booking page...","timestamp":"2025-06-05T08:22:57.598Z"}
+{"level":"info","message":"Current URL after login: https://www.maersk.com/book/","timestamp":"2025-06-05T08:23:06.007Z"}
+{"level":"info","message":"✅ Login verification successful - on Maersk portal","timestamp":"2025-06-05T08:23:06.007Z"}
+{"level":"info","message":"✅ Claude sequential login completed successfully!","timestamp":"2025-06-05T08:23:06.007Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"🚀 FORM FILLING PROCESS","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"Current URL: https://www.maersk.com/book/","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"✅ On booking page - proceeding directly to form filling","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"🚀 CLAUDE PAGE ANALYSIS","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:23:06.008Z"}
+{"level":"info","message":"✅ Claude page analysis completed","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"Page type: Booking","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"Form ready: true","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"Elements found: 13","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"📊 Page Analysis Results:","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"  - Has booking form: ✅","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"  - Has location fields: ✅","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"  - Has continue button: ✅","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"  - Elements found: 13","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"🚀 CLAUDE BOOKING FORM FILLING","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"🚀 CLAUDE COMPUTER USE FORM FILLING - TARGETED APPROACH","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"📝 Filling Maersk booking form step by step...","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"📝 Step 1: Filling FROM location...","timestamp":"2025-06-05T08:23:11.704Z"}
+{"level":"info","message":"✅ FROM location filled: Perfect! I have successfully completed the task:\n\n1. I clicked on the \"From (City, Country/Region)\" input field with the placeholder \"Enter city or port\"\n2. I typed \"Houston (Texas), United States\"\n3. A dropdown suggestion appeared with the exact match\n4. I selected the suggestion\n5. The field has been filled correctly with \"Houston (Texas), United States\"\n\nThe \"From (City, Country/Region)\" field is now properly filled with \"Houston (Texas), United States\" as requested. The text is visible in the input field, and there's also an \"X\" button at the right side of the field that could be used to clear the entry if needed.","timestamp":"2025-06-05T08:24:03.121Z"}
+{"level":"info","message":"📝 Step 2: Filling TO location...","timestamp":"2025-06-05T08:24:06.122Z"}
+{"level":"info","message":"✅ TO location filled: Perfect! I've successfully completed the task. Let me verify what I've done:\n\n1. I clicked on the \"To (City, Country/Region)\" field on the right side of the Location details section.\n2. I typed \"Iquique, Chile\" in the field.\n3. A dropdown suggestion appeared with \"Iquique, Chile\".\n4. I selected the suggestion by clicking on it.\n5. The field is now correctly filled with \"Iquique, Chile\" as requested.\n\nThe destination field has been successfully filled with \"Iquique, Chile\" as required for the Maersk booking form.","timestamp":"2025-06-05T08:24:46.750Z"}
+{"level":"info","message":"Screenshot saved: debug_locations_filled.png","timestamp":"2025-06-05T08:24:49.786Z"}
+{"level":"info","message":"📝 Step 3: Filling \"What do you want to ship?\" commodity field...","timestamp":"2025-06-05T08:24:49.786Z"}
+{"level":"info","message":"✅ Commodity selected from dropdown: Perfect! I have successfully completed the task. The commodity field has been filled with \"(With Lithium Batteries) Electronics, electronic appliances, audio, video equipment\". The dropdown has closed, and the selection has been properly entered into the field.\n\nTo summarize what I did:\n1. Located the \"What do you want to ship?\" section on the Maersk booking form\n2. Found the \"Commodity\" field with the input placeholder \"Type in minimum 2 characters\"\n3. Clicked on the input field\n4. Typed \"Electronics\"\n5. Waited for the dropdown with suggestions to appear\n6. Selected the first relevant match: \"(With Lithium Batteries) Electronics, electronic appliances, audio, video equipment\"\n7. Verified that the selection was properly entered and the dropdown closed\n\nThe commodity has been successfully selected, which as you mentioned is critical for unlocking the container type and other form options.","timestamp":"2025-06-05T08:25:34.286Z"}
+{"level":"info","message":"Screenshot saved: debug_after_commodity.png","timestamp":"2025-06-05T08:25:36.330Z"}
+{"level":"info","message":"📝 Step 4: Scrolling to see unlocked form fields...","timestamp":"2025-06-05T08:25:36.330Z"}
+{"level":"info","message":"📝 Step 5: Setting container details (now unlocked)...","timestamp":"2025-06-05T08:26:04.481Z"}
+{"level":"info","message":"✅ Container details set: Perfect! I've successfully configured the container specifications as requested:\n\n1. Container size: 20 feet (20ft) - Selected \"20 Dry Standard\"\n2. Container type: DRY - Selected as part of \"20 Dry Standard\"\n3. Quantity: 1 - This is already set in the \"Number of containers\" field\n\nThe configuration is complete and matches your requirements:\n- The container type and size shows \"20 Dry Standard\" which fulfills both the 20ft size and DRY type requirements\n- The quantity is set to 1 in the \"Number of containers\" field\n- The interface also shows additional fields like \"Cargo weight per container\" which you could fill in if needed\n\nAll the requested container specifications are now visible and have been properly configured.","timestamp":"2025-06-05T08:26:24.097Z"}
+{"level":"info","message":"📝 Step 6: Configuring Store Door transport options...","timestamp":"2025-06-05T08:26:25.097Z"}
+{"level":"info","message":"✅ Transport options configured: Now I'll type in a cargo weight value:","timestamp":"2025-06-05T08:27:46.881Z"}
+{"level":"info","message":"📝 Step 7: Filling additional required fields...","timestamp":"2025-06-05T08:27:48.881Z"}
+{"level":"info","message":"✅ Additional fields set - Weight: 4000, Price owner selected, Date set: Now I'll type 4000 to replace the selected text:","timestamp":"2025-06-05T08:28:59.097Z"}
+{"level":"info","message":"📝 Step 8: Finding and clicking continue button...","timestamp":"2025-06-05T08:29:00.097Z"}
+{"level":"info","message":"✅ Continue button clicked: I notice that the \"Continue to book\" button appears to be in a lighter color (gray), which might indicate that it's disabled or there are still required fields that need to be filled. I need to check if all required fields are actually completed.\n\nFirst, let's check if one of the Price Owner options is selected. I'll click on \"I am the price owner\" radio button.","timestamp":"2025-06-05T08:30:48.012Z"}
+{"level":"info","message":"Screenshot saved: debug_form_completed.png","timestamp":"2025-06-05T08:30:51.051Z"}
+{"level":"info","message":"📝 Step 9: Quick form validation...","timestamp":"2025-06-05T08:30:51.051Z"}
+{"level":"info","message":"✅ Quick validation completed","timestamp":"2025-06-05T08:30:55.699Z"}
+{"level":"info","message":"✅ On rates page: false","timestamp":"2025-06-05T08:30:55.699Z"}
+{"level":"info","message":"✅ Page type: Maersk Booking","timestamp":"2025-06-05T08:30:55.699Z"}
+{"level":"info","message":"✅ Has rates: false","timestamp":"2025-06-05T08:30:55.699Z"}
+{"level":"info","message":"🎯 Next: Check for any rates or pricing information on the next page after booking.","timestamp":"2025-06-05T08:30:55.699Z"}
+{"level":"warn","message":"⚠️ ⚠️ May still be on form page - need to check continue button","timestamp":"2025-06-05T08:30:55.699Z"}
+{"level":"info","message":"✅ ✅ Booking form filled successfully with Claude!","timestamp":"2025-06-05T08:30:55.699Z"}
+{"level":"error","message":"❌ ❌ Error during Claude automation: No continue button found - form may need manual review","timestamp":"2025-06-05T08:30:55.699Z"}
+{"level":"info","message":"Screenshot saved: error_claude_extraction.png","timestamp":"2025-06-05T08:30:55.738Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-05T08:30:55.876Z"}

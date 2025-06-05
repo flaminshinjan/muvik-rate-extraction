@@ -1,0 +1,9 @@
+{
+  "success": false,
+  "error": "No continue button found - form may need manual review",
+  "extractionTimestamp": "2025-06-05T08:30:55.738Z",
+  "summary": {
+    "totalOptions": 0,
+    "pageAnalyzed": "Error occurred"
+  }
+}
