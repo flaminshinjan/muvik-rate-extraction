@@ -1798,3 +1798,214 @@ waiting for navigation to "**/maersk.com/**" until 'load'
 {"level":"error","message":"❌ ❌ Error during Claude automation: No continue button found - form may need manual review","timestamp":"2025-06-05T08:30:55.699Z"}
 {"level":"info","message":"Screenshot saved: error_claude_extraction.png","timestamp":"2025-06-05T08:30:55.738Z"}
 {"level":"info","message":"Browser closed","timestamp":"2025-06-05T08:30:55.876Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:35:40.144Z"}
+{"level":"info","message":"🚀 BROWSER USE INTEGRATION TEST","timestamp":"2025-06-05T09:35:40.145Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:35:40.145Z"}
+{"level":"info","message":"✅ Using Claude LLM","timestamp":"2025-06-05T09:35:40.146Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T09:35:40.146Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T09:35:40.146Z"}
+{"level":"info","message":"📝 Testing basic web navigation...","timestamp":"2025-06-05T09:35:40.146Z"}
+{"level":"info","message":"✅ ✅ Browser Use test completed successfully!","timestamp":"2025-06-05T09:36:01.313Z"}
+{"level":"info","message":"🎉 Migration from Stagehand to Browser Use was successful","timestamp":"2025-06-05T09:36:01.313Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-05T09:36:01.313Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:36:28.393Z"}
+{"level":"info","message":"🚀 BROWSER USE INTEGRATION TEST","timestamp":"2025-06-05T09:36:28.395Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:36:28.395Z"}
+{"level":"info","message":"✅ Using OpenAI LLM","timestamp":"2025-06-05T09:36:28.395Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T09:36:28.395Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T09:36:28.395Z"}
+{"level":"info","message":"📝 Testing simple navigation...","timestamp":"2025-06-05T09:36:28.395Z"}
+{"level":"info","message":"✅ ✅ Browser Use test completed successfully!","timestamp":"2025-06-05T09:36:50.916Z"}
+{"level":"info","message":"🎉 Migration from Stagehand to Browser Use was successful","timestamp":"2025-06-05T09:36:50.916Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-05T09:36:52.365Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:39:44.748Z"}
+{"level":"info","message":"🚀 BROWSER USE INTEGRATION TEST","timestamp":"2025-06-05T09:39:44.750Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:39:44.750Z"}
+{"level":"info","message":"✅ Using OpenAI LLM","timestamp":"2025-06-05T09:39:44.750Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T09:39:44.750Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T09:39:44.750Z"}
+{"level":"info","message":"📝 Testing simple navigation...","timestamp":"2025-06-05T09:39:44.750Z"}
+{"level":"info","message":"✅ ✅ Browser Use test completed successfully!","timestamp":"2025-06-05T09:40:09.343Z"}
+{"level":"info","message":"🎉 Migration from Stagehand to Browser Use was successful","timestamp":"2025-06-05T09:40:09.343Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-05T09:40:10.796Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:42:03.404Z"}
+{"level":"info","message":"🚀 TESTING MAERSK RATE EXTRACTION WITH BROWSER USE","timestamp":"2025-06-05T09:42:03.405Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:42:03.405Z"}
+{"level":"info","message":"✅ Claude LLM initialized","timestamp":"2025-06-05T09:42:03.406Z"}
+{"level":"info","message":"📝 Initializing browser...","timestamp":"2025-06-05T09:42:03.406Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T09:42:03.406Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T09:42:03.406Z"}
+{"level":"info","message":"📝 Testing login...","timestamp":"2025-06-05T09:42:03.406Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:42:03.406Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T09:42:03.406Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:42:03.406Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T09:42:03.406Z"}
+{"level":"info","message":"📝 Executing login task with Browser Use agent...","timestamp":"2025-06-05T09:42:03.406Z"}
+{"level":"info","message":"✅ Login task completed successfully","timestamp":"2025-06-05T09:42:23.537Z"}
+{"level":"info","message":"📝 Testing booking form fill...","timestamp":"2025-06-05T09:42:23.537Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:42:23.537Z"}
+{"level":"info","message":"🚀 BROWSER USE FORM FILLING","timestamp":"2025-06-05T09:42:23.537Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:42:23.537Z"}
+{"level":"info","message":"📝 Filling Maersk booking form with Browser Use agent...","timestamp":"2025-06-05T09:42:23.537Z"}
+{"level":"info","message":"✅ Form filling task completed successfully","timestamp":"2025-06-05T09:42:46.503Z"}
+{"level":"info","message":"📝 Testing rate extraction...","timestamp":"2025-06-05T09:42:46.503Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:42:46.503Z"}
+{"level":"info","message":"🚀 BROWSER USE RATE EXTRACTION","timestamp":"2025-06-05T09:42:46.503Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:42:46.503Z"}
+{"level":"info","message":"📝 Analyzing rates page with Browser Use agent...","timestamp":"2025-06-05T09:42:46.503Z"}
+{"level":"info","message":"✅ Rate extraction completed with Browser Use agent","timestamp":"2025-06-05T09:43:07.940Z"}
+{"level":"info","message":"✅ ✅ Rate extraction completed!","timestamp":"2025-06-05T09:43:07.940Z"}
+{"level":"info","message":"📊 JSON RATE EXTRACTION RESULT:","timestamp":"2025-06-05T09:43:07.940Z"}
+{"level":"info","message":"✅ Rate extraction completed successfully!","timestamp":"2025-06-05T09:43:07.940Z"}
+{"level":"info","message":"📊 Extracted Rates:","timestamp":"2025-06-05T09:43:07.940Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-05T09:43:07.941Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:43:58.350Z"}
+{"level":"info","message":"🚀 TESTING MAERSK RATE EXTRACTION WITH BROWSER USE","timestamp":"2025-06-05T09:43:58.351Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:43:58.351Z"}
+{"level":"info","message":"✅ Claude LLM initialized","timestamp":"2025-06-05T09:43:58.352Z"}
+{"level":"info","message":"📝 Initializing browser...","timestamp":"2025-06-05T09:43:58.352Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T09:43:58.352Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T09:43:58.352Z"}
+{"level":"info","message":"📝 Testing login...","timestamp":"2025-06-05T09:43:58.352Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:43:58.352Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T09:43:58.352Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:43:58.352Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T09:43:58.352Z"}
+{"level":"info","message":"📝 Executing login task with Browser Use agent...","timestamp":"2025-06-05T09:43:58.352Z"}
+{"level":"info","message":"✅ Login task completed successfully","timestamp":"2025-06-05T09:44:21.659Z"}
+{"level":"info","message":"📝 Testing booking form fill...","timestamp":"2025-06-05T09:44:21.659Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:44:21.660Z"}
+{"level":"info","message":"🚀 BROWSER USE FORM FILLING","timestamp":"2025-06-05T09:44:21.660Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:44:21.660Z"}
+{"level":"info","message":"📝 Filling Maersk booking form with Browser Use agent...","timestamp":"2025-06-05T09:44:21.660Z"}
+{"level":"info","message":"✅ Form filling task completed successfully","timestamp":"2025-06-05T09:44:45.832Z"}
+{"level":"info","message":"📝 Testing rate extraction...","timestamp":"2025-06-05T09:44:45.833Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:44:45.833Z"}
+{"level":"info","message":"🚀 BROWSER USE RATE EXTRACTION","timestamp":"2025-06-05T09:44:45.833Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:44:45.833Z"}
+{"level":"info","message":"📝 Analyzing rates page with Browser Use agent...","timestamp":"2025-06-05T09:44:45.833Z"}
+{"level":"info","message":"✅ Rate extraction completed with Browser Use agent","timestamp":"2025-06-05T09:45:12.990Z"}
+{"level":"info","message":"✅ ✅ Rate extraction completed!","timestamp":"2025-06-05T09:45:12.991Z"}
+{"level":"info","message":"📊 JSON RATE EXTRACTION RESULT:","timestamp":"2025-06-05T09:45:12.991Z"}
+{"level":"info","message":"✅ Rate extraction completed successfully!","timestamp":"2025-06-05T09:45:12.991Z"}
+{"level":"info","message":"📊 Extracted Rates:","timestamp":"2025-06-05T09:45:12.991Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-05T09:45:12.991Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:47:42.966Z"}
+{"level":"info","message":"🚀 TESTING MAERSK RATE EXTRACTION WITH BROWSER USE","timestamp":"2025-06-05T09:47:42.968Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:47:42.968Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 LLM initialized","timestamp":"2025-06-05T09:47:42.968Z"}
+{"level":"info","message":"📝 Initializing browser...","timestamp":"2025-06-05T09:47:42.968Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T09:47:42.969Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T09:47:42.969Z"}
+{"level":"info","message":"📝 Testing login...","timestamp":"2025-06-05T09:47:42.969Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:47:42.969Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T09:47:42.969Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:47:42.969Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T09:47:42.969Z"}
+{"level":"info","message":"📝 Executing login task with Browser Use agent...","timestamp":"2025-06-05T09:47:42.969Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:51:18.175Z"}
+{"level":"info","message":"🚀 TESTING MAERSK RATE EXTRACTION WITH BROWSER USE","timestamp":"2025-06-05T09:51:18.177Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:51:18.177Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 LLM initialized","timestamp":"2025-06-05T09:51:18.178Z"}
+{"level":"info","message":"📝 Initializing browser...","timestamp":"2025-06-05T09:51:18.178Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T09:51:18.178Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T09:51:18.178Z"}
+{"level":"info","message":"📝 Testing login...","timestamp":"2025-06-05T09:51:18.178Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:51:18.178Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T09:51:18.178Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:51:18.178Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T09:51:18.178Z"}
+{"level":"info","message":"📝 Executing login task with Browser Use agent...","timestamp":"2025-06-05T09:51:18.178Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:54:54.825Z"}
+{"level":"info","message":"🚀 TESTING MAERSK RATE EXTRACTION WITH BROWSER USE","timestamp":"2025-06-05T09:54:54.827Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:54:54.827Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 LLM initialized","timestamp":"2025-06-05T09:54:54.827Z"}
+{"level":"info","message":"📝 Initializing browser...","timestamp":"2025-06-05T09:54:54.828Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T09:54:54.828Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T09:54:54.828Z"}
+{"level":"info","message":"📝 Testing login...","timestamp":"2025-06-05T09:54:54.828Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:54:54.828Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T09:54:54.828Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T09:54:54.828Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T09:54:54.828Z"}
+{"level":"info","message":"📝 Executing login task with Browser Use agent...","timestamp":"2025-06-05T09:54:54.828Z"}
+{"level":"info","message":"Received SIGINT. Cleaning up...","timestamp":"2025-06-05T09:56:42.049Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T10:04:46.420Z"}
+{"level":"info","message":"🚀 TESTING MAERSK RATE EXTRACTION WITH BROWSER USE","timestamp":"2025-06-05T10:04:46.422Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T10:04:46.422Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 LLM initialized","timestamp":"2025-06-05T10:04:46.423Z"}
+{"level":"info","message":"📝 Initializing browser...","timestamp":"2025-06-05T10:04:46.423Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T10:04:46.423Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T10:04:46.423Z"}
+{"level":"info","message":"📝 Testing login...","timestamp":"2025-06-05T10:04:46.423Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T10:04:46.423Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T10:04:46.423Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T10:04:46.423Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T10:04:46.423Z"}
+{"level":"info","message":"📝 Executing login task with Browser Use agent...","timestamp":"2025-06-05T10:04:46.423Z"}
+{"level":"info","message":"Received SIGINT. Cleaning up...","timestamp":"2025-06-05T10:05:37.402Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:45:10.824Z"}
+{"level":"info","message":"🚀 TESTING MAERSK RATE EXTRACTION WITH BROWSER USE","timestamp":"2025-06-05T13:45:10.825Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:45:10.825Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 LLM initialized","timestamp":"2025-06-05T13:45:10.826Z"}
+{"level":"info","message":"📝 Initializing browser...","timestamp":"2025-06-05T13:45:10.826Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T13:45:10.826Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T13:45:10.826Z"}
+{"level":"info","message":"📝 Testing login...","timestamp":"2025-06-05T13:45:10.826Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:45:10.826Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T13:45:10.826Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:45:10.826Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T13:45:10.826Z"}
+{"level":"info","message":"📝 Executing login task with Browser Use agent...","timestamp":"2025-06-05T13:45:10.826Z"}
+{"level":"info","message":"Received SIGINT. Cleaning up...","timestamp":"2025-06-05T13:45:38.438Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:47:27.378Z"}
+{"level":"info","message":"🚀 TESTING MAERSK RATE EXTRACTION WITH BROWSER USE","timestamp":"2025-06-05T13:47:27.379Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:47:27.379Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 LLM initialized","timestamp":"2025-06-05T13:47:27.380Z"}
+{"level":"info","message":"📝 Initializing browser...","timestamp":"2025-06-05T13:47:27.380Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T13:47:27.380Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T13:47:27.380Z"}
+{"level":"info","message":"📝 Testing login...","timestamp":"2025-06-05T13:48:24.921Z"}
+{"level":"info","message":"Login attempt 1/3","timestamp":"2025-06-05T13:48:24.921Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:48:24.922Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T13:48:24.922Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:48:24.922Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T13:48:24.922Z"}
+{"level":"info","message":"📝 Executing login task with Browser Use agent...","timestamp":"2025-06-05T13:48:24.922Z"}
+{"level":"info","message":"Received SIGINT. Cleaning up...","timestamp":"2025-06-05T13:48:44.223Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:51:45.142Z"}
+{"level":"info","message":"🚀 TESTING MAERSK RATE EXTRACTION WITH BROWSER USE","timestamp":"2025-06-05T13:51:45.144Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:51:45.144Z"}
+{"level":"info","message":"✅ OpenAI GPT-4 LLM initialized","timestamp":"2025-06-05T13:51:45.144Z"}
+{"level":"info","message":"Attempt 1/3","timestamp":"2025-06-05T13:51:45.144Z"}
+{"level":"info","message":"📝 Initializing browser...","timestamp":"2025-06-05T13:51:45.144Z"}
+{"level":"info","message":"📝 Initializing Browser Use Agent...","timestamp":"2025-06-05T13:51:45.144Z"}
+{"level":"info","message":"✅ Browser Use Agent initialized successfully","timestamp":"2025-06-05T13:51:45.145Z"}
+{"level":"info","message":"✅ Operation successful!","timestamp":"2025-06-05T13:53:14.334Z"}
+{"level":"info","message":"📝 Testing login...","timestamp":"2025-06-05T13:53:14.335Z"}
+{"level":"info","message":"Attempt 1/3","timestamp":"2025-06-05T13:53:14.335Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:53:14.335Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T13:53:14.335Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:53:14.335Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T13:53:14.335Z"}
+{"level":"warn","message":"⚠️ Browser Use login failed: this.agent.getCurrentUrl is not a function","timestamp":"2025-06-05T13:53:14.335Z"}
+{"level":"warn","message":"⚠️ Attempt 1 failed: this.agent.getCurrentUrl is not a function","timestamp":"2025-06-05T13:53:14.335Z"}
+{"level":"info","message":"Waiting 5 seconds before retry...","timestamp":"2025-06-05T13:53:14.335Z"}
+{"level":"info","message":"Attempt 2/3","timestamp":"2025-06-05T13:53:19.336Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:53:19.336Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T13:53:19.336Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:53:19.336Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T13:53:19.336Z"}
+{"level":"warn","message":"⚠️ Browser Use login failed: this.agent.getCurrentUrl is not a function","timestamp":"2025-06-05T13:53:19.336Z"}
+{"level":"warn","message":"⚠️ Attempt 2 failed: this.agent.getCurrentUrl is not a function","timestamp":"2025-06-05T13:53:19.336Z"}
+{"level":"info","message":"Waiting 5 seconds before retry...","timestamp":"2025-06-05T13:53:19.336Z"}
+{"level":"info","message":"Attempt 3/3","timestamp":"2025-06-05T13:53:24.337Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:53:24.338Z"}
+{"level":"info","message":"🚀 BROWSER USE AGENT LOGIN","timestamp":"2025-06-05T13:53:24.338Z"}
+{"level":"info","message":"============================================================","timestamp":"2025-06-05T13:53:24.338Z"}
+{"level":"info","message":"Using Browser Use agent for automated login","timestamp":"2025-06-05T13:53:24.338Z"}
+{"level":"warn","message":"⚠️ Browser Use login failed: this.agent.getCurrentUrl is not a function","timestamp":"2025-06-05T13:53:24.338Z"}
+{"level":"warn","message":"⚠️ Attempt 3 failed: this.agent.getCurrentUrl is not a function","timestamp":"2025-06-05T13:53:24.338Z"}
+{"level":"error","message":"❌ Rate extraction test failed: Operation failed after 3 attempts. Last error: this.agent.getCurrentUrl is not a function","timestamp":"2025-06-05T13:53:24.338Z"}
+{"level":"info","message":"Browser closed","timestamp":"2025-06-05T13:53:24.338Z"}
+{"level":"info","message":"Received SIGINT. Cleaning up...","timestamp":"2025-06-05T13:53:26.967Z"}

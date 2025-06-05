@@ -8,3 +8,4 @@
 {"level":"error","message":"❌ ❌ Error during Claude automation: The browser context is undefined. This means the CDP connection to the browser failed","timestamp":"2025-06-05T06:43:32.357Z"}
 {"level":"error","message":"❌ ❌ Error during Claude automation: No continue button found - form may need manual review","timestamp":"2025-06-05T06:55:11.951Z"}
 {"level":"error","message":"❌ ❌ Error during Claude automation: No continue button found - form may need manual review","timestamp":"2025-06-05T08:30:55.699Z"}
+{"level":"error","message":"❌ Rate extraction test failed: Operation failed after 3 attempts. Last error: this.agent.getCurrentUrl is not a function","timestamp":"2025-06-05T13:53:24.338Z"}
