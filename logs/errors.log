@@ -8,3 +8,10 @@
 {"level":"error","message":"❌ ❌ Error during Claude automation: The browser context is undefined. This means the CDP connection to the browser failed","timestamp":"2025-06-05T06:43:32.357Z"}
 {"level":"error","message":"❌ ❌ Error during Claude automation: No continue button found - form may need manual review","timestamp":"2025-06-05T06:55:11.951Z"}
 {"level":"error","message":"❌ ❌ Error during Claude automation: No continue button found - form may need manual review","timestamp":"2025-06-05T08:30:55.699Z"}
+{"level":"error","message":"❌ ❌ Error during Claude automation: No continue button found - form may need manual review","timestamp":"2025-06-05T14:03:09.175Z"}
+{"level":"error","message":"❌ Maximum Claude login attempts reached.","timestamp":"2025-06-05T14:33:03.978Z"}
+{"level":"error","message":"❌ ❌ Error during Claude automation: Login verification failed - still appears to be on login page","timestamp":"2025-06-05T14:33:03.978Z"}
+{"level":"error","message":"Browser initialization failed: stagehand is not defined","timestamp":"2025-06-05T14:37:50.980Z"}
+{"level":"error","message":"Rate extraction failed: stagehand is not defined","timestamp":"2025-06-05T14:37:50.980Z"}
+{"level":"error","message":"❌ Maximum Claude login attempts reached.","timestamp":"2025-06-05T15:43:51.907Z"}
+{"level":"error","message":"❌ ❌ Error during Claude automation: Login verification failed - still appears to be on login page","timestamp":"2025-06-05T15:43:51.907Z"}
