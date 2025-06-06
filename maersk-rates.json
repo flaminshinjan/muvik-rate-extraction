@@ -1,9 +1,50 @@
 {
-  "success": false,
-  "error": "Login verification failed - still appears to be on login page",
-  "extractionTimestamp": "2025-06-05T15:43:51.949Z",
+  "success": true,
+  "extractionTimestamp": "2025-06-06T09:18:05.200Z",
+  "source": "Maersk.com",
+  "claudeAnalysis": "Let me continue scrolling down to find the \"Search more sailing options\" button.",
+  "rateData": {
+    "rates": [
+      {
+        "serviceName": "Maersk Spot",
+        "serviceType": "Ocean Freight",
+        "price": "USD 1,885.00",
+        "currency": "USD",
+        "transitTime": "27 days 3 hours",
+        "departureDate": "14 Jun 2025, 03:00",
+        "arrivalDate": "11 Jul 2025, 07:00",
+        "features": [
+          "Incl. 5 days of detention freetime",
+          "Get USD 25 per container if rolled"
+        ],
+        "isRecommended": true
+      },
+      {
+        "serviceName": "Maersk Spot",
+        "serviceType": "Ocean Freight",
+        "price": "USD 1,885.00",
+        "currency": "USD",
+        "transitTime": "26 days 3 hours",
+        "departureDate": "22 Jun 2025, 03:00",
+        "arrivalDate": "18 Jul 2025, 07:00",
+        "features": [
+          "Incl. 5 days of detention freetime",
+          "Get USD 25 per container if rolled"
+        ],
+        "isRecommended": true
+      }
+    ],
+    "totalOptionsFound": 2,
+    "hasRateInformation": true,
+    "pageType": "Shipping Rates",
+    "additionalServices": [],
+    "specialOffers": [
+      "Get USD 25 per container if rolled"
+    ]
+  },
   "summary": {
-    "totalOptions": 0,
-    "pageAnalyzed": "Error occurred"
+    "totalOptions": 2,
+    "hasRates": true,
+    "pageAnalyzed": "Shipping Rates"
   }
 }
