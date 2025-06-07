@@ -1,49 +1,58 @@
 {
   "success": true,
-  "extractionTimestamp": "2025-06-06T09:18:05.200Z",
+  "extractionTimestamp": "2025-06-06T13:55:33.406Z",
   "source": "Maersk.com",
-  "claudeAnalysis": "Let me continue scrolling down to find the \"Search more sailing options\" button.",
+  "claudeAnalysis": "I can see the Maersk shipping rates page is displaying. Let me analyze what's shown and provide a comprehensive summary of the available shipping options.\n\n## Shipping Rates Summary\n\n### General Information:\n- Company: Maersk\n- Account: WHITE HOUSE (********345)\n- Booking Type: Spot and market rates\n\n### Available Shipping Options:\n\n1. **June 8 (Deadline has passed)**\n   - Container Type: 20' Dry Standard\n   - Quantity: 1×\n   - Status: Deadline has passed\n   - Price: Not clearly visible/applicable as deadline has passed\n\n2. **June 14**\n   - Price: $1,885.00 USD\n   - Service Type: All-inclusive, Maersk Spot\n   - Container Type: 20' Dry Standard\n   - Quantity: 1×\n   - Additional Details: Price details available (not expanded)\n\n3. **June 22**\n   - Price: $1,885.00 USD\n   - Service Type: All-inclusive, Maersk Spot\n   - Container Type: 20' Dry Standard\n   - Quantity: 1×\n   - Additional Details: Price details available (not expanded)\n\n### Best Value Options:\nBoth available options (June 14 and June 22) have identical pricing at $1,885.00 USD for the same container type and service. The choice between them would depend on the desired departure date rather than price.\n\n### Navigation Features:\n- Previous/Next buttons available to view more shipping dates\n- \"Price details\" buttons available for each option to see more information (not expanded as per request)\n\n### Additional Information:\n- The page has a date selection feature for cargo readiness\n- The current selected date appears to be June 15, 2025\n- There's a system notification about minor interruptions expected over the weekend due to maintenance work\n\n### Observations:\n- All available options shown are for the same container type (20' Dry Standard)\n- All options use the same service type (Maersk Spot)\n- The prices are consistent across different dates\n- The earliest option shown has already passed its deadline\n\nThis summary covers all the shipping options currently displayed on the page, including service types, prices, and departure dates. Would you like me to navigate to see more options or provide any additional information from this page?",
   "rateData": {
     "rates": [
       {
         "serviceName": "Maersk Spot",
-        "serviceType": "Ocean Freight",
-        "price": "USD 1,885.00",
+        "serviceType": "20 Dry Standard",
+        "price": "1,885.00",
         "currency": "USD",
-        "transitTime": "27 days 3 hours",
-        "departureDate": "14 Jun 2025, 03:00",
-        "arrivalDate": "11 Jul 2025, 07:00",
+        "transitTime": "",
+        "departureDate": "14 JUN",
+        "arrivalDate": "",
         "features": [
-          "Incl. 5 days of detention freetime",
-          "Get USD 25 per container if rolled"
+          "All-inclusive"
         ],
         "isRecommended": true
       },
       {
         "serviceName": "Maersk Spot",
-        "serviceType": "Ocean Freight",
-        "price": "USD 1,885.00",
+        "serviceType": "20 Dry Standard",
+        "price": "1,885.00",
         "currency": "USD",
-        "transitTime": "26 days 3 hours",
-        "departureDate": "22 Jun 2025, 03:00",
-        "arrivalDate": "18 Jul 2025, 07:00",
+        "transitTime": "",
+        "departureDate": "22 JUN",
+        "arrivalDate": "",
         "features": [
-          "Incl. 5 days of detention freetime",
-          "Get USD 25 per container if rolled"
+          "All-inclusive"
+        ],
+        "isRecommended": true
+      },
+      {
+        "serviceName": "Maersk Spot",
+        "serviceType": "20 Dry Standard",
+        "price": "1,885.00",
+        "currency": "USD",
+        "transitTime": "",
+        "departureDate": "29 JUN",
+        "arrivalDate": "",
+        "features": [
+          "All-inclusive"
         ],
         "isRecommended": true
       }
     ],
-    "totalOptionsFound": 2,
+    "totalOptionsFound": 3,
     "hasRateInformation": true,
     "pageType": "Shipping Rates",
     "additionalServices": [],
-    "specialOffers": [
-      "Get USD 25 per container if rolled"
-    ]
+    "specialOffers": []
   },
   "summary": {
-    "totalOptions": 2,
+    "totalOptions": 3,
     "hasRates": true,
     "pageAnalyzed": "Shipping Rates"
   }

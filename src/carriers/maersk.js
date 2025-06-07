@@ -466,6 +466,7 @@ export class MaerskCarrier {
                 Analyze this shipping rates page and provide a comprehensive summary of all available options.
                 Look for service types, prices, transit times, departure dates, and any special offers.
                 Identify the best value options and any premium services available.
+                No need to click on Price breakdowns and details, just extract the data available.
             `);
             
             logger.success('Claude rate analysis completed');
